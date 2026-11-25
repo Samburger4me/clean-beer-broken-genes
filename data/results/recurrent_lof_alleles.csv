@@ -1,0 +1,11 @@
+gene,hgvs_c,cds_pos,effect,protein_change,n_strains,n_records,n_called_LOF,groups
+FDC1,c.501dupA,501,frameshift,p.K167fs,71,73,73,Beer (Gallone) 60; Spirits 4; Other/Unknown 4; Baking 2; Ale 1; Lager 1; Wine 1
+FDC1,c.460C>T,460,nonsense,p.Q154*,57,57,57,Beer (Gallone) 52; Ale 1; Wine 1; Spirits 1; Baking 1; Other/Unknown 1
+PAD1,c.305G>A,305,nonsense,p.W102*,55,55,55,Beer (Gallone) 51; Ale 1; Wine 1; Spirits 1; Other/Unknown 1
+FDC1,c.160A>T,160,nonsense,p.K54*,12,12,12,Sake 7; Shochu/Awamori 3; Other/Unknown 1; Beer (Gallone) 1
+FDC1,c.1491G>A,1491,nonsense,p.W497*,4,4,0,Beer (Gallone) 4
+FDC1,c.1500C>G,1500,nonsense,p.Y500*,1,1,0,Other/Unknown 1
+FDC1,c.864delA,864,frameshift,p.G288fs,1,1,1,Laboratory 1
+FDC1,c.925A>T,925,nonsense,p.R309*,1,1,1,Wine 1
+PAD1,c.294T>G,294,nonsense,p.Y98*,1,1,1,Laboratory 1
+PAD1,c.306G>A,306,nonsense,p.W102*,1,1,1,Beer (Gallone) 1

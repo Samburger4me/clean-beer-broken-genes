@@ -1,0 +1,6 @@
+file,source_db,accession,url,description,retrieved
+4ZAC_A_CA_het.pdb,RCSB PDB,4ZAC,https://files.rcsb.org/download/4ZAC.pdb,"S. cerevisiae Fdc1 + prFMN (iminium; 4LU) + Mn2+ + K+, X-ray 1.65 A (Payne et al. 2015 Nature doi:10.1038/nature14560); chain A CA atoms + all HETATM (waters dropped); coordinate checksum verified vs download",2026-10-27
+AF-P33751-F1_CA.pdb,AlphaFold DB,AF-P33751-F1 (v6),https://alphafold.ebi.ac.uk/files/AF-P33751-F1-model_v6.pdb,"PAD1 predicted model (no experimental S. cerevisiae Pad1 structure in UniProt PDB xrefs); CA atoms only; B-factor = pLDDT; mean pLDDT 86.06",2026-10-27
+uniprot_features.json,UniProtKB,Q03034,https://rest.uniprot.org/uniprotkb/Q03034.json,"FDC1 sequence (503 aa), active site E285, prFMN/Mn binding sites, secondary structure",2026-10-27
+uniprot_features.json,UniProtKB,P33751,https://rest.uniprot.org/uniprotkb/P33751.json,"PAD1 sequence (242 aa), transit peptide 1-58, FMN/DMAP binding sites",2026-10-27
+uniprot_features.json,InterPro/Pfam,Q03034;P33751,https://www.ebi.ac.uk/interpro/api/entry/pfam/protein/uniprot/Q03034,"Pfam domains: FDC1 PF20695 14-102, PF01977 119-320, PF20696 328-464; PAD1 PF02441 50-201",2026-10-27

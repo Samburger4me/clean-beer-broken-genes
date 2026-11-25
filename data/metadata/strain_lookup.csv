@@ -1,0 +1,46 @@
+strain,species,group,source_niche,citation,notes
+S288C,S. cerevisiae,Laboratory,reference lab strain,SGD reference genome,FDC1/PAD1 intact; POF+ reference. Not domesticated for beverages
+BY4741,S. cerevisiae,Laboratory,S288C derivative,SGD,S288C background
+BY4742,S. cerevisiae,Laboratory,S288C derivative,SGD,S288C background
+SY14,S. cerevisiae,Laboratory,engineered single-chromosome strain,Shao et al. 2018 Nature PMID:30069045 doi:10.1038/s41586-018-0382-x,16 chromosomes fused into one; parent BY4742 per head-agent brief (abstract only says haploid S. cerevisiae). Expect S288C-like alleles
+CEN.PK113-7D,S. cerevisiae,Laboratory,lab strain,unverified (common knowledge),
+SK1,S. cerevisiae,Laboratory,lab strain (sporulation),Liti et al. 2009 Nature PMID:19212322 (SGRP),
+W303,S. cerevisiae,Laboratory,lab strain,unverified (common knowledge),mostly S288C-related background
+YJM789,S. cerevisiae,Clinical,clinical isolate (immunocompromised patient),unverified (common knowledge),
+RM11-1a,S. cerevisiae,Wine,vineyard isolate derivative (Bb32),unverified (common knowledge),haploid derivative of a California vineyard isolate; some sources call it wild
+EC1118,S. cerevisiae,Wine,commercial wine (Champagne),Mukai et al. 2014 PMID:24507903 (wine panel),Mukai found no LOF in wine strains -> expect POF+
+K1-V1116,S. cerevisiae,Wine,commercial wine (Lalvin),Mukai et al. 2014 PMID:24507903 (wine panel),expect POF+
+AWRI1631,S. cerevisiae,Wine,commercial wine (N96 derivative),unverified (Borneman 2008 FEMS Yeast Res - not checked),
+Lalvin QA23,S. cerevisiae,Wine,commercial wine,Borneman et al. 2011 PMID:21304888,one of the four wine strains sequenced
+VIN13,S. cerevisiae,Wine,commercial wine,Borneman et al. 2011 PMID:21304888,one of the four wine strains sequenced
+Kyokai wine yeast No.1,S. cerevisiae,Wine,Brewing Society of Japan wine yeast,Mukai et al. 2014 PMID:24507903 (wine panel),GenBank title says 'wine yeast Kyokai No.1' - this is NOT sake Kyokai No.1; could not verify identity (often equated with OC-2) - check title
+Kyokai wine yeast No.3,S. cerevisiae,Wine,Brewing Society of Japan wine yeast,Mukai et al. 2014 PMID:24507903,same caveat as No.1
+Kyokai wine yeast No.4,S. cerevisiae,Wine,Brewing Society of Japan wine yeast,Mukai et al. 2014 PMID:24507903,same caveat as No.1
+DBVPG6765,S. cerevisiae,Wine,European/wine clean lineage,Liti et al. 2009 Nature PMID:19212322,SGRP Wine/European lineage
+DBVPG6044,S. cerevisiae,Wild,West African lineage (bili wine),Liti et al. 2009 PMID:19212322,SGRP West African lineage; fermented-beverage origin so arguably Other
+YPS128,S. cerevisiae,Wild,oak tree Pennsylvania (North American),Liti et al. 2009 PMID:19212322,
+UWOPS03-461.4,S. cerevisiae,Wild,Malaysian bertam palm,Liti et al. 2009 PMID:19212322,Malaysian lineage
+Y12,S. cerevisiae,Sake,sake (SGRP Sake lineage),Liti et al. 2009 PMID:19212322,
+Kyokai No.6,S. cerevisiae,Sake,sake yeast,Mukai et al. 2014 PMID:24507903,sake strains carry FDC1 nonsense -> expect POF-
+Kyokai No.7,S. cerevisiae,Sake,sake yeast,Akao et al. 2011 DNA Res PMID:21900213 doi:10.1093/dnares/dsr029,also K7; expect FDC1 nonsense (POF-)
+K7,S. cerevisiae,Sake,sake yeast (=Kyokai No.7),Akao et al. 2011 PMID:21900213,
+Kyokai No.701,S. cerevisiae,Sake,non-foaming K7 derivative,Brewing Society of Japan,
+Kyokai No.9,S. cerevisiae,Sake,sake yeast,unverified (common knowledge),
+RIB6002,S. cerevisiae,Other/Unknown,NRIB collection strain,not verified,RIB = National Research Institute of Brewing collection; niche unknown - check GenBank title (LC0753xx)
+Shochu Kyokai No.2,S. cerevisiae,Shochu/Awamori,shochu yeast (S-2),Mukai et al. 2014 PMID:24507903 (shochu panel),shochu strains carry FDC1 nonsense -> expect POF-
+Awamori 101,S. cerevisiae,Shochu/Awamori,awamori yeast,Mukai et al. 2014 PMID:24507903 (assumed in shochu panel),
+Kagoshima yeast No.5,S. cerevisiae,Shochu/Awamori,Kagoshima shochu yeast,Mukai et al. 2014 PMID:24507903 (assumed),GenBank may spell 'Kagishima' (typo)
+N85,S. cerevisiae,Other/Unknown,Chinese rice wine (Huangjiu),Zhang et al. 2018 DNA Res PMID:29415277 doi:10.1093/dnares/dsy002,Asian rice-wine niche; could be pooled with Sake if needed
+NCIM3107,S. cerevisiae,Bioethanol,Indian bioethanol strain,Ulaganathan et al. 2015 Genome Announc PMID:25676764 doi:10.1128/genomeA.01557-14,Gallone: bioethanol strains retain 4-VG -> expect POF+
+JAY291,S. cerevisiae,Bioethanol,Brazilian bioethanol (PE-2 derivative),unverified (common knowledge),
+CBS 7960,S. cerevisiae,Bioethanol,Brazilian sugar-cane bioethanol isolate,unverified (common knowledge),
+NCYC240,S. cerevisiae,Ale,top-fermenting ale,Mukai et al. 2014 PMID:24507903 (top-fermenting panel),Mukai: standard top-fermenting yeast has PAD1 nonsense + FDC1 nonsense -> POF-
+Weihenstephan 68,S. cerevisiae,Wheat/Hefeweizen,German wheat beer,Mukai et al. 2014 PMID:24507903 (weizen panel); Gallone 2016 PMID:27610566,W68; weizen yeasts POF+ (no LOF); Gallone: Hefeweizen carries wine-derived functional PAD1/FDC1
+W68,S. cerevisiae,Wheat/Hefeweizen,German wheat beer,see Weihenstephan 68,
+Foster's B,S. cerevisiae,Ale,brewing strain,Borneman et al. 2011 PMID:21304888,one of two brewing strains sequenced
+Foster's O,S. cerevisiae,Ale,brewing strain,Borneman et al. 2011 PMID:21304888,one of two brewing strains sequenced
+NCYC984,S. pastorianus,Lager,bottom-fermenting lager,Mukai et al. 2014 PMID:24507903 (bottom-fermenting panel),Mukai: FDC1 frameshift in bottom-fermenting yeast -> POF-
+W34/70,S. pastorianus,Lager,Weihenstephan lager (Frohberg/group II),Mertens et al. 2019 PLoS One PMID:30625138 doi:10.1371/journal.pone.0209124,used as POF- control
+CBS1483,S. pastorianus,Lager,Heineken lager (group II),Mertens et al. 2019 PMID:30625138 (mentioned as industrial S. pastorianus),
+CBS1513,S. pastorianus,Lager,type strain of group I (Saaz),Magalhaes et al. 2016 FEMS Yeast Res PMID:27364826,
+Y7,S. cerevisiae,Other/Unknown,unknown,not verified,could not identify; check GenBank title

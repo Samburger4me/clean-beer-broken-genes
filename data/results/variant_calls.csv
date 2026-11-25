@@ -1,0 +1,2078 @@
+gene,sacc,strain,group,cds_pos,ref,alt,type,effect,protein_change,hgvs_c
+FDC1,AB293446.1,unnamed (AB293446.1),Other/Unknown,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,AB293446.1,unnamed (AB293446.1),Other/Unknown,160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,AB293446.1,unnamed (AB293446.1),Other/Unknown,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB293446.1,unnamed (AB293446.1),Other/Unknown,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,AB293446.1,unnamed (AB293446.1),Other/Unknown,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,AB368799.1,Kyokai No.6,Sake,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,AB368799.1,Kyokai No.6,Sake,160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,AB368799.1,Kyokai No.6,Sake,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB368799.1,Kyokai No.6,Sake,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,AB368799.1,Kyokai No.6,Sake,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,AB368803.1,Shochu Kyokai No.2,Shochu/Awamori,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,AB368803.1,Shochu Kyokai No.2,Shochu/Awamori,160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,AB368803.1,Shochu Kyokai No.2,Shochu/Awamori,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB368803.1,Shochu Kyokai No.2,Shochu/Awamori,335,T,C,SNV,missense,p.L112P,c.335T>C
+FDC1,AB368803.1,Shochu Kyokai No.2,Shochu/Awamori,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,AB368803.1,Shochu Kyokai No.2,Shochu/Awamori,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,AB368804.1,Awamori 101,Shochu/Awamori,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,AB368804.1,Awamori 101,Shochu/Awamori,160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,AB368804.1,Awamori 101,Shochu/Awamori,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB368804.1,Awamori 101,Shochu/Awamori,746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,AB368804.1,Awamori 101,Shochu/Awamori,1079,C,T,SNV,missense,p.A360V,c.1079C>T
+FDC1,AB368804.1,Awamori 101,Shochu/Awamori,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,AB368804.1,Awamori 101,Shochu/Awamori,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,AB368805.1,Kyokai wine yeast No.1,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB368806.1,Kyokai wine yeast No.3,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB368806.1,Kyokai wine yeast No.3,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,AB368806.1,Kyokai wine yeast No.3,Wine,633,T,C,SNV,synonymous,,c.633T>C
+FDC1,AB368807.1,EC1118,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB368807.1,EC1118,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,AB368807.1,EC1118,Wine,876,A,C,SNV,missense,p.K292N,c.876A>C
+FDC1,AB368808.1,Kyokai wine yeast No.4,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB368808.1,Kyokai wine yeast No.4,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,AB368808.1,Kyokai wine yeast No.4,Wine,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,AB368809.1,Weihenstephan 68,Wheat/Hefeweizen,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB368809.1,Weihenstephan 68,Wheat/Hefeweizen,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,AB368809.1,Weihenstephan 68,Wheat/Hefeweizen,1377,G,A,SNV,synonymous,,c.1377G>A
+FDC1,AB368810.1,NCYC240,Ale,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB368810.1,NCYC240,Ale,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,AB368810.1,NCYC240,Ale,460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,AB368810.1,NCYC240,Ale,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,AB368810.1,NCYC240,Ale,746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,AB368810.1,NCYC240,Ale,950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,AB368814.1,NCYC984,Lager,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB368814.1,NCYC984,Lager,433,C,T,SNV,missense,p.H145Y,c.433C>T
+FDC1,AB368814.1,NCYC984,Lager,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,AB368814.1,NCYC984,Lager,1410,T,C,SNV,synonymous,,c.1410T>C
+FDC1,AB368818.1,K1-V1116,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,AB368818.1,K1-V1116,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,AB368818.1,K1-V1116,Wine,673,G,A,SNV,missense,p.V225I,c.673G>A
+FDC1,AB368818.1,K1-V1116,Wine,1497,G,A,SNV,synonymous,,c.1497G>A
+FDC1,CM004674.1,wild007,Wild,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,CM004674.1,wild007,Wild,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004674.1,wild007,Wild,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM004690.1,wild003,Wild,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004706.1,wild005,Wild,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,CM004706.1,wild005,Wild,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004706.1,wild005,Wild,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM004722.1,wild006,Wild,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004722.1,wild006,Wild,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM004738.1,wild004,Wild,276,A,G,SNV,synonymous,,c.276A>G
+FDC1,CM004738.1,wild004,Wild,322,G,A,SNV,missense,p.E108K,c.322G>A
+FDC1,CM004738.1,wild004,Wild,328,G,A,SNV,missense,p.E110K,c.328G>A
+FDC1,CM004738.1,wild004,Wild,889,C,G,SNV,missense,p.P297A,c.889C>G
+FDC1,CM004738.1,wild004,Wild,940,C,T,SNV,synonymous,,c.940C>T
+FDC1,CM004738.1,wild004,Wild,1263,C,T,SNV,synonymous,,c.1263C>T
+FDC1,CM004754.1,wild002,Wild,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM004754.1,wild002,Wild,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004754.1,wild002,Wild,855,G,A,SNV,synonymous,,c.855G>A
+FDC1,CM004770.1,wild001,Wild,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM004770.1,wild001,Wild,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004770.1,wild001,Wild,855,G,A,SNV,synonymous,,c.855G>A
+FDC1,CM004786.2,wine018,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004786.2,wine018,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM004786.2,wine018,Wine,405,T,C,SNV,synonymous,,c.405T>C
+FDC1,CM004786.2,wine018,Wine,633,T,C,SNV,synonymous,,c.633T>C
+FDC1,CM004786.2,wine018,Wine,876,A,C,SNV,missense,p.K292N,c.876A>C
+FDC1,CM004802.1,wine019,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004802.1,wine019,Wine,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM004818.2,wine017,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004818.2,wine017,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM004818.2,wine017,Wine,449,G,A,SNV,missense,p.G150D,c.449G>A
+FDC1,CM004850.2,wine015,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004866.2,wine014,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004866.2,wine014,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM004866.2,wine014,Wine,633,T,C,SNV,synonymous,,c.633T>C
+FDC1,CM004866.2,wine014,Wine,925,A,T,SNV,nonsense,p.R309*,c.925A>T
+FDC1,CM004882.2,wine013,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004882.2,wine013,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM004882.2,wine013,Wine,673,G,A,SNV,missense,p.V225I,c.673G>A
+FDC1,CM004882.2,wine013,Wine,1497,G,A,SNV,synonymous,,c.1497G>A
+FDC1,CM004898.2,wine012,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004898.2,wine012,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM004898.2,wine012,Wine,460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM004898.2,wine012,Wine,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM004898.2,wine012,Wine,746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM004898.2,wine012,Wine,950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM004914.2,wine011,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004930.2,wine010,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004930.2,wine010,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM004930.2,wine010,Wine,633,T,C,SNV,synonymous,,c.633T>C
+FDC1,CM004930.2,wine010,Wine,876,A,C,SNV,missense,p.K292N,c.876A>C
+FDC1,CM004946.2,wine009,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004946.2,wine009,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM004946.2,wine009,Wine,673,G,A,SNV,missense,p.V225I,c.673G>A
+FDC1,CM004946.2,wine009,Wine,1497,G,A,SNV,synonymous,,c.1497G>A
+FDC1,CM004962.2,wine008,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004962.2,wine008,Wine,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM004978.2,wine007,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004978.2,wine007,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM004978.2,wine007,Wine,633,T,C,SNV,synonymous,,c.633T>C
+FDC1,CM004994.2,wine006,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM004994.2,wine006,Wine,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM005010.2,wine005,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005026.2,wine004,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005042.2,wine003,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005042.2,wine003,Wine,1449,G,A,SNV,synonymous,,c.1449G>A
+FDC1,CM005058.2,wine002,Wine,450,C,A,SNV,synonymous,,c.450C>A
+FDC1,CM005058.2,wine002,Wine,594,T,G,SNV,synonymous,,c.594T>G
+FDC1,CM005058.2,wine002,Wine,747,A,G,SNV,synonymous,,c.747A>G
+FDC1,CM005058.2,wine002,Wine,774,A,G,SNV,synonymous,,c.774A>G
+FDC1,CM005074.2,wine001,Wine,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005074.2,wine001,Wine,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005074.2,wine001,Wine,673,G,A,SNV,missense,p.V225I,c.673G>A
+FDC1,CM005074.2,wine001,Wine,1497,G,A,SNV,synonymous,,c.1497G>A
+FDC1,CM005090.1,spirits011,Spirits,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005106.1,spirits010,Spirits,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005122.1,spirits009,Spirits,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,CM005122.1,spirits009,Spirits,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005122.1,spirits009,Spirits,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005122.1,spirits009,Spirits,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005122.1,spirits009,Spirits,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM005138.1,spirits008,Spirits,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005138.1,spirits008,Spirits,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005138.1,spirits008,Spirits,460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005138.1,spirits008,Spirits,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005138.1,spirits008,Spirits,758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM005138.1,spirits008,Spirits,950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005154.1,spirits007,Spirits,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005170.1,spirits006,Spirits,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005186.1,spirits005,Spirits,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005186.1,spirits005,Spirits,790,A,G,SNV,missense,p.S264G,c.790A>G
+FDC1,CM005202.1,spirits003,Spirits,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,CM005202.1,spirits003,Spirits,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005202.1,spirits003,Spirits,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005202.1,spirits003,Spirits,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005202.1,spirits003,Spirits,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM005218.1,spirits004,Spirits,723,C,T,SNV,synonymous,,c.723C>T
+FDC1,CM005218.1,spirits004,Spirits,819,C,T,SNV,synonymous,,c.819C>T
+FDC1,CM005218.1,spirits004,Spirits,831,A,G,SNV,synonymous,,c.831A>G
+FDC1,CM005218.1,spirits004,Spirits,1414,C,T,SNV,missense,p.R472C,c.1414C>T
+FDC1,CM005234.1,spirits002,Spirits,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005234.1,spirits002,Spirits,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005234.1,spirits002,Spirits,673,G,A,SNV,missense,p.V225I,c.673G>A
+FDC1,CM005234.1,spirits002,Spirits,1497,G,A,SNV,synonymous,,c.1497G>A
+FDC1,CM005250.2,spirits001,Spirits,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,CM005250.2,spirits001,Spirits,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005250.2,spirits001,Spirits,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005250.2,spirits001,Spirits,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005266.1,sake007,Sake,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM005266.1,sake007,Sake,160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,CM005266.1,sake007,Sake,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005266.1,sake007,Sake,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM005266.1,sake007,Sake,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,CM005282.1,sake006,Sake,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM005282.1,sake006,Sake,160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,CM005282.1,sake006,Sake,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005282.1,sake006,Sake,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM005282.1,sake006,Sake,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,CM005298.1,sake005,Sake,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM005298.1,sake005,Sake,160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,CM005298.1,sake005,Sake,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005298.1,sake005,Sake,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM005298.1,sake005,Sake,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,CM005314.1,sake004,Sake,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM005314.1,sake004,Sake,160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,CM005314.1,sake004,Sake,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005314.1,sake004,Sake,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM005314.1,sake004,Sake,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,CM005330.1,sake003,Sake,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM005330.1,sake003,Sake,160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,CM005330.1,sake003,Sake,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005330.1,sake003,Sake,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM005330.1,sake003,Sake,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,CM005346.1,sake002,Sake,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005346.1,sake002,Sake,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005346.1,sake002,Sake,540,T,C,SNV,synonymous,,c.540T>C
+FDC1,CM005346.1,sake002,Sake,711,G,A,SNV,synonymous,,c.711G>A
+FDC1,CM005362.1,sake001,Sake,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM005362.1,sake001,Sake,160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,CM005362.1,sake001,Sake,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005362.1,sake001,Sake,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM005362.1,sake001,Sake,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,CM005394.1,laboratory001,Laboratory,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM005394.1,laboratory001,Laboratory,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005394.1,laboratory001,Laboratory,864,A,-,deletion,frameshift,p.G288fs,c.864delA
+FDC1,CM005394.1,laboratory001,Laboratory,888,T,C,SNV,synonymous,,c.888T>C
+FDC1,CM005394.1,laboratory001,Laboratory,1245,A,G,SNV,synonymous,,c.1245A>G
+FDC1,CM005410.1,bread002,Baking,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005426.1,bread004,Baking,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005426.1,bread004,Baking,460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005442.1,bread003,Baking,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,CM005442.1,bread003,Baking,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005442.1,bread003,Baking,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005442.1,bread003,Baking,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005442.1,bread003,Baking,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM005458.1,bioethanol005,Bioethanol,723,C,T,SNV,synonymous,,c.723C>T
+FDC1,CM005458.1,bioethanol005,Bioethanol,819,C,T,SNV,synonymous,,c.819C>T
+FDC1,CM005458.1,bioethanol005,Bioethanol,831,A,G,SNV,synonymous,,c.831A>G
+FDC1,CM005458.1,bioethanol005,Bioethanol,1414,C,T,SNV,missense,p.R472C,c.1414C>T
+FDC1,CM005474.1,bioethanol003,Bioethanol,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM005474.1,bioethanol003,Bioethanol,46,G,A,SNV,missense,p.V16I,c.46G>A
+FDC1,CM005474.1,bioethanol003,Bioethanol,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005474.1,bioethanol003,Bioethanol,912,G,A,SNV,synonymous,,c.912G>A
+FDC1,CM005474.1,bioethanol003,Bioethanol,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM005490.1,bioethanol004,Bioethanol,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM005490.1,bioethanol004,Bioethanol,46,G,A,SNV,missense,p.V16I,c.46G>A
+FDC1,CM005490.1,bioethanol004,Bioethanol,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005490.1,bioethanol004,Bioethanol,912,G,A,SNV,synonymous,,c.912G>A
+FDC1,CM005490.1,bioethanol004,Bioethanol,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM005506.1,bread001,Baking,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,CM005506.1,bread001,Baking,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005506.1,bread001,Baking,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005506.1,bread001,Baking,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005506.1,bread001,Baking,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,12,A,G,SNV,synonymous,,c.12A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,30,T,C,SNV,synonymous,,c.30T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,45,G,A,SNV,synonymous,,c.45G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,48,C,T,SNV,synonymous,,c.48C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,49,T,C,SNV,synonymous,,c.49T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,57,T,C,SNV,synonymous,,c.57T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,78,T,C,SNV,synonymous,,c.78T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,81,C,T,SNV,synonymous,,c.81C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,87,G,A,SNV,synonymous,,c.87G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,90,T,A,SNV,synonymous,,c.90T>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,102,C,A,SNV,synonymous,,c.102C>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,111,T,C,SNV,synonymous,,c.111T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,117,T,C,SNV,synonymous,,c.117T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,123,G,A,SNV,synonymous,,c.123G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,126,G,A,SNV,synonymous,,c.126G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,129,C,G,SNV,synonymous,,c.129C>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,132,T,C,SNV,synonymous,,c.132T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,138,C,T,SNV,synonymous,,c.138C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,144,A,G,SNV,synonymous,,c.144A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,150,C,T,SNV,synonymous,,c.150C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,153,G,A,SNV,synonymous,,c.153G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,159,T,C,SNV,synonymous,,c.159T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,166,C,G,SNV,missense,p.L56V,c.166C>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,168,C,G,SNV,missense,p.L56V,c.168C>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,170,A,T,SNV,missense,p.K57I,c.170A>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,183,G,A,SNV,synonymous,,c.183G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,192,C,T,SNV,synonymous,,c.192C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,201,A,G,SNV,synonymous,,c.201A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,207,C,T,SNV,synonymous,,c.207C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,228,G,C,SNV,missense,p.K76N,c.228G>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,264,G,A,SNV,synonymous,,c.264G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,270,C,T,SNV,synonymous,,c.270C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,279,A,G,SNV,synonymous,,c.279A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,285,T,G,SNV,synonymous,,c.285T>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,291,G,A,SNV,synonymous,,c.291G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,293,A,G,SNV,missense,p.E98G,c.293A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,312,G,T,SNV,synonymous,,c.312G>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,315,G,A,SNV,synonymous,,c.315G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,321,G,A,SNV,synonymous,,c.321G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,328,G,A,SNV,missense,p.E110K,c.328G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,333,T,G,SNV,synonymous,,c.333T>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,336,C,T,SNV,synonymous,,c.336C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,344,T,C,SNV,missense,p.I115T,c.344T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,354,T,C,SNV,synonymous,,c.354T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,363,T,C,SNV,synonymous,,c.363T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,366,A,G,SNV,synonymous,,c.366A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,372,T,C,SNV,synonymous,,c.372T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,375,A,G,SNV,synonymous,,c.375A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,390,T,C,SNV,synonymous,,c.390T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,396,A,T,SNV,missense,p.E132D,c.396A>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,402,A,C,SNV,synonymous,,c.402A>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,414,C,T,SNV,synonymous,,c.414C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,430,C,T,SNV,synonymous,,c.430C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,450,C,A,SNV,synonymous,,c.450C>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,453,G,A,SNV,synonymous,,c.453G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,459,A,G,SNV,synonymous,,c.459A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,468,C,T,SNV,synonymous,,c.468C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,471,A,G,SNV,synonymous,,c.471A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,481,C,T,SNV,synonymous,,c.481C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,483,T,A,SNV,synonymous,,c.483T>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,507,T,A,SNV,synonymous,,c.507T>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,546,G,A,SNV,synonymous,,c.546G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,567,T,C,SNV,synonymous,,c.567T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,573,A,G,SNV,synonymous,,c.573A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,576,A,G,SNV,synonymous,,c.576A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,579,T,C,SNV,synonymous,,c.579T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,588,A,G,SNV,synonymous,,c.588A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,594,T,C,SNV,synonymous,,c.594T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,606,A,G,SNV,synonymous,,c.606A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,609,A,G,SNV,synonymous,,c.609A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,615,A,C,SNV,synonymous,,c.615A>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,620,C,G,SNV,missense,p.A207G,c.620C>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,651,C,T,SNV,synonymous,,c.651C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,654,T,C,SNV,synonymous,,c.654T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,663,A,G,SNV,synonymous,,c.663A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,666,T,C,SNV,synonymous,,c.666T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,681,C,T,SNV,synonymous,,c.681C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,699,T,C,SNV,synonymous,,c.699T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,700,G,A,SNV,missense,p.V234I,c.700G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,702,T,C,SNV,missense,p.V234I,c.702T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,720,T,G,SNV,synonymous,,c.720T>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,730,T,C,SNV,synonymous,,c.730T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,741,G,A,SNV,synonymous,,c.741G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,762,G,A,SNV,synonymous,,c.762G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,765,C,T,SNV,synonymous,,c.765C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,816,G,A,SNV,synonymous,,c.816G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,830,C,A,SNV,missense,p.T277K,c.830C>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,837,G,A,SNV,synonymous,,c.837G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,840,A,G,SNV,synonymous,,c.840A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,878,G,A,SNV,missense,p.S293N,c.878G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,882,A,G,SNV,synonymous,,c.882A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,912,G,A,SNV,synonymous,,c.912G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,915,T,C,SNV,synonymous,,c.915T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,930,C,A,SNV,missense,p.D310E,c.930C>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,942,A,G,SNV,synonymous,,c.942A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,948,T,A,SNV,synonymous,,c.948T>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,951,G,A,SNV,synonymous,,c.951G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,957,C,A,SNV,synonymous,,c.957C>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,975,G,A,SNV,synonymous,,c.975G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,978,A,T,SNV,synonymous,,c.978A>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,981,T,C,SNV,synonymous,,c.981T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,984,C,T,SNV,synonymous,,c.984C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,987,G,A,SNV,synonymous,,c.987G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,1023,G,T,SNV,synonymous,,c.1023G>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,1035,T,C,SNV,synonymous,,c.1035T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1045,A,G,SNV,missense,p.I349V,c.1045A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1050,G,C,SNV,synonymous,,c.1050G>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1065,T,G,SNV,synonymous,,c.1065T>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1090,A,G,SNV,missense,p.I364V,c.1090A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1095,A,G,SNV,synonymous,,c.1095A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1104,T,C,SNV,synonymous,,c.1104T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1119,A,G,SNV,synonymous,,c.1119A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1131,A,C,SNV,synonymous,,c.1131A>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1134,G,A,SNV,synonymous,,c.1134G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,1143,A,G,SNV,synonymous,,c.1143A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1149,T,C,SNV,synonymous,,c.1149T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1158,A,C,SNV,synonymous,,c.1158A>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1161,T,C,SNV,synonymous,,c.1161T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1167,T,C,SNV,synonymous,,c.1167T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1177,A,G,SNV,missense,p.T393A,c.1177A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1188,T,A,SNV,synonymous,,c.1188T>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,1194,A,C,SNV,synonymous,,c.1194A>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1207,A,G,SNV,missense,p.I403V,c.1207A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1209,T,C,SNV,missense,p.I403V,c.1209T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1212,G,A,SNV,synonymous,,c.1212G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,1215,G,T,SNV,synonymous,,c.1215G>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,1236,T,C,SNV,synonymous,,c.1236T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1263,C,T,SNV,synonymous,,c.1263C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,1266,T,C,SNV,synonymous,,c.1266T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1278,A,G,SNV,synonymous,,c.1278A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1290,T,C,SNV,synonymous,,c.1290T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1294,A,G,SNV,missense,p.M432V,c.1294A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1299,T,C,SNV,synonymous,,c.1299T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1303,G,A,SNV,missense,p.D435N,c.1303G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,1348,T,C,SNV,missense,p.S450P,c.1348T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1350,C,T,SNV,missense,p.S450P,c.1350C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,1407,A,G,SNV,synonymous,,c.1407A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1419,T,C,SNV,synonymous,,c.1419T>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1431,A,C,SNV,synonymous,,c.1431A>C
+FDC1,CM005522.1,bioethanol002,Bioethanol,1460,A,G,SNV,missense,p.K487S,c.1460A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1461,A,T,SNV,missense,p.K487S,c.1461A>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,1463,G,A,SNV,missense,p.G488E,c.1463G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,1473,C,T,SNV,synonymous,,c.1473C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,1479,A,G,SNV,synonymous,,c.1479A>G
+FDC1,CM005522.1,bioethanol002,Bioethanol,1496,G,A,SNV,missense,p.R499K,c.1496G>A
+FDC1,CM005522.1,bioethanol002,Bioethanol,1500,C,T,SNV,synonymous,,c.1500C>T
+FDC1,CM005522.1,bioethanol002,Bioethanol,1506,T,C,SNV,synonymous,,c.1506T>C
+FDC1,CM005538.1,bioethanol001,Bioethanol,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM005538.1,bioethanol001,Bioethanol,46,G,A,SNV,missense,p.V16I,c.46G>A
+FDC1,CM005538.1,bioethanol001,Bioethanol,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005538.1,bioethanol001,Bioethanol,912,G,A,SNV,synonymous,,c.912G>A
+FDC1,CM005538.1,bioethanol001,Bioethanol,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM005554.1,beer102,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005554.1,beer102,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005554.1,beer102,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005554.1,beer102,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005554.1,beer102,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM005554.1,beer102,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005570.1,beer101,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005570.1,beer101,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005570.1,beer101,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005570.1,beer101,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005570.1,beer101,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM005570.1,beer101,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005586.1,beer099,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005586.1,beer099,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005586.1,beer099,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005586.1,beer099,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005586.1,beer099,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM005586.1,beer099,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005602.1,beer100,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005602.1,beer100,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005602.1,beer100,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005602.1,beer100,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005602.1,beer100,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM005602.1,beer100,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005618.1,beer098,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005618.1,beer098,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005618.1,beer098,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005618.1,beer098,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005618.1,beer098,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM005618.1,beer098,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005634.1,beer097,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005634.1,beer097,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005634.1,beer097,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005634.1,beer097,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005634.1,beer097,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM005634.1,beer097,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005650.1,beer095,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005650.1,beer095,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005650.1,beer095,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005650.1,beer095,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005650.1,beer095,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM005650.1,beer095,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005666.1,beer096,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005666.1,beer096,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005666.1,beer096,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005666.1,beer096,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005666.1,beer096,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM005666.1,beer096,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005682.1,beer094,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005682.1,beer094,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005682.1,beer094,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005682.1,beer094,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005682.1,beer094,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM005682.1,beer094,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005698.1,beer093,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005698.1,beer093,Beer (Gallone),1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM005698.1,beer093,Beer (Gallone),1377,G,A,SNV,synonymous,,c.1377G>A
+FDC1,CM005714.1,beer092,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005714.1,beer092,Beer (Gallone),829,A,G,SNV,missense,p.T277A,c.829A>G
+FDC1,CM005714.1,beer092,Beer (Gallone),1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM005730.1,beer091,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005730.1,beer091,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005746.1,beer090,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005746.1,beer090,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005746.1,beer090,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005746.1,beer090,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005746.1,beer090,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM005746.1,beer090,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005762.1,beer089,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005762.1,beer089,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005762.1,beer089,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005762.1,beer089,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005762.1,beer089,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM005762.1,beer089,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005778.1,beer088,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005778.1,beer088,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005778.1,beer088,Beer (Gallone),673,G,A,SNV,missense,p.V225I,c.673G>A
+FDC1,CM005778.1,beer088,Beer (Gallone),1497,G,A,SNV,synonymous,,c.1497G>A
+FDC1,CM005794.1,beer087,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005794.1,beer087,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005794.1,beer087,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005794.1,beer087,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005794.1,beer087,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM005794.1,beer087,Beer (Gallone),1005,T,A,SNV,synonymous,,c.1005T>A
+FDC1,CM005794.1,beer087,Beer (Gallone),1410,T,C,SNV,synonymous,,c.1410T>C
+FDC1,CM005810.1,beer086,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005826.1,beer085,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005826.1,beer085,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005842.1,beer084,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005842.1,beer084,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005858.1,beer083,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005858.1,beer083,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005874.1,beer082,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005874.1,beer082,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005874.1,beer082,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005874.1,beer082,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005874.1,beer082,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM005874.1,beer082,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005890.1,beer081,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005890.1,beer081,Beer (Gallone),829,A,G,SNV,missense,p.T277A,c.829A>G
+FDC1,CM005906.1,beer080,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005906.1,beer080,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005922.1,beer079,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005922.1,beer079,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM005922.1,beer079,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM005922.1,beer079,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM005922.1,beer079,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM005922.1,beer079,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM005938.1,beer078,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005938.1,beer078,Beer (Gallone),790,A,G,SNV,missense,p.S264G,c.790A>G
+FDC1,CM005954.1,beer077,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005954.1,beer077,Beer (Gallone),790,A,G,SNV,missense,p.S264G,c.790A>G
+FDC1,CM005970.1,beer076,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005970.1,beer076,Beer (Gallone),790,A,G,SNV,missense,p.S264G,c.790A>G
+FDC1,CM005986.1,beer075,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM005986.1,beer075,Beer (Gallone),790,A,G,SNV,missense,p.S264G,c.790A>G
+FDC1,CM006002.1,beer074,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006002.1,beer074,Beer (Gallone),1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM006002.1,beer074,Beer (Gallone),1377,G,A,SNV,synonymous,,c.1377G>A
+FDC1,CM006018.1,beer073,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006018.1,beer073,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006018.1,beer073,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006018.1,beer073,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006018.1,beer073,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006018.1,beer073,Beer (Gallone),1005,T,A,SNV,synonymous,,c.1005T>A
+FDC1,CM006018.1,beer073,Beer (Gallone),1410,T,C,SNV,synonymous,,c.1410T>C
+FDC1,CM006034.1,beer072,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006034.1,beer072,Beer (Gallone),1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM006034.1,beer072,Beer (Gallone),1377,G,A,SNV,synonymous,,c.1377G>A
+FDC1,CM006050.1,beer071,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006050.1,beer071,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006050.1,beer071,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006050.1,beer071,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006050.1,beer071,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006050.1,beer071,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006066.1,beer070,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006066.1,beer070,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006066.1,beer070,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006066.1,beer070,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006066.1,beer070,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006066.1,beer070,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006082.1,beer069,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006082.1,beer069,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006082.1,beer069,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006082.1,beer069,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006082.1,beer069,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006082.1,beer069,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006098.1,beer068,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006098.1,beer068,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006098.1,beer068,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006098.1,beer068,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006098.1,beer068,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006098.1,beer068,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006114.1,beer067,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006114.1,beer067,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006114.1,beer067,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006114.1,beer067,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006114.1,beer067,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006114.1,beer067,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006130.1,beer066,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006130.1,beer066,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006130.1,beer066,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006130.1,beer066,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006130.1,beer066,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006130.1,beer066,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006146.1,beer065,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006146.1,beer065,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006146.1,beer065,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006146.1,beer065,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006146.1,beer065,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006146.1,beer065,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006162.1,beer064,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006162.1,beer064,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006162.1,beer064,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006162.1,beer064,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006162.1,beer064,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006162.1,beer064,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006178.1,beer063,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006194.1,beer062,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006194.1,beer062,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006210.1,beer061,Beer (Gallone),163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,CM006210.1,beer061,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006210.1,beer061,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006210.1,beer061,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006210.1,beer061,Beer (Gallone),1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM006226.1,beer060,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006226.1,beer060,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006226.1,beer060,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006226.1,beer060,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006226.1,beer060,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006226.1,beer060,Beer (Gallone),1410,T,C,SNV,synonymous,,c.1410T>C
+FDC1,CM006242.1,beer059,Beer (Gallone),9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM006242.1,beer059,Beer (Gallone),160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,CM006242.1,beer059,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006242.1,beer059,Beer (Gallone),1056,C,T,SNV,synonymous,,c.1056C>T
+FDC1,CM006242.1,beer059,Beer (Gallone),1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM006242.1,beer059,Beer (Gallone),1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,CM006258.1,beer058,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006258.1,beer058,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006258.1,beer058,Beer (Gallone),790,A,G,SNV,missense,p.S264G,c.790A>G
+FDC1,CM006274.1,beer057,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006274.1,beer057,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006274.1,beer057,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006274.1,beer057,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006274.1,beer057,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006274.1,beer057,Beer (Gallone),1410,T,C,SNV,synonymous,,c.1410T>C
+FDC1,CM006290.1,beer056,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006290.1,beer056,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006290.1,beer056,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006290.1,beer056,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006290.1,beer056,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006290.1,beer056,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006306.1,beer055,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006306.1,beer055,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006306.1,beer055,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006306.1,beer055,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006306.1,beer055,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006306.1,beer055,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006322.1,beer054,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006322.1,beer054,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006322.1,beer054,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006322.1,beer054,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006322.1,beer054,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006322.1,beer054,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006338.1,beer053,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006338.1,beer053,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006338.1,beer053,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006338.1,beer053,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006338.1,beer053,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006338.1,beer053,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006354.1,beer052,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006354.1,beer052,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006354.1,beer052,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006354.1,beer052,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006354.1,beer052,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006354.1,beer052,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006370.1,beer051,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006370.1,beer051,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006370.1,beer051,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006370.1,beer051,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006370.1,beer051,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006370.1,beer051,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006386.1,beer050,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006386.1,beer050,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006386.1,beer050,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006386.1,beer050,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006386.1,beer050,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006386.1,beer050,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006402.1,beer049,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006402.1,beer049,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006402.1,beer049,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006402.1,beer049,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006402.1,beer049,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006402.1,beer049,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006418.1,beer048,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006418.1,beer048,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006418.1,beer048,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006418.1,beer048,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006418.1,beer048,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006418.1,beer048,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006434.1,beer047,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006434.1,beer047,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006434.1,beer047,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006434.1,beer047,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006434.1,beer047,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006434.1,beer047,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006450.1,beer046,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006450.1,beer046,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006450.1,beer046,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006450.1,beer046,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006450.1,beer046,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006450.1,beer046,Beer (Gallone),1005,T,A,SNV,synonymous,,c.1005T>A
+FDC1,CM006450.1,beer046,Beer (Gallone),1410,T,C,SNV,synonymous,,c.1410T>C
+FDC1,CM006466.1,beer045,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006466.1,beer045,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006466.1,beer045,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006466.1,beer045,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006466.1,beer045,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006466.1,beer045,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006482.1,beer044,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006482.1,beer044,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006482.1,beer044,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006482.1,beer044,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006482.1,beer044,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006482.1,beer044,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006498.1,beer043,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006498.1,beer043,Beer (Gallone),829,A,G,SNV,missense,p.T277A,c.829A>G
+FDC1,CM006498.1,beer043,Beer (Gallone),1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM006514.1,beer042,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006514.1,beer042,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006514.1,beer042,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006514.1,beer042,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006514.1,beer042,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006514.1,beer042,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006530.1,beer041,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006530.1,beer041,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006530.1,beer041,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006530.1,beer041,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006530.1,beer041,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006530.1,beer041,Beer (Gallone),1005,T,A,SNV,synonymous,,c.1005T>A
+FDC1,CM006530.1,beer041,Beer (Gallone),1410,T,C,SNV,synonymous,,c.1410T>C
+FDC1,CM006546.1,beer040,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006546.1,beer040,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006546.1,beer040,Beer (Gallone),1491,G,A,SNV,nonsense,p.W497*,c.1491G>A
+FDC1,CM006562.1,beer039,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006562.1,beer039,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006562.1,beer039,Beer (Gallone),1491,G,A,SNV,nonsense,p.W497*,c.1491G>A
+FDC1,CM006578.1,beer037,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006578.1,beer037,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006578.1,beer037,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006578.1,beer037,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006578.1,beer037,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006578.1,beer037,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006594.1,beer038,Beer (Gallone),163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,CM006594.1,beer038,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006594.1,beer038,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006594.1,beer038,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006594.1,beer038,Beer (Gallone),1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM006610.1,beer036,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006610.1,beer036,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006610.1,beer036,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006610.1,beer036,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006610.1,beer036,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM006610.1,beer036,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006626.1,beer035,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006626.1,beer035,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006626.1,beer035,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006626.1,beer035,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006626.1,beer035,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006626.1,beer035,Beer (Gallone),1410,T,C,SNV,synonymous,,c.1410T>C
+FDC1,CM006642.1,beer034,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006642.1,beer034,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006658.1,beer032,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006658.1,beer032,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006674.1,beer033,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006674.1,beer033,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006674.1,beer033,Beer (Gallone),673,G,A,SNV,missense,p.V225I,c.673G>A
+FDC1,CM006674.1,beer033,Beer (Gallone),1497,G,A,SNV,synonymous,,c.1497G>A
+FDC1,CM006690.1,beer031,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006690.1,beer031,Beer (Gallone),790,A,G,SNV,missense,p.S264G,c.790A>G
+FDC1,CM006706.1,beer030,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006722.1,beer028,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006722.1,beer028,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006722.1,beer028,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006738.1,beer029,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006738.1,beer029,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006738.1,beer029,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006738.1,beer029,Beer (Gallone),577,C,T,SNV,missense,p.H193Y,c.577C>T
+FDC1,CM006738.1,beer029,Beer (Gallone),1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,CM006754.1,beer027,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006754.1,beer027,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006770.1,beer026,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006770.1,beer026,Beer (Gallone),790,A,G,SNV,missense,p.S264G,c.790A>G
+FDC1,CM006786.1,beer024,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006786.1,beer024,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006786.1,beer024,Beer (Gallone),673,G,A,SNV,missense,p.V225I,c.673G>A
+FDC1,CM006786.1,beer024,Beer (Gallone),1497,G,A,SNV,synonymous,,c.1497G>A
+FDC1,CM006802.1,beer025,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006802.1,beer025,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006802.1,beer025,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006818.1,beer023,Beer (Gallone),9,G,A,SNV,synonymous,,c.9G>A
+FDC1,CM006818.1,beer023,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006834.1,beer022,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006834.1,beer022,Beer (Gallone),790,A,G,SNV,missense,p.S264G,c.790A>G
+FDC1,CM006850.1,beer021,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006850.1,beer021,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006866.1,beer020,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006866.1,beer020,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006866.1,beer020,Beer (Gallone),633,T,C,SNV,synonymous,,c.633T>C
+FDC1,CM006882.1,beer019,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006882.1,beer019,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006882.1,beer019,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006882.1,beer019,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006882.1,beer019,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006914.1,beer016,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006914.1,beer016,Beer (Gallone),790,A,G,SNV,missense,p.S264G,c.790A>G
+FDC1,CM006930.1,beer017,Beer (Gallone),153,G,T,SNV,synonymous,,c.153G>T
+FDC1,CM006930.1,beer017,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006930.1,beer017,Beer (Gallone),433,C,T,SNV,missense,p.H145Y,c.433C>T
+FDC1,CM006930.1,beer017,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006930.1,beer017,Beer (Gallone),1410,T,C,SNV,synonymous,,c.1410T>C
+FDC1,CM006946.1,beer015,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006946.1,beer015,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006946.1,beer015,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006946.1,beer015,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006946.1,beer015,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM006946.1,beer015,Beer (Gallone),1414,C,T,SNV,missense,p.R472C,c.1414C>T
+FDC1,CM006962.1,beer013,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006962.1,beer013,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006978.1,beer014,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006994.1,beer012,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM006994.1,beer012,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM006994.1,beer012,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM006994.1,beer012,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM006994.1,beer012,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM006994.1,beer012,Beer (Gallone),1005,T,A,SNV,synonymous,,c.1005T>A
+FDC1,CM006994.1,beer012,Beer (Gallone),1410,T,C,SNV,synonymous,,c.1410T>C
+FDC1,CM007010.1,beer011,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM007010.1,beer011,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM007010.1,beer011,Beer (Gallone),1491,G,A,SNV,nonsense,p.W497*,c.1491G>A
+FDC1,CM007026.1,beer010,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM007026.1,beer010,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM007026.1,beer010,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM007026.1,beer010,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM007026.1,beer010,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM007026.1,beer010,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM007042.1,beer009,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM007042.1,beer009,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM007042.1,beer009,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM007042.1,beer009,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM007042.1,beer009,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM007042.1,beer009,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM007058.1,beer008,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM007058.1,beer008,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM007058.1,beer008,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM007058.1,beer008,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM007058.1,beer008,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM007058.1,beer008,Beer (Gallone),1005,T,A,SNV,synonymous,,c.1005T>A
+FDC1,CM007058.1,beer008,Beer (Gallone),1410,T,C,SNV,synonymous,,c.1410T>C
+FDC1,CM007074.1,beer007,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM007074.1,beer007,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM007074.1,beer007,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM007074.1,beer007,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM007074.1,beer007,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM007074.1,beer007,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM007090.1,beer006,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM007090.1,beer006,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM007090.1,beer006,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM007106.1,beer005,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM007106.1,beer005,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM007106.1,beer005,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM007106.1,beer005,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM007106.1,beer005,Beer (Gallone),758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,CM007122.1,beer004,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM007122.1,beer004,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM007122.1,beer004,Beer (Gallone),1491,G,A,SNV,nonsense,p.W497*,c.1491G>A
+FDC1,CM007138.1,beer003,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM007138.1,beer003,Beer (Gallone),829,A,G,SNV,missense,p.T277A,c.829A>G
+FDC1,CM007138.1,beer003,Beer (Gallone),1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CM007154.1,beer001,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM007154.1,beer001,Beer (Gallone),339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CM007154.1,beer001,Beer (Gallone),460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,CM007154.1,beer001,Beer (Gallone),501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,CM007154.1,beer001,Beer (Gallone),746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,CM007154.1,beer001,Beer (Gallone),950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,CM007170.1,beer002,Beer (Gallone),219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CM007170.1,beer002,Beer (Gallone),909,C,G,SNV,synonymous,,c.909C>G
+FDC1,CP009945.1,NCIM3107,Bioethanol,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,CP009945.1,NCIM3107,Bioethanol,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,CP009945.1,NCIM3107,Bioethanol,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,CP009945.1,NCIM3107,Bioethanol,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,CP009945.1,NCIM3107,Bioethanol,1110,A,R,ambiguous,unknown,,c.1110A>R
+FDC1,LC075318.1,Kagoshima yeast No.5,Shochu/Awamori,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,LC075318.1,Kagoshima yeast No.5,Shochu/Awamori,160,A,T,SNV,nonsense,p.K54*,c.160A>T
+FDC1,LC075318.1,Kagoshima yeast No.5,Shochu/Awamori,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,LC075318.1,Kagoshima yeast No.5,Shochu/Awamori,746,C,T,SNV,missense,p.P249L,c.746C>T
+FDC1,LC075318.1,Kagoshima yeast No.5,Shochu/Awamori,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,LC075318.1,Kagoshima yeast No.5,Shochu/Awamori,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,LC075323.1,RIB6002,Other/Unknown,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,LC075323.1,RIB6002,Other/Unknown,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,LC075323.1,RIB6002,Other/Unknown,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,LC075323.1,RIB6002,Other/Unknown,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,LC075323.1,RIB6002,Other/Unknown,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,LC075324.1,RIB6002,Other/Unknown,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,LC075324.1,RIB6002,Other/Unknown,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,LC075324.1,RIB6002,Other/Unknown,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,LC075324.1,RIB6002,Other/Unknown,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,LC075324.1,RIB6002,Other/Unknown,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,LC075324.1,RIB6002,Other/Unknown,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,LC075324.1,RIB6002,Other/Unknown,1175,G,T,SNV,missense,p.R392M,c.1175G>T
+FDC1,LC075325.1,RIB6002,Other/Unknown,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,LC075325.1,RIB6002,Other/Unknown,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,LC075325.1,RIB6002,Other/Unknown,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,LC075325.1,RIB6002,Other/Unknown,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,LC075325.1,RIB6002,Other/Unknown,1092,C,T,SNV,synonymous,,c.1092C>T
+FDC1,LC075325.1,RIB6002,Other/Unknown,1335,T,C,SNV,synonymous,,c.1335T>C
+FDC1,LC075325.1,RIB6002,Other/Unknown,1485,A,T,SNV,missense,p.E495D,c.1485A>T
+FDC1,LC493900.1,Y7,Other/Unknown,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,LC493900.1,Y7,Other/Unknown,339,C,T,SNV,synonymous,,c.339C>T
+FDC1,LC493900.1,Y7,Other/Unknown,460,C,T,SNV,nonsense,p.Q154*,c.460C>T
+FDC1,LC493900.1,Y7,Other/Unknown,501,-,A,duplication,frameshift,p.K167fs,c.501dupA
+FDC1,LC493900.1,Y7,Other/Unknown,758,G,A,SNV,missense,p.C253Y,c.758G>A
+FDC1,LC493900.1,Y7,Other/Unknown,950,C,T,SNV,missense,p.S317L,c.950C>T
+FDC1,LN907787.1,N85,Other/Unknown,9,G,A,SNV,synonymous,,c.9G>A
+FDC1,LN907787.1,N85,Other/Unknown,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,LN907787.1,N85,Other/Unknown,1389,T,C,SNV,synonymous,,c.1389T>C
+FDC1,LN907787.1,N85,Other/Unknown,1500,C,G,SNV,nonsense,p.Y500*,c.1500C>G
+FDC1,PX845829.1,unnamed (PX845829.1),Other/Unknown,163,A,T,SNV,missense,p.N55Y,c.163A>T
+FDC1,PX845829.1,unnamed (PX845829.1),Other/Unknown,219,G,A,SNV,synonymous,,c.219G>A
+FDC1,PX845829.1,unnamed (PX845829.1),Other/Unknown,1092,C,T,SNV,synonymous,,c.1092C>T
+PAD1,AB293446.1,unnamed (AB293446.1),Other/Unknown,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,AB293446.1,unnamed (AB293446.1),Other/Unknown,119,T,A,SNV,missense,p.L40Q,c.119T>A
+PAD1,AB293446.1,unnamed (AB293446.1),Other/Unknown,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,AB293446.1,unnamed (AB293446.1),Other/Unknown,172,G,A,SNV,missense,p.V58I,c.172G>A
+PAD1,AB293446.1,unnamed (AB293446.1),Other/Unknown,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,AB293446.1,unnamed (AB293446.1),Other/Unknown,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,AB368778.1,Kyokai No.6,Sake,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,AB368778.1,Kyokai No.6,Sake,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,AB368778.1,Kyokai No.6,Sake,172,G,A,SNV,missense,p.V58I,c.172G>A
+PAD1,AB368778.1,Kyokai No.6,Sake,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,AB368778.1,Kyokai No.6,Sake,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,AB368782.1,Shochu Kyokai No.2,Shochu/Awamori,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,AB368782.1,Shochu Kyokai No.2,Shochu/Awamori,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,AB368782.1,Shochu Kyokai No.2,Shochu/Awamori,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,AB368782.1,Shochu Kyokai No.2,Shochu/Awamori,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,AB368784.1,Kyokai wine yeast No.1,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,AB368784.1,Kyokai wine yeast No.1,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,AB368784.1,Kyokai wine yeast No.1,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,AB368784.1,Kyokai wine yeast No.1,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,AB368784.1,Kyokai wine yeast No.1,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,AB368784.1,Kyokai wine yeast No.1,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,AB368784.1,Kyokai wine yeast No.1,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,AB368786.1,Kyokai wine yeast No.3,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,AB368786.1,Kyokai wine yeast No.3,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,AB368786.1,Kyokai wine yeast No.3,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,AB368786.1,Kyokai wine yeast No.3,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,AB368786.1,Kyokai wine yeast No.3,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,AB368786.1,Kyokai wine yeast No.3,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,AB368786.1,Kyokai wine yeast No.3,Wine,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,AB368786.1,Kyokai wine yeast No.3,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,AB368787.1,EC1118,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,AB368787.1,EC1118,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,AB368787.1,EC1118,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,AB368787.1,EC1118,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,AB368787.1,EC1118,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,AB368787.1,EC1118,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,AB368787.1,EC1118,Wine,504,T,A,SNV,synonymous,,c.504T>A
+PAD1,AB368787.1,EC1118,Wine,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,AB368787.1,EC1118,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,AB368789.1,NCYC240,Ale,45,A,G,SNV,synonymous,,c.45A>G
+PAD1,AB368789.1,NCYC240,Ale,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,AB368789.1,NCYC240,Ale,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,AB368789.1,NCYC240,Ale,305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,AB368789.1,NCYC240,Ale,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,AB368789.1,NCYC240,Ale,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,AB368793.1,NCYC984,Lager,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,AB368793.1,NCYC984,Lager,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,AB368793.1,NCYC984,Lager,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,AB368793.1,NCYC984,Lager,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,AB368793.1,NCYC984,Lager,339,G,A,SNV,synonymous,,c.339G>A
+PAD1,AB368793.1,NCYC984,Lager,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,AB368793.1,NCYC984,Lager,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,AB368793.1,NCYC984,Lager,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,AB368797.1,K1-V1116,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,AB368797.1,K1-V1116,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,AB368797.1,K1-V1116,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,AB368797.1,K1-V1116,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,AB368797.1,K1-V1116,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,AB368797.1,K1-V1116,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,AB368797.1,K1-V1116,Wine,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,AB368797.1,K1-V1116,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,AB368797.1,K1-V1116,Wine,638,A,G,SNV,missense,p.D213G,c.638A>G
+PAD1,CM004674.1,wild007,Wild,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004674.1,wild007,Wild,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004674.1,wild007,Wild,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004674.1,wild007,Wild,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004674.1,wild007,Wild,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004674.1,wild007,Wild,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004674.1,wild007,Wild,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004674.1,wild007,Wild,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM004690.1,wild003,Wild,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004690.1,wild003,Wild,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004690.1,wild003,Wild,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004690.1,wild003,Wild,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004690.1,wild003,Wild,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004690.1,wild003,Wild,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004690.1,wild003,Wild,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004706.1,wild005,Wild,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004706.1,wild005,Wild,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004706.1,wild005,Wild,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004706.1,wild005,Wild,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004706.1,wild005,Wild,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004706.1,wild005,Wild,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004706.1,wild005,Wild,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004722.1,wild006,Wild,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004722.1,wild006,Wild,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004722.1,wild006,Wild,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004722.1,wild006,Wild,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004722.1,wild006,Wild,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004722.1,wild006,Wild,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004722.1,wild006,Wild,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004738.1,wild004,Wild,45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM004738.1,wild004,Wild,97,C,T,SNV,missense,p.P33S,c.97C>T
+PAD1,CM004738.1,wild004,Wild,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004738.1,wild004,Wild,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004738.1,wild004,Wild,192,G,A,SNV,synonymous,,c.192G>A
+PAD1,CM004738.1,wild004,Wild,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004754.1,wild002,Wild,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004754.1,wild002,Wild,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004754.1,wild002,Wild,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004754.1,wild002,Wild,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004770.1,wild001,Wild,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004770.1,wild001,Wild,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004770.1,wild001,Wild,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004770.1,wild001,Wild,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004786.2,wine018,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004786.2,wine018,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004786.2,wine018,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004786.2,wine018,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004786.2,wine018,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004786.2,wine018,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004786.2,wine018,Wine,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM004786.2,wine018,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004802.1,wine019,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004802.1,wine019,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004802.1,wine019,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004802.1,wine019,Wine,230,T,C,SNV,missense,p.L77P,c.230T>C
+PAD1,CM004802.1,wine019,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004802.1,wine019,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004802.1,wine019,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004802.1,wine019,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004818.2,wine017,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004818.2,wine017,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004818.2,wine017,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004818.2,wine017,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004818.2,wine017,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004818.2,wine017,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004818.2,wine017,Wine,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM004818.2,wine017,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004850.2,wine015,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004850.2,wine015,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004850.2,wine015,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004850.2,wine015,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004850.2,wine015,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004850.2,wine015,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004850.2,wine015,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004866.2,wine014,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004866.2,wine014,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004866.2,wine014,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004866.2,wine014,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004866.2,wine014,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004866.2,wine014,Wine,423,G,A,SNV,missense,p.M141I,c.423G>A
+PAD1,CM004866.2,wine014,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004866.2,wine014,Wine,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM004866.2,wine014,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004882.2,wine013,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004882.2,wine013,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004882.2,wine013,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004882.2,wine013,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004882.2,wine013,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004882.2,wine013,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004882.2,wine013,Wine,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM004882.2,wine013,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004882.2,wine013,Wine,638,A,G,SNV,missense,p.D213G,c.638A>G
+PAD1,CM004898.2,wine012,Wine,45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM004898.2,wine012,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004898.2,wine012,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004898.2,wine012,Wine,305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM004898.2,wine012,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004898.2,wine012,Wine,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM004914.2,wine011,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004914.2,wine011,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004914.2,wine011,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004914.2,wine011,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004914.2,wine011,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004914.2,wine011,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004914.2,wine011,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004930.2,wine010,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004930.2,wine010,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004930.2,wine010,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004930.2,wine010,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004930.2,wine010,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004930.2,wine010,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004930.2,wine010,Wine,504,T,A,SNV,synonymous,,c.504T>A
+PAD1,CM004930.2,wine010,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004946.2,wine009,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004946.2,wine009,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004946.2,wine009,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004946.2,wine009,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004946.2,wine009,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004946.2,wine009,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004946.2,wine009,Wine,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM004946.2,wine009,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004946.2,wine009,Wine,638,A,G,SNV,missense,p.D213G,c.638A>G
+PAD1,CM004962.2,wine008,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004962.2,wine008,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004962.2,wine008,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004962.2,wine008,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004962.2,wine008,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004962.2,wine008,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004962.2,wine008,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004962.2,wine008,Wine,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM004978.2,wine007,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004978.2,wine007,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004978.2,wine007,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004978.2,wine007,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004978.2,wine007,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004978.2,wine007,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004978.2,wine007,Wine,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM004978.2,wine007,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM004994.2,wine006,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM004994.2,wine006,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM004994.2,wine006,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM004994.2,wine006,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM004994.2,wine006,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM004994.2,wine006,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM004994.2,wine006,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005010.2,wine005,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005010.2,wine005,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005010.2,wine005,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005010.2,wine005,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005010.2,wine005,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005010.2,wine005,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005010.2,wine005,Wine,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM005010.2,wine005,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005026.2,wine004,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005026.2,wine004,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005026.2,wine004,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005026.2,wine004,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005026.2,wine004,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005026.2,wine004,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005026.2,wine004,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005042.2,wine003,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005042.2,wine003,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005042.2,wine003,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005042.2,wine003,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005042.2,wine003,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005042.2,wine003,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005042.2,wine003,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005058.2,wine002,Wine,45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005058.2,wine002,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005058.2,wine002,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005058.2,wine002,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005058.2,wine002,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005058.2,wine002,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005058.2,wine002,Wine,430,C,T,SNV,synonymous,,c.430C>T
+PAD1,CM005074.2,wine001,Wine,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005074.2,wine001,Wine,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005074.2,wine001,Wine,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005074.2,wine001,Wine,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005074.2,wine001,Wine,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005074.2,wine001,Wine,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005074.2,wine001,Wine,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM005074.2,wine001,Wine,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005074.2,wine001,Wine,638,A,G,SNV,missense,p.D213G,c.638A>G
+PAD1,CM005090.1,spirits011,Spirits,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005090.1,spirits011,Spirits,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005090.1,spirits011,Spirits,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005090.1,spirits011,Spirits,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005090.1,spirits011,Spirits,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005090.1,spirits011,Spirits,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005090.1,spirits011,Spirits,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005106.1,spirits010,Spirits,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005106.1,spirits010,Spirits,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005106.1,spirits010,Spirits,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005106.1,spirits010,Spirits,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005106.1,spirits010,Spirits,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005106.1,spirits010,Spirits,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005106.1,spirits010,Spirits,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005122.1,spirits009,Spirits,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005122.1,spirits009,Spirits,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005122.1,spirits009,Spirits,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005122.1,spirits009,Spirits,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005122.1,spirits009,Spirits,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005122.1,spirits009,Spirits,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005122.1,spirits009,Spirits,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005122.1,spirits009,Spirits,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005138.1,spirits008,Spirits,45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005138.1,spirits008,Spirits,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005138.1,spirits008,Spirits,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005138.1,spirits008,Spirits,305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005138.1,spirits008,Spirits,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005138.1,spirits008,Spirits,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005138.1,spirits008,Spirits,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005154.1,spirits007,Spirits,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005154.1,spirits007,Spirits,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005154.1,spirits007,Spirits,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005154.1,spirits007,Spirits,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005154.1,spirits007,Spirits,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005154.1,spirits007,Spirits,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005154.1,spirits007,Spirits,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005170.1,spirits006,Spirits,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005170.1,spirits006,Spirits,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005170.1,spirits006,Spirits,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005170.1,spirits006,Spirits,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005170.1,spirits006,Spirits,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005170.1,spirits006,Spirits,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005170.1,spirits006,Spirits,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005170.1,spirits006,Spirits,717,A,G,SNV,missense,p.I239M,c.717A>G
+PAD1,CM005186.1,spirits005,Spirits,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005186.1,spirits005,Spirits,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005186.1,spirits005,Spirits,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005186.1,spirits005,Spirits,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005186.1,spirits005,Spirits,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005186.1,spirits005,Spirits,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005186.1,spirits005,Spirits,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005186.1,spirits005,Spirits,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005202.1,spirits003,Spirits,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005202.1,spirits003,Spirits,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005202.1,spirits003,Spirits,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005202.1,spirits003,Spirits,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005202.1,spirits003,Spirits,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005202.1,spirits003,Spirits,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005202.1,spirits003,Spirits,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005202.1,spirits003,Spirits,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005218.1,spirits004,Spirits,14,C,T,SNV,missense,p.P5L,c.14C>T
+PAD1,CM005218.1,spirits004,Spirits,45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005218.1,spirits004,Spirits,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005218.1,spirits004,Spirits,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005218.1,spirits004,Spirits,277,G,A,SNV,missense,p.A93T,c.277G>A
+PAD1,CM005218.1,spirits004,Spirits,285,A,G,SNV,synonymous,,c.285A>G
+PAD1,CM005218.1,spirits004,Spirits,324,G,A,SNV,synonymous,,c.324G>A
+PAD1,CM005218.1,spirits004,Spirits,381,A,T,SNV,synonymous,,c.381A>T
+PAD1,CM005218.1,spirits004,Spirits,606,T,C,SNV,synonymous,,c.606T>C
+PAD1,CM005218.1,spirits004,Spirits,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005234.1,spirits002,Spirits,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005234.1,spirits002,Spirits,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005234.1,spirits002,Spirits,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005234.1,spirits002,Spirits,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005234.1,spirits002,Spirits,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005234.1,spirits002,Spirits,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005234.1,spirits002,Spirits,550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM005234.1,spirits002,Spirits,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005234.1,spirits002,Spirits,638,A,G,SNV,missense,p.D213G,c.638A>G
+PAD1,CM005250.2,spirits001,Spirits,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005250.2,spirits001,Spirits,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005250.2,spirits001,Spirits,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005250.2,spirits001,Spirits,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005250.2,spirits001,Spirits,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005250.2,spirits001,Spirits,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005250.2,spirits001,Spirits,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005250.2,spirits001,Spirits,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005266.1,sake007,Sake,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005266.1,sake007,Sake,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005266.1,sake007,Sake,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005266.1,sake007,Sake,224,A,G,SNV,missense,p.Q75R,c.224A>G
+PAD1,CM005266.1,sake007,Sake,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005282.1,sake006,Sake,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005282.1,sake006,Sake,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005282.1,sake006,Sake,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005282.1,sake006,Sake,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005298.1,sake005,Sake,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005298.1,sake005,Sake,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005298.1,sake005,Sake,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005298.1,sake005,Sake,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005314.1,sake004,Sake,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005314.1,sake004,Sake,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005314.1,sake004,Sake,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005314.1,sake004,Sake,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005330.1,sake003,Sake,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005330.1,sake003,Sake,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005330.1,sake003,Sake,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005330.1,sake003,Sake,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005346.1,sake002,Sake,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005346.1,sake002,Sake,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005346.1,sake002,Sake,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005346.1,sake002,Sake,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005346.1,sake002,Sake,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005346.1,sake002,Sake,360,T,C,SNV,synonymous,,c.360T>C
+PAD1,CM005346.1,sake002,Sake,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005346.1,sake002,Sake,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005362.1,sake001,Sake,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005362.1,sake001,Sake,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005362.1,sake001,Sake,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005362.1,sake001,Sake,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005394.1,laboratory001,Laboratory,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005394.1,laboratory001,Laboratory,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005394.1,laboratory001,Laboratory,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005394.1,laboratory001,Laboratory,294,T,G,SNV,nonsense,p.Y98*,c.294T>G
+PAD1,CM005394.1,laboratory001,Laboratory,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005410.1,bread002,Baking,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005410.1,bread002,Baking,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005410.1,bread002,Baking,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005410.1,bread002,Baking,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005410.1,bread002,Baking,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005410.1,bread002,Baking,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005410.1,bread002,Baking,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005426.1,bread004,Baking,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005426.1,bread004,Baking,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005426.1,bread004,Baking,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005426.1,bread004,Baking,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005426.1,bread004,Baking,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005426.1,bread004,Baking,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005426.1,bread004,Baking,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005442.1,bread003,Baking,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005442.1,bread003,Baking,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005442.1,bread003,Baking,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005442.1,bread003,Baking,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005442.1,bread003,Baking,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005442.1,bread003,Baking,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005442.1,bread003,Baking,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005442.1,bread003,Baking,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005458.1,bioethanol005,Bioethanol,14,C,T,SNV,missense,p.P5L,c.14C>T
+PAD1,CM005458.1,bioethanol005,Bioethanol,45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005458.1,bioethanol005,Bioethanol,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005458.1,bioethanol005,Bioethanol,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005458.1,bioethanol005,Bioethanol,276,-,ACAGCAACGATGAAATATGAAACAGATTGGGAACCGCATGACGTGGCAGCCTTGGCAACCAAGACATACTCTGTTCGTGATGTTTCTGCATGCATTTCGTCCGGTTCTTTCCAGCATGATGGTATGATTGTTGTGCCCTGTTCCATGAAATCACTAGCTGCNNNNNNNNNNGTTGCACTGGGAATCAGACTTCTACAAGTGCTAAAAGAGTTGAGCGTAGAAACCCATTTGGTGATTTCAAAATGGGGT,insertion,inframe_insertion,p.A93ins,c.276_277insACAGCAACGATGAAATATGAAACAGATTGGGAACCGCATGACGTGGCAGCCTTGGCAACCAAGACATACTCTGTTCGTGATGTTTCTGCATGCATTTCGTCCGGTTCTTTCCAGCATGATGGTATGATTGTTGTGCCCTGTTCCATGAAATCACTAGCTGCNNNNNNNNNNGTTGCACTGGGAATCAGACTTCTACAAGTGCTAAAAGAGTTGAGCGTAGAAACCCATTTGGTGATTTCAAAATGGGGT
+PAD1,CM005458.1,bioethanol005,Bioethanol,277,G,A,SNV,missense,p.A93T,c.277G>A
+PAD1,CM005458.1,bioethanol005,Bioethanol,285,A,G,SNV,synonymous,,c.285A>G
+PAD1,CM005458.1,bioethanol005,Bioethanol,324,G,A,SNV,synonymous,,c.324G>A
+PAD1,CM005458.1,bioethanol005,Bioethanol,381,A,T,SNV,synonymous,,c.381A>T
+PAD1,CM005458.1,bioethanol005,Bioethanol,606,T,C,SNV,synonymous,,c.606T>C
+PAD1,CM005458.1,bioethanol005,Bioethanol,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005474.1,bioethanol003,Bioethanol,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005474.1,bioethanol003,Bioethanol,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005474.1,bioethanol003,Bioethanol,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005474.1,bioethanol003,Bioethanol,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005490.1,bioethanol004,Bioethanol,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005490.1,bioethanol004,Bioethanol,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005490.1,bioethanol004,Bioethanol,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005490.1,bioethanol004,Bioethanol,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005506.1,bread001,Baking,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005506.1,bread001,Baking,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005506.1,bread001,Baking,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005506.1,bread001,Baking,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005506.1,bread001,Baking,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005506.1,bread001,Baking,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005506.1,bread001,Baking,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005506.1,bread001,Baking,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,4,C,T,SNV,missense,p.L2F,c.4C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,12,T,G,SNV,missense,p.F4L,c.12T>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,15,A,T,SNV,synonymous,,c.15A>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,18,A,T,SNV,missense,p.R6S,c.18A>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,21,A,G,SNV,synonymous,,c.21A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,22,A,G,SNV,missense,p.T8A,c.22A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,28,A,T,SNV,missense,p.I10L,c.28A>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,45,A,T,SNV,synonymous,,c.45A>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,52,A,G,SNV,missense,p.I18V,c.52A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,62,A,G,SNV,missense,p.N21R,c.62A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,63,T,G,SNV,missense,p.N21R,c.63T>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,76,G,A,SNV,missense,p.G26N,c.76G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,77,G,A,SNV,missense,p.G26N,c.77G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,84,C,T,SNV,synonymous,,c.84C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,88,A,T,SNV,missense,p.T30S,c.88A>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,97,C,T,SNV,missense,p.P33S,c.97C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,109,A,T,SNV,missense,p.T37S,c.109A>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,120,G,A,SNV,synonymous,,c.120G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,129,A,T,SNV,missense,p.E43D,c.129A>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,135,C,T,SNV,synonymous,,c.135C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,159,A,G,SNV,synonymous,,c.159A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,180,A,G,SNV,synonymous,,c.180A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,204,A,G,SNV,synonymous,,c.204A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,205,C,T,SNV,synonymous,,c.205C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,222,A,T,SNV,synonymous,,c.222A>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,228,G,A,SNV,synonymous,,c.228G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,237,G,A,SNV,synonymous,,c.237G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,246,A,G,SNV,synonymous,,c.246A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,249,A,G,SNV,synonymous,,c.249A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,252,C,T,SNV,synonymous,,c.252C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,261,G,A,SNV,synonymous,,c.261G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,264,T,A,SNV,synonymous,,c.264T>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,282,A,G,SNV,synonymous,,c.282A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,303,T,C,SNV,synonymous,,c.303T>C
+PAD1,CM005522.1,bioethanol002,Bioethanol,318,C,A,SNV,missense,p.D106E,c.318C>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,330,G,A,SNV,synonymous,,c.330G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,339,G,A,SNV,synonymous,,c.339G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,348,T,C,SNV,synonymous,,c.348T>C
+PAD1,CM005522.1,bioethanol002,Bioethanol,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005522.1,bioethanol002,Bioethanol,375,G,A,SNV,synonymous,,c.375G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,408,T,G,SNV,synonymous,,c.408T>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,414,C,A,SNV,synonymous,,c.414C>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,420,C,T,SNV,synonymous,,c.420C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,429,A,G,SNV,synonymous,,c.429A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,438,T,G,SNV,synonymous,,c.438T>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,441,T,C,SNV,synonymous,,c.441T>C
+PAD1,CM005522.1,bioethanol002,Bioethanol,463,T,C,SNV,synonymous,,c.463T>C
+PAD1,CM005522.1,bioethanol002,Bioethanol,480,C,T,SNV,synonymous,,c.480C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,489,G,A,SNV,synonymous,,c.489G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,514,C,T,SNV,synonymous,,c.514C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,516,G,A,SNV,synonymous,,c.516G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,540,T,C,SNV,synonymous,,c.540T>C
+PAD1,CM005522.1,bioethanol002,Bioethanol,543,C,T,SNV,synonymous,,c.543C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,562,T,C,SNV,synonymous,,c.562T>C
+PAD1,CM005522.1,bioethanol002,Bioethanol,576,G,A,SNV,synonymous,,c.576G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,609,G,A,SNV,synonymous,,c.609G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,611,T,A,SNV,missense,p.F204Y,c.611T>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,615,T,C,SNV,synonymous,,c.615T>C
+PAD1,CM005522.1,bioethanol002,Bioethanol,631,C,A,SNV,missense,p.L211I,c.631C>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,633,T,A,SNV,missense,p.L211I,c.633T>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,634,C,G,SNV,missense,p.H212D,c.634C>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,642,A,G,SNV,synonymous,,c.642A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,645,A,G,SNV,synonymous,,c.645A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,648,A,G,SNV,synonymous,,c.648A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,654,T,C,SNV,synonymous,,c.654T>C
+PAD1,CM005522.1,bioethanol002,Bioethanol,660,C,T,SNV,synonymous,,c.660C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,663,G,A,SNV,synonymous,,c.663G>A
+PAD1,CM005522.1,bioethanol002,Bioethanol,681,C,T,SNV,synonymous,,c.681C>T
+PAD1,CM005522.1,bioethanol002,Bioethanol,702,T,C,SNV,synonymous,,c.702T>C
+PAD1,CM005522.1,bioethanol002,Bioethanol,705,T,C,SNV,synonymous,,c.705T>C
+PAD1,CM005522.1,bioethanol002,Bioethanol,717,A,G,SNV,missense,p.I239M,c.717A>G
+PAD1,CM005522.1,bioethanol002,Bioethanol,729,A,G,SNV,synonymous,,c.729A>G
+PAD1,CM005538.1,bioethanol001,Bioethanol,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005538.1,bioethanol001,Bioethanol,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005538.1,bioethanol001,Bioethanol,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005538.1,bioethanol001,Bioethanol,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005554.1,beer102,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005554.1,beer102,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005554.1,beer102,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005554.1,beer102,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005554.1,beer102,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005554.1,beer102,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005570.1,beer101,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005570.1,beer101,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005570.1,beer101,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005570.1,beer101,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005570.1,beer101,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005570.1,beer101,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005586.1,beer099,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005586.1,beer099,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005586.1,beer099,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005586.1,beer099,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005586.1,beer099,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005586.1,beer099,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005602.1,beer100,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005602.1,beer100,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005602.1,beer100,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005602.1,beer100,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005602.1,beer100,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005602.1,beer100,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005618.1,beer098,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005618.1,beer098,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005618.1,beer098,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005618.1,beer098,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005618.1,beer098,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005618.1,beer098,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005634.1,beer097,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005634.1,beer097,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005634.1,beer097,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005634.1,beer097,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005634.1,beer097,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005634.1,beer097,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005650.1,beer095,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005650.1,beer095,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005650.1,beer095,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005650.1,beer095,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005650.1,beer095,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005650.1,beer095,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005666.1,beer096,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005666.1,beer096,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005666.1,beer096,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005666.1,beer096,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005666.1,beer096,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005666.1,beer096,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005682.1,beer094,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005682.1,beer094,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005682.1,beer094,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005682.1,beer094,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005682.1,beer094,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005682.1,beer094,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005698.1,beer093,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005698.1,beer093,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005698.1,beer093,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005698.1,beer093,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005698.1,beer093,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005698.1,beer093,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005698.1,beer093,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005714.1,beer092,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005714.1,beer092,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005714.1,beer092,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005714.1,beer092,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005714.1,beer092,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005714.1,beer092,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005714.1,beer092,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005730.1,beer091,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005730.1,beer091,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005730.1,beer091,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005730.1,beer091,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005730.1,beer091,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005730.1,beer091,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005730.1,beer091,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005746.1,beer090,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005746.1,beer090,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005746.1,beer090,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005746.1,beer090,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005746.1,beer090,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005746.1,beer090,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005762.1,beer089,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005762.1,beer089,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005762.1,beer089,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005762.1,beer089,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005762.1,beer089,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005762.1,beer089,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005778.1,beer088,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005778.1,beer088,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005778.1,beer088,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005778.1,beer088,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005778.1,beer088,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005778.1,beer088,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005778.1,beer088,Beer (Gallone),550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM005778.1,beer088,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005778.1,beer088,Beer (Gallone),638,A,G,SNV,missense,p.D213G,c.638A>G
+PAD1,CM005794.1,beer087,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005794.1,beer087,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005794.1,beer087,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005794.1,beer087,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005794.1,beer087,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005794.1,beer087,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005810.1,beer086,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005810.1,beer086,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005810.1,beer086,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005810.1,beer086,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005810.1,beer086,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005810.1,beer086,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005810.1,beer086,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005826.1,beer085,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005826.1,beer085,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005826.1,beer085,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005826.1,beer085,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005826.1,beer085,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005826.1,beer085,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005826.1,beer085,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005842.1,beer084,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005842.1,beer084,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005842.1,beer084,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005842.1,beer084,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005842.1,beer084,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005842.1,beer084,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005842.1,beer084,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005858.1,beer083,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005858.1,beer083,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005858.1,beer083,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005858.1,beer083,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005858.1,beer083,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005858.1,beer083,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005858.1,beer083,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005874.1,beer082,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005874.1,beer082,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005874.1,beer082,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005874.1,beer082,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005874.1,beer082,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005874.1,beer082,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005890.1,beer081,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005890.1,beer081,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005890.1,beer081,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005890.1,beer081,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005890.1,beer081,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005890.1,beer081,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005890.1,beer081,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005890.1,beer081,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005906.1,beer080,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005906.1,beer080,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005906.1,beer080,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005906.1,beer080,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005906.1,beer080,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005906.1,beer080,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005906.1,beer080,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005922.1,beer079,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM005922.1,beer079,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005922.1,beer079,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005922.1,beer079,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM005922.1,beer079,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005922.1,beer079,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005938.1,beer078,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005938.1,beer078,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005938.1,beer078,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005938.1,beer078,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005938.1,beer078,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005938.1,beer078,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005938.1,beer078,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005938.1,beer078,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005954.1,beer077,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005954.1,beer077,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005954.1,beer077,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005954.1,beer077,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005954.1,beer077,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005954.1,beer077,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005954.1,beer077,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005954.1,beer077,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005970.1,beer076,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005970.1,beer076,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005970.1,beer076,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005970.1,beer076,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005970.1,beer076,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005970.1,beer076,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005970.1,beer076,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005970.1,beer076,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM005986.1,beer075,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM005986.1,beer075,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM005986.1,beer075,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM005986.1,beer075,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM005986.1,beer075,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM005986.1,beer075,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM005986.1,beer075,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM005986.1,beer075,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006002.1,beer074,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006002.1,beer074,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006002.1,beer074,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006002.1,beer074,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006002.1,beer074,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006002.1,beer074,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006002.1,beer074,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006018.1,beer073,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006018.1,beer073,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006018.1,beer073,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006018.1,beer073,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006018.1,beer073,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006018.1,beer073,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006034.1,beer072,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006034.1,beer072,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006034.1,beer072,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006034.1,beer072,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006034.1,beer072,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006034.1,beer072,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006034.1,beer072,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006050.1,beer071,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006050.1,beer071,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006050.1,beer071,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006050.1,beer071,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006050.1,beer071,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006050.1,beer071,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006066.1,beer070,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006066.1,beer070,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006066.1,beer070,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006066.1,beer070,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006066.1,beer070,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006066.1,beer070,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006082.1,beer069,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006082.1,beer069,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006082.1,beer069,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006082.1,beer069,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006082.1,beer069,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006082.1,beer069,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006098.1,beer068,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006098.1,beer068,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006098.1,beer068,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006098.1,beer068,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006098.1,beer068,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006098.1,beer068,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006114.1,beer067,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006114.1,beer067,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006114.1,beer067,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006114.1,beer067,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006114.1,beer067,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006114.1,beer067,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006130.1,beer066,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006130.1,beer066,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006130.1,beer066,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006130.1,beer066,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006130.1,beer066,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006130.1,beer066,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006146.1,beer065,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006146.1,beer065,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006146.1,beer065,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006146.1,beer065,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006146.1,beer065,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006146.1,beer065,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006162.1,beer064,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006162.1,beer064,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006162.1,beer064,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006162.1,beer064,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006162.1,beer064,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006162.1,beer064,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006178.1,beer063,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006178.1,beer063,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006178.1,beer063,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006178.1,beer063,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006178.1,beer063,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006178.1,beer063,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006178.1,beer063,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006194.1,beer062,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006194.1,beer062,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006194.1,beer062,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006194.1,beer062,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006194.1,beer062,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006194.1,beer062,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006194.1,beer062,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006210.1,beer061,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006210.1,beer061,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006210.1,beer061,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006210.1,beer061,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006210.1,beer061,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006210.1,beer061,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006210.1,beer061,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006210.1,beer061,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006226.1,beer060,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006226.1,beer060,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006226.1,beer060,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006226.1,beer060,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006226.1,beer060,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006226.1,beer060,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006242.1,beer059,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006242.1,beer059,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006242.1,beer059,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006242.1,beer059,Beer (Gallone),306,G,A,SNV,nonsense,p.W102*,c.306G>A
+PAD1,CM006242.1,beer059,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006258.1,beer058,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006258.1,beer058,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006258.1,beer058,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006258.1,beer058,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006258.1,beer058,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006258.1,beer058,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006258.1,beer058,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006258.1,beer058,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006258.1,beer058,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006274.1,beer057,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006274.1,beer057,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006274.1,beer057,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006274.1,beer057,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006274.1,beer057,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006274.1,beer057,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006290.1,beer056,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006290.1,beer056,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006290.1,beer056,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006290.1,beer056,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006290.1,beer056,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006290.1,beer056,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006306.1,beer055,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006306.1,beer055,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006306.1,beer055,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006306.1,beer055,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006306.1,beer055,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006306.1,beer055,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006322.1,beer054,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006322.1,beer054,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006322.1,beer054,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006322.1,beer054,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006322.1,beer054,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006322.1,beer054,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006338.1,beer053,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006338.1,beer053,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006338.1,beer053,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006338.1,beer053,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006338.1,beer053,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006338.1,beer053,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006354.1,beer052,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006354.1,beer052,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006354.1,beer052,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006354.1,beer052,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006354.1,beer052,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006354.1,beer052,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006370.1,beer051,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006370.1,beer051,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006370.1,beer051,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006370.1,beer051,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006370.1,beer051,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006370.1,beer051,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006386.1,beer050,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006386.1,beer050,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006386.1,beer050,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006386.1,beer050,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006386.1,beer050,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006386.1,beer050,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006402.1,beer049,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006402.1,beer049,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006402.1,beer049,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006402.1,beer049,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006402.1,beer049,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006402.1,beer049,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006418.1,beer048,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006418.1,beer048,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006418.1,beer048,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006418.1,beer048,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006418.1,beer048,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006418.1,beer048,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006434.1,beer047,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006434.1,beer047,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006434.1,beer047,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006434.1,beer047,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006434.1,beer047,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006434.1,beer047,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006450.1,beer046,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006450.1,beer046,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006450.1,beer046,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006450.1,beer046,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006450.1,beer046,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006450.1,beer046,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006466.1,beer045,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006466.1,beer045,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006466.1,beer045,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006466.1,beer045,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006466.1,beer045,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006466.1,beer045,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006482.1,beer044,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006482.1,beer044,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006482.1,beer044,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006482.1,beer044,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006482.1,beer044,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006482.1,beer044,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006498.1,beer043,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006498.1,beer043,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006498.1,beer043,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006498.1,beer043,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006498.1,beer043,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006498.1,beer043,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006498.1,beer043,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006514.1,beer042,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006514.1,beer042,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006514.1,beer042,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006514.1,beer042,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006514.1,beer042,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006514.1,beer042,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006530.1,beer041,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006530.1,beer041,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006530.1,beer041,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006530.1,beer041,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006530.1,beer041,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006530.1,beer041,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006546.1,beer040,Beer (Gallone),74,T,C,SNV,missense,p.L25P,c.74T>C
+PAD1,CM006546.1,beer040,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006546.1,beer040,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006546.1,beer040,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006546.1,beer040,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006546.1,beer040,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006546.1,beer040,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006546.1,beer040,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006562.1,beer039,Beer (Gallone),74,T,C,SNV,missense,p.L25P,c.74T>C
+PAD1,CM006562.1,beer039,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006562.1,beer039,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006562.1,beer039,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006562.1,beer039,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006562.1,beer039,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006562.1,beer039,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006562.1,beer039,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006578.1,beer037,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006578.1,beer037,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006578.1,beer037,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006578.1,beer037,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006578.1,beer037,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006578.1,beer037,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006594.1,beer038,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006594.1,beer038,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006594.1,beer038,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006594.1,beer038,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006594.1,beer038,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006594.1,beer038,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006594.1,beer038,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006594.1,beer038,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006610.1,beer036,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006610.1,beer036,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006610.1,beer036,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006610.1,beer036,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006610.1,beer036,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006610.1,beer036,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006626.1,beer035,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006626.1,beer035,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006626.1,beer035,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006626.1,beer035,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006626.1,beer035,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006626.1,beer035,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006642.1,beer034,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006642.1,beer034,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006642.1,beer034,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006642.1,beer034,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006642.1,beer034,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006642.1,beer034,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006642.1,beer034,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006658.1,beer032,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006658.1,beer032,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006658.1,beer032,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006658.1,beer032,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006658.1,beer032,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006658.1,beer032,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006658.1,beer032,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006674.1,beer033,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006674.1,beer033,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006674.1,beer033,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006674.1,beer033,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006674.1,beer033,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006674.1,beer033,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006674.1,beer033,Beer (Gallone),550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM006674.1,beer033,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006674.1,beer033,Beer (Gallone),638,A,G,SNV,missense,p.D213G,c.638A>G
+PAD1,CM006690.1,beer031,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006690.1,beer031,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006690.1,beer031,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006690.1,beer031,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006690.1,beer031,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006690.1,beer031,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006690.1,beer031,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006690.1,beer031,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006706.1,beer030,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006706.1,beer030,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006706.1,beer030,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006706.1,beer030,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006706.1,beer030,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006706.1,beer030,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006706.1,beer030,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006722.1,beer028,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006722.1,beer028,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006722.1,beer028,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006722.1,beer028,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006722.1,beer028,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006722.1,beer028,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006722.1,beer028,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006722.1,beer028,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006738.1,beer029,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006738.1,beer029,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006738.1,beer029,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006738.1,beer029,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006738.1,beer029,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006738.1,beer029,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006738.1,beer029,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006738.1,beer029,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006754.1,beer027,Beer (Gallone),74,T,C,SNV,missense,p.L25P,c.74T>C
+PAD1,CM006754.1,beer027,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006754.1,beer027,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006754.1,beer027,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006754.1,beer027,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006754.1,beer027,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006754.1,beer027,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006754.1,beer027,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006770.1,beer026,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006770.1,beer026,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006770.1,beer026,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006770.1,beer026,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006770.1,beer026,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006770.1,beer026,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006770.1,beer026,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006770.1,beer026,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006786.1,beer024,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006786.1,beer024,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006786.1,beer024,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006786.1,beer024,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006786.1,beer024,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006786.1,beer024,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006786.1,beer024,Beer (Gallone),550,C,G,SNV,missense,p.L184V,c.550C>G
+PAD1,CM006786.1,beer024,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006786.1,beer024,Beer (Gallone),638,A,G,SNV,missense,p.D213G,c.638A>G
+PAD1,CM006802.1,beer025,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006802.1,beer025,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006802.1,beer025,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006802.1,beer025,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006802.1,beer025,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006802.1,beer025,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006802.1,beer025,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006818.1,beer023,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006818.1,beer023,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006818.1,beer023,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006818.1,beer023,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006818.1,beer023,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006818.1,beer023,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006818.1,beer023,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006834.1,beer022,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006834.1,beer022,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006834.1,beer022,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006834.1,beer022,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006834.1,beer022,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006834.1,beer022,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006834.1,beer022,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006834.1,beer022,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006850.1,beer021,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006850.1,beer021,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006850.1,beer021,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006850.1,beer021,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006850.1,beer021,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006850.1,beer021,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006850.1,beer021,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006866.1,beer020,Beer (Gallone),74,T,C,SNV,missense,p.L25P,c.74T>C
+PAD1,CM006866.1,beer020,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006866.1,beer020,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006866.1,beer020,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006866.1,beer020,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006866.1,beer020,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006866.1,beer020,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006866.1,beer020,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006882.1,beer019,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006882.1,beer019,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006882.1,beer019,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006882.1,beer019,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006882.1,beer019,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006882.1,beer019,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006914.1,beer016,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006914.1,beer016,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006914.1,beer016,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006914.1,beer016,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006914.1,beer016,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006914.1,beer016,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006914.1,beer016,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006914.1,beer016,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006930.1,beer017,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006930.1,beer017,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006930.1,beer017,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006930.1,beer017,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006930.1,beer017,Beer (Gallone),339,G,A,SNV,synonymous,,c.339G>A
+PAD1,CM006930.1,beer017,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006930.1,beer017,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006930.1,beer017,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006946.1,beer015,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006946.1,beer015,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006946.1,beer015,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006946.1,beer015,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006946.1,beer015,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006946.1,beer015,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM006962.1,beer013,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006962.1,beer013,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006962.1,beer013,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006962.1,beer013,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006962.1,beer013,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006962.1,beer013,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006962.1,beer013,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006978.1,beer014,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006978.1,beer014,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006978.1,beer014,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM006978.1,beer014,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM006978.1,beer014,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM006978.1,beer014,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM006978.1,beer014,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006994.1,beer012,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM006994.1,beer012,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM006994.1,beer012,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM006994.1,beer012,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM006994.1,beer012,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM006994.1,beer012,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM007010.1,beer011,Beer (Gallone),74,T,C,SNV,missense,p.L25P,c.74T>C
+PAD1,CM007010.1,beer011,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM007010.1,beer011,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM007010.1,beer011,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM007010.1,beer011,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM007010.1,beer011,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM007010.1,beer011,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM007010.1,beer011,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM007026.1,beer010,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM007026.1,beer010,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM007026.1,beer010,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM007026.1,beer010,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM007026.1,beer010,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM007026.1,beer010,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM007042.1,beer009,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM007042.1,beer009,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM007042.1,beer009,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM007042.1,beer009,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM007042.1,beer009,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM007042.1,beer009,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM007058.1,beer008,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM007058.1,beer008,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM007058.1,beer008,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM007058.1,beer008,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM007058.1,beer008,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM007058.1,beer008,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM007074.1,beer007,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM007074.1,beer007,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM007074.1,beer007,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM007074.1,beer007,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM007074.1,beer007,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM007074.1,beer007,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM007090.1,beer006,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM007090.1,beer006,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM007090.1,beer006,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM007090.1,beer006,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM007090.1,beer006,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM007090.1,beer006,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM007090.1,beer006,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM007090.1,beer006,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM007106.1,beer005,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM007106.1,beer005,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM007106.1,beer005,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM007106.1,beer005,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM007106.1,beer005,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM007106.1,beer005,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM007122.1,beer004,Beer (Gallone),74,T,C,SNV,missense,p.L25P,c.74T>C
+PAD1,CM007122.1,beer004,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM007122.1,beer004,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM007122.1,beer004,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM007122.1,beer004,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM007122.1,beer004,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM007122.1,beer004,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM007122.1,beer004,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM007138.1,beer003,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM007138.1,beer003,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM007138.1,beer003,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM007138.1,beer003,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM007138.1,beer003,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM007138.1,beer003,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM007154.1,beer001,Beer (Gallone),45,A,G,SNV,synonymous,,c.45A>G
+PAD1,CM007154.1,beer001,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM007154.1,beer001,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM007154.1,beer001,Beer (Gallone),149,C,T,SNV,missense,p.S50L,c.149C>T
+PAD1,CM007154.1,beer001,Beer (Gallone),305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,CM007154.1,beer001,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CM007154.1,beer001,Beer (Gallone),659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,CM007170.1,beer002,Beer (Gallone),112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CM007170.1,beer002,Beer (Gallone),140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CM007170.1,beer002,Beer (Gallone),177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CM007170.1,beer002,Beer (Gallone),252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CM007170.1,beer002,Beer (Gallone),354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CM007170.1,beer002,Beer (Gallone),447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CM007170.1,beer002,Beer (Gallone),609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CP009945.1,NCIM3107,Bioethanol,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,CP009945.1,NCIM3107,Bioethanol,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,CP009945.1,NCIM3107,Bioethanol,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,CP009945.1,NCIM3107,Bioethanol,252,C,A,SNV,synonymous,,c.252C>A
+PAD1,CP009945.1,NCIM3107,Bioethanol,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,CP009945.1,NCIM3107,Bioethanol,447,C,T,SNV,synonymous,,c.447C>T
+PAD1,CP009945.1,NCIM3107,Bioethanol,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,CP009945.1,NCIM3107,Bioethanol,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,L09263.1,unnamed (L09263.1),Other/Unknown,226,G,C,SNV,missense,p.V76L,c.226G>C
+PAD1,LC075298.1,RIB6002,Other/Unknown,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,LC075298.1,RIB6002,Other/Unknown,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,LC075298.1,RIB6002,Other/Unknown,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,LC075298.1,RIB6002,Other/Unknown,246,A,T,SNV,synonymous,,c.246A>T
+PAD1,LC075298.1,RIB6002,Other/Unknown,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,LC075299.1,RIB6002,Other/Unknown,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,LC075299.1,RIB6002,Other/Unknown,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,LC075299.1,RIB6002,Other/Unknown,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,LC075299.1,RIB6002,Other/Unknown,354,T,C,SNV,synonymous,,c.354T>C
+PAD1,LC075299.1,RIB6002,Other/Unknown,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,LC075299.1,RIB6002,Other/Unknown,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,LC493900.1,Y7,Other/Unknown,45,A,G,SNV,synonymous,,c.45A>G
+PAD1,LC493900.1,Y7,Other/Unknown,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,LC493900.1,Y7,Other/Unknown,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,LC493900.1,Y7,Other/Unknown,305,G,A,SNV,nonsense,p.W102*,c.305G>A
+PAD1,LC493900.1,Y7,Other/Unknown,609,G,T,SNV,synonymous,,c.609G>T
+PAD1,LC493900.1,Y7,Other/Unknown,659,G,A,SNV,missense,p.G220D,c.659G>A
+PAD1,LN907787.1,N85,Other/Unknown,112,C,T,SNV,missense,p.H38Y,c.112C>T
+PAD1,LN907787.1,N85,Other/Unknown,140,C,T,SNV,missense,p.A47V,c.140C>T
+PAD1,LN907787.1,N85,Other/Unknown,159,A,C,SNV,missense,p.R53S,c.159A>C
+PAD1,LN907787.1,N85,Other/Unknown,177,C,T,SNV,synonymous,,c.177C>T
+PAD1,LN907787.1,N85,Other/Unknown,354,T,C,SNV,synonymous,,c.354T>C

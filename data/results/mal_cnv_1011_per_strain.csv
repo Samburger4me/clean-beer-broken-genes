@@ -1,0 +1,1012 @@
+STD_name,MAL31,MPH2/3,PAD1 (merged),FDC1,MAL11,Total,Standardized name,Ecological origins,Clades,group,domesticated,clade,clade_group
+BFC,2.0,1.0,1.0,1.0,1.0,4.0,BFC,Fermentation,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+AGL,3.0,1.0,1.0,1.0,0.0,4.0,AGL,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ABE,3.0,1.0,1.0,1.0,0.0,4.0,ABE,"Human, clinical",1. Wine/European,Clinical,False,1. Wine/European,1. Wine/European
+SACE_YAM,4.0,1.5,1.0,1.5,0.0,5.5,SACE_YAM,"Human, clinical",1. Wine/European,Clinical,False,1. Wine/European,1. Wine/European
+BKI,1.5,1.0,1.0,1.0,1.0,3.5,BKI,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ABR,2.0,1.0,1.0,1.0,1.0,4.0,ABR,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+ABQ,2.0,1.0,1.0,1.0,1.0,4.0,ABQ,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BNV,2.0,1.0,1.0,1.0,1.0,4.0,BNV,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BPB,1.0,1.0,1.0,1.0,0.0,2.0,BPB,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BPT,2.0,1.0,1.0,1.0,0.0,3.0,BPT,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BQM,1.5,1.0,1.0,1.0,0.0,2.5,BQM,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BFK,2.0,1.0,1.0,1.0,1.0,4.0,BFK,Tree,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BQS,3.0,1.0,1.0,1.0,0.0,4.0,BQS,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BQE,2.0,1.0,1.0,1.0,0.0,3.0,BQE,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AIN,2.0,1.0,1.0,1.0,1.0,4.0,AIN,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BQR,2.0,1.0,1.0,1.0,1.0,4.0,BQR,Water,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BLT,2.0,1.0,1.0,1.0,1.0,4.0,BLT,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AIF,2.5,1.0,1.5,1.5,0.0,3.5,AIF,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AQR,3.0,1.0,1.0,1.0,0.0,4.0,AQR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BPF,2.0,1.0,1.0,1.0,0.0,3.0,BPF,Fruit,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BLR,2.0,1.0,1.0,1.0,0.0,3.0,BLR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BNL,2.0,1.0,1.0,1.0,0.0,3.0,BNL,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BPK,2.5,1.0,1.0,1.0,0.0,3.5,BPK,Water,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BKQ,2.0,1.0,1.0,1.0,1.0,4.0,BKQ,Unknown,1. Wine/European,,False,1. Wine/European,1. Wine/European
+BPG,2.0,1.0,1.0,1.0,1.0,4.0,BPG,Unknown,1. Wine/European,,False,1. Wine/European,1. Wine/European
+BPH,2.0,1.0,1.0,1.0,1.0,4.0,BPH,Unknown,1. Wine/European,,False,1. Wine/European,1. Wine/European
+BQT,2.0,1.0,1.0,1.0,1.0,4.0,BQT,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+APT,2.0,1.0,1.0,1.0,0.0,3.0,APT,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BID,2.0,1.0,1.0,1.0,1.0,4.0,BID,Bakery,1. Wine/European,Bakery,True,1. Wine/European,1. Wine/European
+AGI,2.0,1.0,1.0,1.0,1.0,4.0,AGI,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BHV,2.0,1.0,1.0,1.0,1.0,4.0,BHV,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BNE,2.0,1.0,1.0,1.0,1.0,4.0,BNE,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BLA,2.0,1.0,1.0,1.0,1.0,4.0,BLA,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKT,2.5,1.0,1.0,1.0,1.0,4.5,BKT,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BIA,2.5,1.0,1.0,1.0,1.0,4.5,BIA,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKL,2.0,1.0,1.0,1.0,1.0,4.0,BKL,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BIB,2.5,1.5,1.0,1.0,1.0,5.0,BIB,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKK,2.0,1.0,1.0,1.0,1.0,4.0,BKK,Unknown,1. Wine/European,,False,1. Wine/European,1. Wine/European
+BLQ,2.0,1.0,1.0,1.0,1.0,4.0,BLQ,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+SACE_YBY,2.0,1.0,1.0,1.5,1.0,4.0,SACE_YBY,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+SACE_YDF,2.5,1.5,1.5,1.5,1.5,5.5,SACE_YDF,"Human, clinical",1. Wine/European,Clinical,False,1. Wine/European,1. Wine/European
+SACE_YDO,2.0,1.0,1.0,1.5,1.0,4.0,SACE_YDO,Distillery,1. Wine/European,Distillery,True,1. Wine/European,1. Wine/European
+AHG,2.0,1.0,1.0,1.0,0.0,3.0,AHG,Fruit,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+AII,2.0,1.0,1.0,1.0,5.0,8.0,AII,Palm wine,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+AHD,3.0,2.0,1.0,1.0,1.0,6.0,AHD,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AGF,3.0,1.0,1.0,1.0,1.0,5.0,AGF,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AHE,4.0,1.0,1.0,1.0,1.0,6.0,AHE,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AQQ,3.0,1.0,1.0,1.0,1.0,5.0,AQQ,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ASG,3.0,1.0,1.0,1.0,0.0,4.0,ASG,"Human, clinical",1. Wine/European,Clinical,False,1. Wine/European,1. Wine/European
+ASD,3.0,2.0,1.0,1.0,1.0,6.0,ASD,Beer,1. Wine/European,Beer,True,1. Wine/European,1. Wine/European
+ASE,3.0,2.0,1.0,1.0,1.0,6.0,ASE,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AIQ,2.0,2.5,1.0,1.0,1.0,5.5,AIQ,Fermentation,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+BLG,2.0,1.5,1.0,1.0,1.0,4.5,BLG,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BLI,2.0,1.5,1.0,1.0,1.0,4.5,BLI,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ACP,2.0,2.0,1.0,1.0,1.0,5.0,ACP,Wine,1. Wine/European (subclade 1),Wine,True,1. Wine/European,1. Wine/European
+BQA,2.0,2.0,1.0,1.0,1.0,5.0,BQA,Wine,1. Wine/European (subclade 1),Wine,True,1. Wine/European,1. Wine/European
+AMA,2.0,2.666666667,1.0,1.0,1.0,5.666666666999999,AMA,Fruit,1. Wine/European (subclade 1),Wild,False,1. Wine/European,1. Wine/European
+ALQ,2.0,3.0,1.0,1.0,1.0,6.0,ALQ,Tree,1. Wine/European (subclade 1),Wild,False,1. Wine/European,1. Wine/European
+BBI,2.0,1.0,1.0,1.0,0.0,3.0,BBI,Flower,1. Wine/European (subclade 1),Wild,False,1. Wine/European,1. Wine/European
+ALT,2.0,3.0,1.0,1.0,1.0,6.0,ALT,Flower,1. Wine/European (subclade 1),Wild,False,1. Wine/European,1. Wine/European
+BBK,2.0,3.5,1.0,1.0,1.0,6.5,BBK,Flower,1. Wine/European (subclade 1),Wild,False,1. Wine/European,1. Wine/European
+BFB,2.0,3.5,1.0,1.0,1.0,6.5,BFB,Nature,1. Wine/European (subclade 1),Wild,False,1. Wine/European,1. Wine/European
+BFD,2.0,3.0,1.0,1.0,1.0,6.0,BFD,Fruit,1. Wine/European (subclade 1),Wild,False,1. Wine/European,1. Wine/European
+ALS,2.0,2.0,1.0,1.0,1.0,5.0,ALS,Flower,1. Wine/European (subclade 1),Wild,False,1. Wine/European,1. Wine/European
+BBH,2.0,2.0,1.0,1.0,1.0,5.0,BBH,Flower,1. Wine/European (subclade 1),Wild,False,1. Wine/European,1. Wine/European
+BPQ,1.5,2.5,1.0,1.0,1.0,5.0,BPQ,Wine,1. Wine/European (subclade 1),Wine,True,1. Wine/European,1. Wine/European
+BQN,1.0,3.0,1.0,1.0,1.0,5.0,BQN,Wine,1. Wine/European (subclade 1),Wine,True,1. Wine/European,1. Wine/European
+CBI,1.0,3.0,1.0,1.0,1.0,5.0,CBI,Wine,1. Wine/European (subclade 1),Wine,True,1. Wine/European,1. Wine/European
+CCM,1.5,4.0,1.0,1.0,1.0,6.5,CCM,Tree,1. Wine/European (subclade 1),Wild,False,1. Wine/European,1. Wine/European
+BEP,2.0,2.0,1.0,1.0,1.0,5.0,BEP,Unknown,1. Wine/European (subclade 1),,False,1. Wine/European,1. Wine/European
+BRC,2.0,1.0,1.0,1.0,1.0,4.0,BRC,Wine,1. Wine/European (subclade 1),Wine,True,1. Wine/European,1. Wine/European
+CGT,2.0,1.0,1.0,1.0,1.0,4.0,CGT,Wine,1. Wine/European (subclade 1),Wine,True,1. Wine/European,1. Wine/European
+ALL,2.0,1.5,1.0,1.0,1.0,4.5,ALL,Water,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+ALM,2.0,1.5,1.0,1.0,1.0,4.5,ALM,Water,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+AVH,3.0,1.0,1.0,1.0,1.5,5.5,AVH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AHR,5.0,2.0,2.0,2.0,2.0,9.0,AHR,"Human, clinical",1. Wine/European,Clinical,False,1. Wine/European,1. Wine/European
+SACE_YAD,3.5,1.0,1.0,1.5,1.0,5.5,SACE_YAD,"Human, clinical",1. Wine/European,Clinical,False,1. Wine/European,1. Wine/European
+AGH,2.0,1.0,1.0,1.0,0.0,3.0,AGH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BTH,2.0,1.0,1.0,1.0,0.0,3.0,BTH,Tree,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+ATH,2.0,2.0,1.0,1.0,1.0,5.0,ATH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BFQ,3.0,1.0,1.0,1.0,2.0,6.0,BFQ,Cider,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+CIA,3.0,1.0,1.0,1.0,2.0,6.0,CIA,Industrial,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+BFR,2.0,1.0,1.0,1.0,1.0,4.0,BFR,Cider,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+CIB,2.0,1.0,1.0,1.0,1.5,4.5,CIB,Industrial,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+CBG,2.0,1.0,1.0,1.0,1.0,4.0,CBG,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ACF,2.0,2.0,1.0,1.0,1.0,5.0,ACF,Distillery,1. Wine/European,Distillery,True,1. Wine/European,1. Wine/European
+SACE_YCD,2.5,1.0,1.0,1.5,1.0,4.5,SACE_YCD,Cider,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+APS,3.0,0.5,1.0,1.0,1.0,4.5,APS,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ARC,2.0,0.5,1.5,1.5,1.0,3.5,ARC,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BER,2.0,2.0,1.0,1.0,0.5,4.5,BER,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BES,2.0,1.0,1.0,1.0,1.0,4.0,BES,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ARK,2.5,1.0,1.0,1.0,2.5,6.0,ARK,Fruit,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+ATA,2.0,1.0,1.0,1.0,0.0,3.0,ATA,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ARQ,2.0,1.0,1.0,1.0,0.0,3.0,ARQ,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+SACE_YBN,2.0,1.0,1.0,1.5,0.0,3.0,SACE_YBN,Fruit,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+APV,2.0,1.0,1.0,1.0,0.0,3.0,APV,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CFV,2.0,1.5,1.5,1.5,0.0,3.5,CFV,Fruit,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+SACE_YDC,2.0,1.0,1.0,1.5,0.0,3.0,SACE_YDC,Beer,1. Wine/European,Beer,True,1. Wine/European,1. Wine/European
+SACE_GAP,2.0,1.0,1.0,1.0,1.0,4.0,SACE_GAP,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AAI,2.0,1.0,1.0,1.0,1.0,4.0,AAI,Distillery,1. Wine/European,Distillery,True,1. Wine/European,1. Wine/European
+ARV,2.0,1.0,1.0,1.0,1.0,4.0,ARV,Distillery,1. Wine/European,Distillery,True,1. Wine/European,1. Wine/European
+BHC,2.0,2.0,1.0,1.0,1.0,5.0,BHC,Cider,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+BHF,2.0,2.0,1.0,1.0,1.0,5.0,BHF,Cider,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+BLB,3.5,1.0,1.0,1.0,1.0,5.5,BLB,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BPP,2.0,1.0,1.0,1.0,4.5,7.5,BPP,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BTN,2.0,1.0,1.0,1.0,0.0,3.0,BTN,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BTL,2.0,1.0,1.0,1.0,0.0,3.0,BTL,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CRH,2.0,1.0,1.0,1.0,0.0,3.0,CRH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+SACE_YAA,2.0,1.0,1.0,1.5,1.0,4.0,SACE_YAA,Distillery,1. Wine/European,Distillery,True,1. Wine/European,1. Wine/European
+BSP,2.0,1.0,1.0,1.0,0.0,3.0,BSP,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AHT,2.0,1.0,1.0,1.0,1.0,4.0,AHT,Fermentation,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+ATN,2.0,1.0,1.0,1.0,1.0,4.0,ATN,Fruit,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+SACE_YBO,2.0,1.0,1.0,1.0,1.0,4.0,SACE_YBO,Fruit,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BNK,2.0,1.0,1.0,1.0,1.0,4.0,BNK,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BNR,2.0,1.0,1.0,1.0,1.0,4.0,BNR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BQH,2.0,0.0,1.0,1.0,0.0,2.0,BQH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BEQ,2.0,1.5,2.0,2.0,0.5,4.0,BEQ,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AIK,2.0,1.0,1.0,1.0,1.0,4.0,AIK,Nature,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+CAH,2.0,2.0,1.5,2.0,0.0,4.0,CAH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CBA,1.5,1.0,1.0,1.0,0.0,2.5,CBA,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CAI,2.0,1.5,1.0,1.0,0.0,3.5,CAI,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CAK,2.0,1.5,1.0,1.0,0.0,3.5,CAK,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CAL,2.0,2.0,1.0,1.0,0.0,4.0,CAL,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BSL,2.0,1.5,1.5,1.5,0.5,4.0,BSL,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+SACE_YBX,2.5,1.0,2.5,2.5,1.0,4.5,SACE_YBX,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BSE,2.0,1.0,1.0,1.0,1.0,4.0,BSE,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AAA,2.0,1.0,1.0,1.0,1.0,4.0,AAA,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CFS,2.25,1.0,1.0,1.0,1.0,4.25,CFS,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BEV,3.0,1.0,1.0,1.0,0.0,4.0,BEV,Water,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BET,3.0,1.0,1.0,1.0,0.0,4.0,BET,Water,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BST,3.0,1.0,1.0,1.0,0.0,4.0,BST,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ASS,2.0,1.0,1.0,1.0,1.0,4.0,ASS,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BSD,2.0,1.0,1.0,1.0,1.0,4.0,BSD,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ATM,2.0,1.0,1.0,1.0,0.0,3.0,ATM,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CQT,1.5,1.0,1.0,1.0,0.0,2.5,CQT,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BSA,2.0,1.0,1.0,1.0,1.0,4.0,BSA,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ADR,2.0,1.0,1.0,1.0,1.0,4.0,ADR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BSC,2.0,1.0,1.0,1.0,0.0,3.0,BSC,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CFQ,2.0,1.0,1.0,1.0,1.0,4.0,CFQ,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CFR,2.0,0.0,1.0,1.0,0.0,2.0,CFR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BSB,2.0,2.0,1.0,1.0,1.0,5.0,BSB,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ADC,2.0,1.0,1.0,1.0,1.0,4.0,ADC,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+SACE_YCP,2.5,1.0,1.0,1.5,1.0,4.5,SACE_YCP,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+SACE_YCQ,2.0,1.0,1.0,1.0,1.0,4.0,SACE_YCQ,Cider,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+BII,2.0,1.0,1.0,1.0,0.0,3.0,BII,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BIS,2.0,1.0,1.0,1.0,0.0,3.0,BIS,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BIG,2.0,1.0,1.0,1.0,1.0,4.0,BIG,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AIR,2.0,2.0,1.0,1.0,1.0,5.0,AIR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AIT,2.5,3.0,1.5,1.0,1.0,6.5,AIT,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BNF,2.0,1.0,1.0,1.0,1.0,4.0,BNF,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BAR,2.0,1.0,1.0,1.0,1.0,4.0,BAR,Tree,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BAS,2.0,1.0,1.0,1.0,1.0,4.0,BAS,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BAT,2.0,1.0,1.0,1.0,1.0,4.0,BAT,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BRD,2.5,1.0,1.0,1.0,0.5,4.0,BRD,Unknown,1. Wine/European,,False,1. Wine/European,1. Wine/European
+AGV,2.0,1.0,1.0,1.0,0.0,3.0,AGV,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BQI,1.0,1.0,1.0,1.0,0.0,2.0,BQI,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AGA,2.0,1.0,1.0,1.0,0.0,3.0,AGA,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AGS,2.0,1.0,1.0,1.0,0.0,3.0,AGS,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BPC,2.0,0.0,2.0,2.0,0.0,2.0,BPC,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKE,2.0,1.0,1.0,1.0,0.0,3.0,BKE,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BLH,2.0,2.0,1.0,1.0,0.0,4.0,BLH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CRG,2.0,1.0,1.0,1.0,0.0,3.0,CRG,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AIL,2.0,1.0,1.0,1.0,0.0,3.0,AIL,Nature,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+AMS,2.0,1.0,1.0,1.0,0.0,3.0,AMS,Probiotic,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+BLE,2.0,1.0,1.0,1.0,0.0,3.0,BLE,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ADB,2.0,1.0,1.0,1.0,1.0,4.0,ADB,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BQB,2.0,1.0,1.0,1.0,0.0,3.0,BQB,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AMR,2.0,1.0,1.0,1.0,1.0,4.0,AMR,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+ABT,2.0,1.0,1.0,1.0,1.0,4.0,ABT,Nature,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BRA,2.0,1.0,1.0,1.0,1.0,4.0,BRA,Nature,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BIC,2.0,1.0,1.0,1.0,0.0,3.0,BIC,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BLK,2.0,2.0,1.0,1.0,0.0,4.0,BLK,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BBV,2.0,1.0,1.0,1.0,1.0,4.0,BBV,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BVK,2.0,1.0,1.0,1.0,1.0,4.0,BVK,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CFE,2.0,1.0,1.0,1.0,1.0,4.0,CFE,Beer,1. Wine/European,Beer,True,1. Wine/European,1. Wine/European
+BRF,2.0,1.0,1.0,1.0,1.0,4.0,BRF,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BSM,2.0,1.0,1.0,1.0,1.0,4.0,BSM,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BSN,2.0,1.0,1.0,1.0,1.0,4.0,BSN,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CPE,2.0,1.0,1.0,1.0,1.0,4.0,CPE,Unknown,1. Wine/European,,False,1. Wine/European,1. Wine/European
+BLM,2.0,2.0,1.0,1.0,0.0,4.0,BLM,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BQC,2.0,1.0,1.0,1.0,1.0,4.0,BQC,Distillery,1. Wine/European,Distillery,True,1. Wine/European,1. Wine/European
+BRE,2.0,1.0,1.0,1.0,0.0,3.0,BRE,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BPV,2.0,1.0,1.0,1.0,0.0,3.0,BPV,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CRC,1.5,1.0,1.0,1.0,1.0,3.5,CRC,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BHN,3.0,2.0,1.0,1.0,0.0,5.0,BHN,Fermentation,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+BBB,2.0,2.0,1.0,1.0,0.0,4.0,BBB,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BAV,2.0,2.0,1.0,1.0,0.0,4.0,BAV,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CAE,2.0,2.0,1.0,1.0,0.0,4.0,CAE,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CAF,2.0,2.0,1.0,1.0,0.0,4.0,CAF,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CRL,2.0,2.0,1.0,1.0,0.0,4.0,CRL,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BBA,2.0,1.0,1.0,1.0,1.0,4.0,BBA,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+SACE_YAY,2.0,0.0,1.5,1.5,0.0,2.0,SACE_YAY,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+ADI,2.0,1.0,1.0,1.0,0.0,3.0,ADI,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+SACE_YBA,2.0,1.0,1.0,1.5,0.0,3.0,SACE_YBA,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+SACE_YAZ,2.0,1.0,1.0,1.0,0.0,3.0,SACE_YAZ,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+BMI,1.0,1.0,1.0,1.0,0.0,2.0,BMI,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+SACE_YBE,1.0,1.0,1.0,1.0,0.0,2.0,SACE_YBE,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+BMK,2.0,1.0,1.0,1.0,0.0,3.0,BMK,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+SACE_YBF,2.0,1.0,1.0,1.5,0.0,3.0,SACE_YBF,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+BMH,1.0,1.0,1.0,1.0,0.0,2.0,BMH,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+ADD,2.0,0.0,1.0,1.0,0.0,2.0,ADD,Soil,1. Wine/European (subclade 2),Wild,False,1. Wine/European,1. Wine/European
+SACE_YBB,2.0,0.0,1.0,1.0,0.0,2.0,SACE_YBB,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+SACE_YBG,2.0,0.0,1.0,1.5,0.0,2.0,SACE_YBG,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+SACE_YBH,2.0,0.0,1.0,1.0,0.0,2.0,SACE_YBH,"Human, clinical",1. Wine/European (subclade 2),Clinical,False,1. Wine/European,1. Wine/European
+CDS,2.0,0.0,1.0,1.0,0.0,2.0,CDS,Fruit,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BIM,2.0,2.0,1.0,1.0,1.0,5.0,BIM,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BIN,2.0,2.0,1.0,1.0,1.0,5.0,BIN,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKA,2.0,2.0,1.0,1.0,1.0,5.0,BKA,Fruit,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BQQ,2.0,1.0,1.0,1.0,0.0,3.0,BQQ,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ADS,2.0,2.0,1.0,1.0,1.0,5.0,ADS,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BNM,2.0,1.0,1.0,1.0,1.0,4.0,BNM,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ACR,2.0,2.0,1.0,1.0,1.0,5.0,ACR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BIH,2.0,2.5,1.0,1.0,1.0,5.5,BIH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKC,2.5,2.5,1.0,1.0,1.0,6.0,BKC,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BLS,2.0,2.0,1.0,1.0,1.0,5.0,BLS,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKD,2.0,1.0,1.0,1.0,0.0,3.0,BKD,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BNP,2.0,1.0,1.0,1.0,0.0,3.0,BNP,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKN,2.0,1.0,1.0,1.0,0.0,3.0,BKN,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BNQ,2.0,1.0,1.0,1.0,0.0,3.0,BNQ,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CBH,1.5,1.0,1.0,1.0,0.0,2.5,CBH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKH,2.0,2.0,1.0,1.0,0.0,4.0,BKH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BPM,2.0,1.0,1.0,1.0,1.0,4.0,BPM,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKP,2.0,0.0,1.0,1.0,1.0,3.0,BKP,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CRA,2.0,0.0,1.0,1.0,1.0,3.0,CRA,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CRB,2.0,1.0,1.0,1.0,0.0,3.0,CRB,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CHC,2.0,1.0,1.0,1.0,0.0,3.0,CHC,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CGS,2.0,1.0,1.0,1.0,1.0,4.0,CGS,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CHB,3.0,1.0,1.0,1.0,0.5,4.5,CHB,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CHD,2.5,1.5,1.0,1.0,1.0,5.0,CHD,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CGV,2.0,0.0,1.0,1.0,1.0,3.0,CGV,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CHA,2.0,1.0,1.0,1.0,1.0,4.0,CHA,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CHE,2.5,1.0,1.0,1.0,0.0,3.5,CHE,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AHI,2.0,1.0,1.0,1.0,0.0,3.0,AHI,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKM,2.0,1.0,1.0,1.0,0.0,3.0,BKM,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BIF,2.0,1.0,1.0,1.0,0.0,3.0,BIF,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKG,2.0,0.0,1.0,1.0,0.0,2.0,BKG,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKF,2.0,1.0,1.0,1.0,0.0,3.0,BKF,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BLL,2.0,1.0,1.0,1.0,0.0,3.0,BLL,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ARL,2.5,1.0,1.0,1.0,0.0,3.5,ARL,Flower,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+CKI,1.5,1.0,1.0,1.0,0.0,2.5,CKI,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CKL,2.0,1.0,1.0,1.0,0.0,3.0,CKL,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CKH,2.0,1.0,1.0,1.0,0.0,3.0,CKH,Industrial,1. Wine/European (subclade 3),Other fermentation,True,1. Wine/European,1. Wine/European
+CKD,2.0,1.0,1.0,1.0,0.0,3.0,CKD,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CKE,2.0,1.0,1.0,1.0,0.0,3.0,CKE,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CIS,2.0,1.0,1.0,1.0,0.0,3.0,CIS,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+BMN,2.0,1.0,1.0,1.0,0.0,3.0,BMN,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CIT,2.0,1.0,1.0,1.0,0.0,3.0,CIT,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CKP,2.0,1.0,1.0,1.0,0.0,3.0,CKP,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CKQ,2.0,1.0,1.0,1.0,0.0,3.0,CKQ,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CKB,1.5,1.0,1.0,1.0,0.0,2.5,CKB,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CKC,2.0,1.0,1.0,1.0,0.0,3.0,CKC,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CIQ,2.0,1.0,1.0,1.0,0.0,3.0,CIQ,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CIM,2.0,1.0,1.0,1.0,0.0,3.0,CIM,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CIN,2.0,1.0,1.0,1.0,0.0,3.0,CIN,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CIR,2.0,1.0,1.0,1.0,0.0,3.0,CIR,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CKF,2.0,1.0,1.0,1.0,0.0,3.0,CKF,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CKG,2.0,1.0,1.0,1.0,0.0,3.0,CKG,Fruit,1. Wine/European (subclade 3),Wild,False,1. Wine/European,1. Wine/European
+CKM,2.0,1.0,1.0,1.0,0.0,3.0,CKM,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CIP,2.5,1.0,1.0,1.0,0.0,3.5,CIP,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+BCA,2.5,1.0,1.0,1.0,0.0,3.5,BCA,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+AMT,2.0,1.0,1.0,1.0,0.0,3.0,AMT,Probiotic,1. Wine/European (subclade 3),Other fermentation,True,1. Wine/European,1. Wine/European
+CIV,2.0,1.0,1.0,1.0,0.0,3.0,CIV,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+CKT,2.0,1.0,1.0,1.0,0.0,3.0,CKT,"Human, clinical",1. Wine/European (subclade 3),Clinical,False,1. Wine/European,1. Wine/European
+BIL,2.0,1.0,1.0,1.0,1.0,4.0,BIL,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ABS,2.0,1.0,1.0,1.0,1.0,4.0,ABS,Nature,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BIP,2.0,1.0,1.0,1.0,1.0,4.0,BIP,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BIQ,2.0,1.0,1.0,1.0,1.0,4.0,BIQ,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BNI,2.0,1.0,1.0,1.0,2.0,5.0,BNI,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BLV,2.0,1.0,1.0,1.0,1.0,4.0,BLV,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BQG,2.0,1.0,1.0,1.0,1.0,4.0,BQG,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CRD,2.0,1.0,1.0,1.0,0.0,3.0,CRD,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CRI,1.5,1.5,1.0,1.5,1.0,4.0,CRI,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BVM,2.0,2.0,1.0,1.0,1.0,5.0,BVM,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CQV,2.0,2.0,1.0,1.0,1.0,5.0,CQV,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CRK,2.0,2.0,1.0,1.0,1.0,5.0,CRK,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BLF,2.0,1.0,1.0,1.0,1.0,4.0,BLF,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CEA,2.0,1.0,1.0,1.0,1.0,4.0,CEA,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+CEB,2.0,1.0,1.0,1.0,1.0,4.0,CEB,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BNT,2.0,1.0,1.0,1.0,1.0,4.0,BNT,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BLD,2.5,1.0,1.0,1.0,1.0,4.5,BLD,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BKR,2.5,1.5,1.5,1.5,1.0,5.0,BKR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CEC,2.0,1.0,1.0,1.0,1.0,4.0,CEC,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BNH,2.0,1.0,1.0,1.0,1.0,4.0,BNH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BLC,2.0,1.0,1.0,1.0,2.0,5.0,BLC,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CEE,2.0,1.0,1.0,1.0,1.0,4.0,CEE,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BNN,2.0,1.0,1.0,1.0,1.0,4.0,BNN,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CED,2.0,1.0,1.0,1.0,1.0,4.0,CED,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BKS,2.0,1.0,1.0,1.0,1.0,4.0,BKS,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BLP,2.0,1.0,1.0,1.0,1.0,4.0,BLP,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BLN,2.0,1.0,1.0,1.0,1.0,4.0,BLN,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CDV,2.0,1.0,1.0,1.0,1.0,4.0,CDV,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+CEF,2.0,1.0,1.0,1.0,1.0,4.0,CEF,Soil,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+ANQ,2.0,3.0,1.0,1.0,1.0,6.0,ANQ,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AVK,2.0,1.0,1.0,1.0,0.0,3.0,AVK,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BIK,2.0,1.0,1.0,1.0,0.0,3.0,BIK,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CLH,2.5,1.0,1.0,1.0,0.0,3.5,CLH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AHN,2.0,1.0,1.0,1.0,0.0,3.0,AHN,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BSG,2.0,1.0,1.0,1.0,0.0,3.0,BSG,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+SACE_YCA,2.0,1.0,1.0,1.0,0.0,3.0,SACE_YCA,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ACT,2.0,0.0,1.0,1.0,0.0,2.0,ACT,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ACV,2.0,0.0,1.0,1.0,0.0,2.0,ACV,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AKP,2.0,0.0,1.0,1.0,0.0,2.0,AKP,Industrial,1. Wine/European,Other fermentation,True,1. Wine/European,1. Wine/European
+AKV,2.0,0.0,1.0,1.0,0.0,2.0,AKV,Nature,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+ALE,2.0,0.0,1.0,1.0,0.0,2.0,ALE,Insect,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BQP,3.0,1.0,1.0,1.0,0.0,4.0,BQP,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BRB,3.0,1.0,1.0,1.0,1.0,5.0,BRB,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BIT,2.0,2.5,1.0,1.0,0.0,4.5,BIT,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AQB,1.0,1.0,1.0,1.0,0.0,2.0,AQB,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BRH,1.5,1.0,1.0,1.0,0.0,2.5,BRH,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ABP,2.0,1.0,1.0,1.0,1.0,4.0,ABP,Fruit,1. Wine/European,Wild,False,1. Wine/European,1. Wine/European
+BIR,2.0,1.0,1.0,1.0,0.0,3.0,BIR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CPF,1.5,1.5,1.5,1.5,0.0,3.0,CPF,Unknown,1. Wine/European,,False,1. Wine/European,1. Wine/European
+BNG,1.666666667,1.666666667,1.0,1.0,0.666666667,4.000000001,BNG,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AIM,2.0,1.0,1.0,1.0,0.5,3.5,AIM,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CFB,2.0,1.0,1.0,1.0,1.0,4.0,CFB,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+CHF,2.5,1.0,1.0,1.0,0.0,3.5,CHF,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BHB,2.0,0.5,1.0,1.0,0.5,3.0,BHB,Bakery,1. Wine/European,Bakery,True,1. Wine/European,1. Wine/European
+AAK,2.0,1.0,1.0,1.0,0.0,3.0,AAK,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AHP,2.0,0.0,1.0,1.0,0.0,2.0,AHP,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AET,2.0,1.0,1.0,1.0,0.0,3.0,AET,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AEK,3.0,1.0,1.0,1.0,0.0,4.0,AEK,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AQE,2.0,1.0,1.0,1.0,0.0,3.0,AQE,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AQP,2.0,1.0,1.0,1.0,0.0,3.0,AQP,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+ASA,2.0,1.0,1.0,1.0,0.0,3.0,ASA,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+BPL,2.0,0.5,1.0,1.0,0.0,2.5,BPL,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AIP,2.0,1.0,1.0,1.0,0.0,3.0,AIP,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAN,2.0,1.0,1.0,1.0,0.0,3.0,CAN,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAB,2.0,0.0,1.0,1.0,1.0,3.0,CAB,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAP,2.0,0.0,1.0,1.0,1.0,3.0,CAP,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AQC,2.0,1.0,1.0,1.0,0.0,3.0,AQC,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AHK,2.0,1.0,1.0,1.0,0.0,3.0,AHK,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AES,3.0,1.0,1.0,1.0,0.0,4.0,AES,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AFI,3.0,1.0,1.0,2.0,0.0,4.0,AFI,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+BPR,2.0,1.0,1.0,1.0,0.0,3.0,BPR,Nature,1. Wine/European (subclade 4),Wild,False,1. Wine/European,1. Wine/European
+AIA,2.0,1.0,1.0,1.0,0.0,3.0,AIA,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+BVT,2.0,0.0,1.0,1.0,0.0,2.0,BVT,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAA,2.0,0.0,1.0,1.0,0.0,2.0,CAA,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAC,3.5,0.5,1.5,1.5,1.0,5.0,CAC,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+BVV,2.0,0.0,1.0,1.0,0.0,2.0,BVV,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAD,2.0,0.0,1.0,1.0,0.0,2.0,CAD,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAM,2.0,0.5,1.0,1.0,0.0,2.5,CAM,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAQ,2.0,0.5,1.0,1.0,0.0,2.5,CAQ,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CBB,2.0,0.5,1.0,1.0,0.0,2.5,CBB,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CBE,2.5,0.5,1.0,1.0,0.0,3.0,CBE,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AAE,2.0,1.0,1.0,1.0,0.0,3.0,AAE,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AIB,2.0,1.0,1.0,1.0,0.0,3.0,AIB,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAS,2.5,1.0,1.0,1.0,0.0,3.5,CAS,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAR,2.0,1.0,1.0,1.0,0.0,3.0,CAR,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAT,2.5,1.0,1.0,1.0,0.0,3.5,CAT,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CBC,2.0,1.0,1.0,1.0,0.0,3.0,CBC,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CAV,2.0,1.0,1.0,1.0,0.0,3.0,CAV,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+CBD,2.0,1.0,1.0,1.0,0.0,3.0,CBD,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AFV,2.0,1.0,1.0,1.0,0.0,3.0,AFV,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+ART,2.0,1.0,1.0,1.0,1.0,4.0,ART,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+AIC,3.0,0.0,2.0,2.0,0.0,3.0,AIC,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+SACE_YAF,2.0,0.0,1.0,1.0,1.0,3.0,SACE_YAF,Wine,1. Wine/European (subclade 4),Wine,True,1. Wine/European,1. Wine/European
+BSR,2.0,0.5,1.0,1.0,0.0,2.5,BSR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BSS,2.0,0.0,1.0,1.0,0.0,2.0,BSS,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BTR,2.0,0.5,1.0,1.0,0.0,2.5,BTR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+BTP,2.0,0.5,1.0,1.0,0.0,2.5,BTP,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+ASR,2.0,0.5,1.0,1.0,0.0,2.5,ASR,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+SACE_YDJ,2.5,1.0,1.0,1.5,0.0,3.5,SACE_YDJ,Wine,1. Wine/European,Wine,True,1. Wine/European,1. Wine/European
+AVB,2.0,0.0,0.0,0.0,0.0,2.0,AVB,Industrial,2. Alpechin,Other fermentation,True,2. Alpechin,2. Alpechin
+CDT,2.0,0.0,0.0,0.0,1.0,3.0,CDT,Insect,2. Alpechin,Wild,False,2. Alpechin,2. Alpechin
+CPG,2.0,1.0,0.0,0.0,0.0,3.0,CPG,Nature,2. Alpechin,Wild,False,2. Alpechin,2. Alpechin
+ABM,2.0,0.0,0.0,0.0,0.0,2.0,ABM,Industrial,2. Alpechin,Other fermentation,True,2. Alpechin,2. Alpechin
+AHM,2.0,0.0,0.0,0.0,0.0,2.0,AHM,Industrial,2. Alpechin,Other fermentation,True,2. Alpechin,2. Alpechin
+AQA,2.0,0.0,0.0,0.0,0.0,2.0,AQA,Industrial,2. Alpechin,Other fermentation,True,2. Alpechin,2. Alpechin
+AQD,2.0,0.0,0.0,0.0,0.0,2.0,AQD,Industrial,2. Alpechin,Other fermentation,True,2. Alpechin,2. Alpechin
+ATQ,2.0,0.0,0.0,0.0,0.0,2.0,ATQ,Industrial,2. Alpechin,Other fermentation,True,2. Alpechin,2. Alpechin
+CGD,2.0,0.0,0.0,0.0,1.0,3.0,CGD,Fruit,2. Alpechin,Wild,False,2. Alpechin,2. Alpechin
+CGE,2.0,0.0,0.0,0.0,1.0,3.0,CGE,Fruit,2. Alpechin,Wild,False,2. Alpechin,2. Alpechin
+AHL,2.0,0.0,0.0,0.0,0.0,2.0,AHL,Industrial,2. Alpechin,Other fermentation,True,2. Alpechin,2. Alpechin
+BRK,2.0,0.0,0.0,0.0,0.0,2.0,BRK,Industrial,2. Alpechin,Other fermentation,True,2. Alpechin,2. Alpechin
+SACE_YBR,2.5,0.0,0.0,0.0,0.0,2.5,SACE_YBR,Industrial,2. Alpechin,Other fermentation,True,2. Alpechin,2. Alpechin
+AID,2.0,0.0,0.0,0.0,0.0,2.0,AID,Human,2. Alpechin,Clinical,False,2. Alpechin,2. Alpechin
+AIE,2.0,0.0,0.0,0.0,0.0,2.0,AIE,Human,2. Alpechin,Clinical,False,2. Alpechin,2. Alpechin
+SACE_YAE,2.0,0.0,0.0,0.0,0.0,2.0,SACE_YAE,Human,2. Alpechin,Clinical,False,2. Alpechin,2. Alpechin
+SACE_YDM,2.0,0.0,0.0,0.0,0.0,2.0,SACE_YDM,"Human, clinical",2. Alpechin,Clinical,False,2. Alpechin,2. Alpechin
+AGN,3.0,1.0,1.0,1.0,0.0,4.0,AGN,Wine,M1. Mosaic region 1,Wine,True,M1. Mosaic region 1,M1. Mosaic region 1
+AST,2.0,1.0,1.0,1.0,1.0,4.0,AST,Wine,M1. Mosaic region 1,Wine,True,M1. Mosaic region 1,M1. Mosaic region 1
+BHE,2.0,1.0,1.0,1.0,1.0,4.0,BHE,Cider,M1. Mosaic region 1,Other fermentation,True,M1. Mosaic region 1,M1. Mosaic region 1
+BHD,3.0,2.5,1.0,1.0,0.0,5.5,BHD,Cider,M1. Mosaic region 1,Other fermentation,True,M1. Mosaic region 1,M1. Mosaic region 1
+BHM,2.0,1.0,1.0,1.0,1.0,4.0,BHM,Cider,M1. Mosaic region 1,Other fermentation,True,M1. Mosaic region 1,M1. Mosaic region 1
+BHT,2.0,2.0,1.0,1.0,0.0,4.0,BHT,Cider,M1. Mosaic region 1,Other fermentation,True,M1. Mosaic region 1,M1. Mosaic region 1
+ASV,2.0,1.0,1.0,1.0,0.0,3.0,ASV,Wine,M1. Mosaic region 1,Wine,True,M1. Mosaic region 1,M1. Mosaic region 1
+AHF,1.0,1.0,1.0,1.0,1.0,3.0,AHF,Nature,M1. Mosaic region 1,Wild,False,M1. Mosaic region 1,M1. Mosaic region 1
+AMP,1.0,1.0,1.0,1.0,1.0,3.0,AMP,Fruit,M1. Mosaic region 1,Wild,False,M1. Mosaic region 1,M1. Mosaic region 1
+CPB,1.0,1.0,1.0,1.0,1.0,3.0,CPB,Beer,M1. Mosaic region 1,Beer,True,M1. Mosaic region 1,M1. Mosaic region 1
+ACS,2.0,2.0,1.0,1.0,1.0,5.0,ACS,Wine,M1. Mosaic region 1,Wine,True,M1. Mosaic region 1,M1. Mosaic region 1
+SACE_YCI,1.0,1.0,1.0,1.0,2.0,4.0,SACE_YCI,Wine,M1. Mosaic region 1,Wine,True,M1. Mosaic region 1,M1. Mosaic region 1
+BHL,2.5,1.0,1.0,1.0,1.0,4.5,BHL,Cider,M1. Mosaic region 1,Other fermentation,True,M1. Mosaic region 1,M1. Mosaic region 1
+BHK,2.0,0.0,1.0,1.0,1.0,3.0,BHK,Cider,M1. Mosaic region 1,Other fermentation,True,M1. Mosaic region 1,M1. Mosaic region 1
+ACG,2.0,1.0,1.0,1.0,0.0,3.0,ACG,Fermentation,M1. Mosaic region 1,Other fermentation,True,M1. Mosaic region 1,M1. Mosaic region 1
+ACH,2.0,1.0,1.0,1.0,0.0,3.0,ACH,Cider,M1. Mosaic region 1,Other fermentation,True,M1. Mosaic region 1,M1. Mosaic region 1
+CHV,2.5,1.0,1.0,1.0,0.0,3.5,CHV,Cider,M1. Mosaic region 1,Other fermentation,True,M1. Mosaic region 1,M1. Mosaic region 1
+AFR,0.0,0.0,1.0,1.0,1.0,1.0,AFR,Industrial,3. Brazilian bioethanol,Other fermentation,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+BVC,2.0,1.5,1.0,1.0,0.0,3.5,BVC,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+AEG,2.0,1.0,1.0,1.0,1.0,4.0,AEG,Industrial,3. Brazilian bioethanol,Other fermentation,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+AGM,2.0,1.0,1.0,1.0,0.0,3.0,AGM,Industrial,3. Brazilian bioethanol,Other fermentation,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNQ,2.0,0.0,1.0,1.0,0.0,2.0,CNQ,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+AEH,1.0,1.0,1.0,1.0,1.0,3.0,AEH,Industrial,3. Brazilian bioethanol,Other fermentation,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+AFD,1.0,1.0,0.0,0.0,1.0,3.0,AFD,Industrial,3. Brazilian bioethanol,Other fermentation,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+AHC,1.0,1.0,1.0,1.0,1.0,3.0,AHC,Industrial,3. Brazilian bioethanol,Other fermentation,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+BTT,2.0,0.0,1.0,1.0,1.0,3.0,BTT,Distillery,3. Brazilian bioethanol,Distillery,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+APH,2.0,0.5,1.0,1.0,1.0,3.5,APH,Distillery,3. Brazilian bioethanol,Distillery,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+BTV,2.0,0.0,1.0,1.0,1.0,3.0,BTV,Distillery,3. Brazilian bioethanol,Distillery,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+BVA,2.0,1.0,1.0,1.0,0.5,3.5,BVA,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CMT,2.0,0.0,0.5,0.5,1.0,3.0,CMT,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNG,2.0,0.5,0.5,0.5,0.5,3.0,CNG,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNK,2.0,1.0,0.0,0.0,0.5,3.5,CNK,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+APG,1.0,0.0,1.0,0.0,1.0,2.0,APG,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNM,1.5,0.0,0.5,0.5,0.5,2.0,CNM,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNP,2.0,0.5,1.0,1.0,1.0,3.5,CNP,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNR,1.5,0.0,0.5,0.5,0.5,2.0,CNR,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+BVB,1.5,0.5,0.0,0.0,0.5,2.5,BVB,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNI,1.5,0.0,1.0,1.0,0.5,2.0,CNI,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNH,2.0,0.0,0.0,0.0,1.0,3.0,CNH,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+BVH,2.0,0.5,0.5,0.5,1.0,3.5,BVH,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNN,2.0,0.5,0.0,0.0,1.0,3.5,CNN,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNF,2.0,0.5,0.5,0.5,1.0,3.5,CNF,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNB,2.0,0.5,0.5,0.5,1.0,3.5,CNB,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+BVG,2.0,0.5,0.5,0.5,1.0,3.5,BVG,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNE,2.0,1.0,0.5,0.5,1.0,4.0,CNE,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNL,2.0,0.5,0.5,0.5,1.0,3.5,CNL,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+BVD,2.5,0.0,0.0,0.0,1.0,3.5,BVD,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+BVF,2.0,0.5,0.5,0.5,0.0,2.5,BVF,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNS,2.0,0.5,0.5,0.5,0.0,2.5,CNS,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNT,2.0,0.5,0.5,0.5,0.0,2.5,CNT,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+BVE,3.0,0.0,1.0,1.0,1.0,4.0,BVE,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+CNV,2.0,0.0,1.0,1.0,0.5,2.5,CNV,Bioethanol,3. Brazilian bioethanol,Bioethanol,True,3. Brazilian bioethanol,3. Brazilian bioethanol
+AHB,1.0,1.0,1.0,1.0,0.0,2.0,AHB,Nature,,Wild,False,,
+SACE_YBQ,1.5,1.0,1.0,1.5,0.0,2.5,SACE_YBQ,Nature,,Wild,False,,
+CCL,1.0,1.0,1.0,1.0,1.0,3.0,CCL,Tree,4. Mediterranean oak,Wild,False,4. Mediterranean oak,Wild clades
+BBQ,1.5,1.0,1.0,1.0,1.0,3.5,BBQ,Soil,4. Mediterranean oak,Wild,False,4. Mediterranean oak,Wild clades
+BBS,1.5,1.0,1.0,1.0,1.0,3.5,BBS,Soil,4. Mediterranean oak,Wild,False,4. Mediterranean oak,Wild clades
+BFP,1.0,1.0,1.0,1.0,1.0,3.0,BFP,Tree,4. Mediterranean oak,Wild,False,4. Mediterranean oak,Wild clades
+BTG,1.0,1.0,1.0,1.0,1.0,3.0,BTG,Tree,4. Mediterranean oak,Wild,False,4. Mediterranean oak,Wild clades
+CLC,1.0,1.0,1.0,1.0,1.0,3.0,CLC,Tree,4. Mediterranean oak,Wild,False,4. Mediterranean oak,Wild clades
+CLB,1.0,1.0,1.0,1.0,1.0,3.0,CLB,Tree,4. Mediterranean oak,Wild,False,4. Mediterranean oak,Wild clades
+CLD,1.5,1.0,1.0,1.0,1.0,3.5,CLD,Flower,4. Mediterranean oak,Wild,False,4. Mediterranean oak,Wild clades
+AQM,1.5,0.0,1.0,1.0,0.0,1.5,AQM,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BFN,2.5,0.0,1.0,1.0,0.0,2.5,BFN,Tree,5. French dairy,Wild,False,5. French dairy,5. French dairy
+BME,2.333333333,0.0,1.0,1.0,1.0,3.333333333,BME,Human,5. French dairy,Clinical,False,5. French dairy,5. French dairy
+ARS,1.5,1.5,1.0,1.0,0.0,3.0,ARS,Nature,5. French dairy,Wild,False,5. French dairy,5. French dairy
+ARN,2.333333333,1.0,1.0,1.0,0.0,3.333333333,ARN,"Human, clinical",5. French dairy,Clinical,False,5. French dairy,5. French dairy
+BGM,3.5,0.5,1.0,1.0,0.0,4.0,BGM,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGP,3.0,1.0,1.0,1.0,0.0,4.0,BGP,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BFH,2.0,2.0,1.0,1.0,0.0,4.0,BFH,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGR,2.5,2.5,1.0,1.0,0.0,5.0,BGR,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+ASN,2.5,1.0,1.0,1.0,0.0,3.5,ASN,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGK,2.0,1.5,1.0,1.0,0.0,3.5,BGK,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGS,2.0,0.5,1.0,1.0,0.0,2.5,BGS,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGD,2.0,3.0,1.0,1.0,0.0,5.0,BGD,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGI,2.0,2.0,1.0,1.0,0.0,4.0,BGI,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+ALD,2.0,3.0,1.0,1.0,0.0,5.0,ALD,Nature,5. French dairy,Wild,False,5. French dairy,5. French dairy
+BFS,2.0,3.0,1.0,1.0,0.0,5.0,BFS,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGB,2.0,3.5,1.0,1.0,0.0,5.5,BGB,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGF,2.0,2.5,1.0,1.0,0.0,4.5,BGF,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGG,3.0,2.5,1.0,1.0,0.0,5.5,BGG,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+ARR,2.0,3.5,1.0,1.0,0.0,5.5,ARR,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BFT,2.0,2.5,1.0,1.0,0.0,4.5,BFT,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGE,2.0,2.5,1.0,1.0,0.0,4.5,BGE,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGL,2.0,3.5,1.0,1.0,0.0,5.5,BGL,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BFV,2.5,2.5,1.0,1.0,0.0,5.0,BFV,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGA,2.0,2.0,1.0,1.0,0.0,4.0,BGA,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGT,2.0,3.0,1.0,1.0,0.0,5.0,BGT,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGV,2.0,3.0,1.0,1.0,0.0,5.0,BGV,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGH,2.5,3.0,1.0,1.0,0.0,5.5,BGH,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGN,2.5,3.0,1.0,1.0,0.0,5.5,BGN,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGC,2.0,1.5,1.0,1.0,0.0,3.5,BGC,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+BGQ,2.5,2.5,1.0,1.0,0.0,5.0,BGQ,Dairy,5. French dairy,Other fermentation,True,5. French dairy,5. French dairy
+CKV,2.0,2.0,1.0,1.0,0.0,4.0,CKV,"Human, clinical",5. French dairy,Clinical,False,5. French dairy,5. French dairy
+AFL,2.0,1.0,1.0,1.0,0.0,3.0,AFL,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+AEN,2.5,0.0,1.5,1.5,1.0,3.5,AEN,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+ASC,2.333333333,0.0,1.0,1.0,0.0,2.333333333,ASC,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+ANL,2.0,0.0,1.0,1.0,0.0,2.0,ANL,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+ANM,2.0,0.0,1.0,1.0,0.25,2.25,ANM,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+AVN,2.5,0.0,1.25,1.25,0.0,2.5,AVN,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+AVP,2.4,0.0,1.0,1.0,0.0,2.4,AVP,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+AVQ,2.4,0.0,1.2,1.2,0.2,2.6,AVQ,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+AVR,2.6,0.0,1.0,1.2,0.4,3.0,AVR,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+AVS,2.6,0.2,1.0,1.0,0.4,3.2,AVS,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+AVT,2.6,0.0,1.0,1.0,0.2,2.8000000000000003,AVT,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+BEK,2.25,0.0,1.25,1.25,0.0,2.25,BEK,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+BEM,2.0,0.0,1.25,1.25,0.0,2.0,BEM,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+BEI,2.666666667,0.0,1.333333333,1.333333333,0.666666667,3.3333333339999998,BEI,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+BEN,2.666666667,0.0,1.333333333,1.333333333,0.333333333,3.0,BEN,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+BHA,1.333333333,2.666666667,1.333333333,1.333333333,1.333333333,5.333333333,BHA,Beer,6. African beer,Beer,True,6. African beer,6. African beer
+BDN,2.0,0.0,1.0,1.0,0.0,2.0,BDN,Nature,6. African beer,Wild,False,6. African beer,6. African beer
+CES,1.5,0.0,1.0,1.0,0.0,1.5,CES,Bakery,6. African beer,Bakery,True,6. African beer,6. African beer
+CER,1.5,0.0,1.0,1.0,0.0,1.5,CER,Bakery,6. African beer,Bakery,True,6. African beer,6. African beer
+CET,2.0,0.0,1.0,1.0,0.0,2.0,CET,Bakery,6. African beer,Bakery,True,6. African beer,6. African beer
+BPI,5.0,1.5,1.0,1.0,2.0,8.5,BPI,Unknown,,,False,,
+BPN,3.5,1.0,1.0,1.0,1.5,6.0,BPN,Wine,,Wine,True,,
+SACE_YDB,5.5,1.5,1.5,1.5,1.5,8.5,SACE_YDB,Unknown,,,False,,
+AAB,3.0,0.0,1.0,1.0,1.0,4.0,AAB,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+CBN,4.0,1.0,1.0,1.0,1.0,6.0,CBN,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+AQG,3.5,1.0,1.0,1.0,1.0,5.5,AQG,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+CFF,2.5,0.5,1.0,1.0,1.0,4.0,CFF,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+AFB,2.0,0.0,1.0,1.0,1.0,3.0,AFB,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+AFA,2.0,0.0,1.0,1.0,1.0,3.0,AFA,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+AFP,2.0,0.0,1.0,1.0,1.0,3.0,AFP,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+AQH,2.333333333,0.333333333,1.0,1.0,1.0,3.6666666660000002,AQH,Industrial,7. Mosaic beer,Other fermentation,True,7. Mosaic beer,7. Mosaic beer
+SACE_YAB,2.0,0.0,1.0,1.0,1.0,3.0,SACE_YAB,Distillery,7. Mosaic beer,Distillery,True,7. Mosaic beer,7. Mosaic beer
+AAR,2.0,0.0,1.0,1.0,1.0,3.0,AAR,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+AEA,3.0,0.0,1.0,1.0,1.0,4.0,AEA,Industrial,7. Mosaic beer,Other fermentation,True,7. Mosaic beer,7. Mosaic beer
+BRM,2.0,0.0,1.0,1.0,1.0,3.0,BRM,Distillery,7. Mosaic beer,Distillery,True,7. Mosaic beer,7. Mosaic beer
+AEQ,2.0,0.0,1.0,1.0,1.0,3.0,AEQ,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+SACE_YAG,2.5,0.0,1.0,1.5,1.0,3.5,SACE_YAG,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+AAQ,2.0,1.0,1.0,1.0,1.0,4.0,AAQ,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+ASB,3.0,2.5,1.0,1.0,1.0,6.5,ASB,"Human, clinical",7. Mosaic beer,Clinical,False,7. Mosaic beer,7. Mosaic beer
+APP,2.0,0.0,1.0,1.0,0.333333333,2.333333333,APP,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+CPD,2.5,1.0,1.0,1.0,1.0,4.5,CPD,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+AIG,4.0,0.0,1.0,1.0,1.0,5.0,AIG,Beer,7. Mosaic beer,Beer,True,7. Mosaic beer,7. Mosaic beer
+ARE,3.5,1.0,1.0,1.0,1.0,5.5,ARE,Tree,7. Mosaic beer,Wild,False,7. Mosaic beer,7. Mosaic beer
+SACE_YDD,5.0,1.0,1.0,1.5,1.0,7.0,SACE_YDD,Fermentation,7. Mosaic beer,Other fermentation,True,7. Mosaic beer,7. Mosaic beer
+AFQ,0.0,1.0,1.0,1.0,0.0,1.0,AFQ,Water,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+CDM,1.5,1.0,1.0,1.0,0.0,2.5,CDM,Water,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+SACE_YCF,2.5,1.5,1.5,1.5,1.0,5.0,SACE_YCF,Fruit,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+CFT,2.0,0.5,1.0,1.0,1.0,3.5,CFT,Fruit,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+AER,3.0,0.0,2.0,2.0,1.0,4.0,AER,Industrial,M2. Mosaic region 2,Other fermentation,True,M2. Mosaic region 2,M2. Mosaic region 2
+BCV,3.0,1.5,1.0,1.5,0.0,4.5,BCV,Nature,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+BDB,2.5,1.0,1.0,1.0,0.0,3.5,BDB,Nature,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+BDD,2.5,1.5,1.0,1.0,0.0,4.0,BDD,Nature,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+BDA,2.5,1.0,1.0,1.0,0.0,3.5,BDA,Nature,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+BDE,2.333333333,1.0,1.0,1.0,0.0,3.333333333,BDE,Nature,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+BDH,2.5,1.0,1.0,1.0,0.0,3.5,BDH,Nature,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+BDI,2.5,1.0,1.0,1.0,0.0,3.5,BDI,Nature,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+BDK,2.0,1.0,1.0,1.0,0.0,3.0,BDK,Nature,M2. Mosaic region 2,Wild,False,M2. Mosaic region 2,M2. Mosaic region 2
+SACE_YCT,1.0,1.0,1.0,1.5,1.0,3.0,SACE_YCT,Wine,M2. Mosaic region 2,Wine,True,M2. Mosaic region 2,M2. Mosaic region 2
+SACE_YCC,1.0,0.0,1.0,1.5,0.0,1.0,SACE_YCC,Industrial,M2. Mosaic region 2,Other fermentation,True,M2. Mosaic region 2,M2. Mosaic region 2
+BHG,2.0,1.0,1.0,1.0,0.0,3.0,BHG,Cider,M2. Mosaic region 2,Other fermentation,True,M2. Mosaic region 2,M2. Mosaic region 2
+BHH,1.0,1.0,1.0,1.0,0.0,2.0,BHH,Cider,M2. Mosaic region 2,Other fermentation,True,M2. Mosaic region 2,M2. Mosaic region 2
+BHI,1.0,1.0,1.0,1.0,0.0,2.0,BHI,Cider,M2. Mosaic region 2,Other fermentation,True,M2. Mosaic region 2,M2. Mosaic region 2
+SACE_MAA,3.0,1.0,1.0,1.0,1.0,5.0,SACE_MAA,"Human, clinical",M2. Mosaic region 2,Clinical,False,M2. Mosaic region 2,M2. Mosaic region 2
+SACE_YCZ,3.5,1.0,1.0,1.5,1.0,5.5,SACE_YCZ,"Human, clinical",M2. Mosaic region 2,Clinical,False,M2. Mosaic region 2,M2. Mosaic region 2
+AFF,2.0,0.0,1.0,1.0,1.0,3.0,AFF,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+AAL,2.0,0.0,1.0,1.0,1.0,3.0,AAL,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+AAM,2.0,0.0,1.0,1.0,1.0,3.0,AAM,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+ANP,2.5,0.0,1.0,1.0,1.0,3.5,ANP,Insect,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AHV,4.0,0.0,1.0,1.0,1.0,5.0,AHV,Beer,8. Mixed origin,Beer,True,8. Mixed origin,8. Mixed origin
+ATS,3.0,0.0,1.0,1.0,1.5,4.5,ATS,Flower,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+BBP,2.5,0.0,1.0,1.0,1.5,4.0,BBP,Flower,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+CDR,3.0,0.0,1.0,1.0,1.0,4.0,CDR,Flower,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+BMG,2.666666667,0.0,1.0,1.0,1.333333333,4.0,BMG,"Human, clinical",8. Mixed origin,Clinical,False,8. Mixed origin,8. Mixed origin
+CHL,3.0,0.0,1.0,1.0,1.5,4.5,CHL,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+ADP,3.5,0.0,1.0,1.0,1.0,4.5,ADP,Unknown,8. Mixed origin,,False,8. Mixed origin,8. Mixed origin
+AMK,2.0,0.0,1.0,1.0,1.0,3.0,AMK,Tree,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AML,2.333333333,0.0,1.0,1.0,1.333333333,3.6666666660000002,AML,Tree,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AMI,2.333333333,0.0,1.0,1.0,1.333333333,3.6666666660000002,AMI,Tree,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AMG,2.0,0.0,1.0,1.0,1.333333333,3.3333333329999997,AMG,Tree,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AMQ,2.0,0.0,1.0,1.0,1.333333333,3.3333333329999997,AMQ,Tree,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+APK,2.0,0.0,1.0,1.0,1.0,3.0,APK,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+APN,2.333333333,0.0,1.0,1.0,1.333333333,3.6666666660000002,APN,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+CIE,2.0,0.0,1.0,1.0,0.666666667,2.666666667,CIE,"Human, clinical",8. Mixed origin,Clinical,False,8. Mixed origin,8. Mixed origin
+AEM,2.0,0.0,1.0,1.0,1.0,3.0,AEM,Beer,8. Mixed origin,Beer,True,8. Mixed origin,8. Mixed origin
+AFT,1.25,0.0,0.75,0.75,1.0,2.25,AFT,"Human, clinical",8. Mixed origin,Clinical,False,8. Mixed origin,8. Mixed origin
+AQI,2.0,0.0,1.0,1.0,1.0,3.0,AQI,Water,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AFE,2.0,0.0,1.0,1.0,1.0,3.0,AFE,Water,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+ATR,2.0,0.0,1.0,1.0,1.0,3.0,ATR,Fruit,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AFC,3.5,0.0,1.5,1.5,2.0,5.5,AFC,Nature,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+APM,1.5,0.0,1.0,1.0,1.0,2.5,APM,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+API,2.0,0.0,1.0,1.0,1.0,3.0,API,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+ASL,2.0,0.0,1.0,1.0,1.0,3.0,ASL,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+BTF,2.0,0.0,1.0,1.0,1.0,3.0,BTF,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+ASP,3.0,0.0,1.0,1.0,1.0,4.0,ASP,Unknown,8. Mixed origin,,False,8. Mixed origin,8. Mixed origin
+BCR,3.75,0.0,1.25,1.25,1.75,5.5,BCR,Nature,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+BCS,4.0,0.0,1.0,1.0,1.5,5.5,BCS,Nature,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+BCT,3.0,0.0,1.0,1.0,1.5,4.5,BCT,Nature,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AGK,3.0,0.0,1.0,1.0,1.0,4.0,AGK,Nature,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AGE,2.5,0.0,1.0,1.0,1.5,4.0,AGE,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+BTC,2.0,0.0,1.0,1.0,1.0,3.0,BTC,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+ABV,2.333333333,0.0,1.0,1.0,0.666666667,3.0,ABV,Water,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+ALV,3.0,0.0,1.0,1.0,1.0,4.0,ALV,Fruit,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+BBC,2.333333333,0.0,1.0,1.0,1.0,3.333333333,BBC,Fruit,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AMN,2.25,0.0,1.0,1.0,0.75,3.0,AMN,Tree,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+CFP,2.0,0.0,1.0,1.0,1.0,3.0,CFP,Beer,8. Mixed origin,Beer,True,8. Mixed origin,8. Mixed origin
+BBF,2.0,0.0,1.0,1.0,0.5,2.5,BBF,Water,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AAP,2.0,0.0,1.0,1.0,1.0,3.0,AAP,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+ALN,2.5,0.0,1.0,1.0,1.0,3.5,ALN,Water,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+ALP,2.0,0.0,1.0,1.0,1.0,3.0,ALP,Water,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+BBD,2.5,0.0,1.0,1.0,0.5,3.0,BBD,Water,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+BBE,2.5,0.0,1.0,1.0,0.5,3.0,BBE,Water,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+AAN,2.0,0.0,1.0,1.0,0.5,2.5,AAN,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+CHI,2.5,0.0,1.0,1.0,1.0,3.5,CHI,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+APL,3.0,0.5,1.0,1.0,1.0,4.5,APL,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+AEV,3.0,0.0,1.0,1.0,0.5,3.5,AEV,Water,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+CFI,3.0,0.0,1.0,1.0,0.75,3.75,CFI,Beer,8. Mixed origin,Beer,True,8. Mixed origin,8. Mixed origin
+CFN,3.0,0.0,1.0,1.0,0.75,3.75,CFN,Beer,8. Mixed origin,Beer,True,8. Mixed origin,8. Mixed origin
+CHK,3.0,0.0,1.0,1.0,0.5,3.5,CHK,Beer,8. Mixed origin,Beer,True,8. Mixed origin,8. Mixed origin
+CHH,4.5,0.0,1.0,1.0,2.0,6.5,CHH,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+ADL,3.0,1.0,1.0,1.0,1.5,5.5,ADL,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+BDL,3.5,0.5,1.0,1.0,0.5,4.5,BDL,Beer,8. Mixed origin,Beer,True,8. Mixed origin,8. Mixed origin
+BFM,3.0,0.5,1.0,1.0,1.0,4.5,BFM,Industrial,8. Mixed origin,Other fermentation,True,8. Mixed origin,8. Mixed origin
+BFE,3.0,0.5,1.0,1.0,1.0,4.5,BFE,Industrial,8. Mixed origin,Other fermentation,True,8. Mixed origin,8. Mixed origin
+BFG,3.0,0.5,1.0,1.0,1.0,4.5,BFG,Nature,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+BTD,3.0,0.5,1.0,1.0,1.0,4.5,BTD,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+ADM,2.5,0.0,1.0,1.0,1.0,3.5,ADM,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+AKT,3.0,0.0,1.0,1.0,1.0,4.0,AKT,Insect,8. Mixed origin,Wild,False,8. Mixed origin,8. Mixed origin
+CHG,2.5,0.0,1.0,1.0,1.0,3.5,CHG,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+CHR,2.5,0.5,1.0,1.0,1.5,4.5,CHR,"Human, clinical",8. Mixed origin,Clinical,False,8. Mixed origin,8. Mixed origin
+BML,2.5,0.0,1.0,1.0,1.0,3.5,BML,"Human, clinical",8. Mixed origin,Clinical,False,8. Mixed origin,8. Mixed origin
+BTE,3.0,0.25,1.0,1.0,1.5,4.75,BTE,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+BMM,2.5,0.25,1.0,1.0,1.75,4.5,BMM,"Human, clinical",8. Mixed origin,Clinical,False,8. Mixed origin,8. Mixed origin
+CBF,3.0,0.25,1.0,1.0,1.5,4.75,CBF,Bakery,8. Mixed origin,Bakery,True,8. Mixed origin,8. Mixed origin
+CKK,2.75,0.25,1.0,0.75,1.25,4.25,CKK,"Human, clinical",8. Mixed origin,Clinical,False,8. Mixed origin,8. Mixed origin
+CKS,2.75,0.25,1.0,1.0,1.0,4.0,CKS,"Human, clinical",8. Mixed origin,Clinical,False,8. Mixed origin,8. Mixed origin
+CLA,2.5,0.25,1.0,1.0,1.25,4.0,CLA,"Human, clinical",8. Mixed origin,Clinical,False,8. Mixed origin,8. Mixed origin
+SACE_YBW,2.5,1.0,1.0,1.5,1.0,4.5,SACE_YBW,"Human, clinical",,Clinical,False,,
+CPI,0.0,0.0,1.0,1.0,0.0,0.0,CPI,Distillery,9. Mexican agave,Distillery,True,9. Mexican agave,9. Mexican agave
+CPM,0.5,0.0,1.0,1.0,0.0,0.5,CPM,Distillery,9. Mexican agave,Distillery,True,9. Mexican agave,9. Mexican agave
+CPK,0.0,0.0,1.0,1.0,0.0,0.0,CPK,Distillery,9. Mexican agave,Distillery,True,9. Mexican agave,9. Mexican agave
+CPL,0.5,0.0,1.0,1.0,0.0,0.5,CPL,Distillery,9. Mexican agave,Distillery,True,9. Mexican agave,9. Mexican agave
+CPQ,0.0,0.0,1.0,1.0,0.0,0.0,CPQ,Distillery,9. Mexican agave,Distillery,True,9. Mexican agave,9. Mexican agave
+CPN,0.0,0.0,1.0,1.0,0.0,0.0,CPN,Distillery,9. Mexican agave,Distillery,True,9. Mexican agave,9. Mexican agave
+CPR,0.0,0.0,1.0,1.0,0.0,0.0,CPR,Distillery,9. Mexican agave,Distillery,True,9. Mexican agave,9. Mexican agave
+ALI,2.0,0.0,1.0,1.5,0.0,2.0,ALI,Water,,Wild,False,,
+BCG,3.0,0.0,1.0,1.0,0.0,3.0,BCG,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCB,2.5,0.0,1.0,1.0,0.0,2.5,BCB,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCM,2.0,1.0,1.0,1.0,1.0,4.0,BCM,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BDT,2.5,0.0,1.0,1.0,0.0,2.5,BDT,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCF,2.0,0.0,1.0,1.0,0.0,2.0,BCF,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCL,2.5,0.0,1.0,1.0,0.0,2.5,BCL,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCD,3.5,0.0,1.0,1.0,0.0,3.5,BCD,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BDP,2.5,0.0,1.0,1.0,0.0,2.5,BDP,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCI,3.5,0.0,1.5,1.5,0.0,3.5,BCI,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCC,2.5,0.0,1.0,1.0,0.0,2.5,BCC,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BEC,3.5,0.0,1.0,1.0,0.0,3.5,BEC,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BED,2.5,0.0,1.0,1.0,0.0,2.5,BED,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCE,2.5,0.0,1.0,1.0,0.0,2.5,BCE,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCQ,3.0,0.0,1.0,1.0,0.0,3.0,BCQ,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BDV,2.5,0.0,1.0,1.0,0.0,2.5,BDV,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BNB,2.5,0.0,1.0,1.0,0.0,2.5,BNB,Fruit,10. French Guiana human,Wild,False,10. French Guiana human,10. French Guiana human
+BDR,2.5,0.0,1.0,1.0,0.0,2.5,BDR,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BMV,2.5,0.0,1.0,1.0,0.0,2.5,BMV,Nature,10. French Guiana human,Wild,False,10. French Guiana human,10. French Guiana human
+BNA,2.5,0.0,1.0,1.0,0.0,2.5,BNA,Nature,10. French Guiana human,Wild,False,10. French Guiana human,10. French Guiana human
+BCH,3.0,0.0,1.0,1.0,0.0,3.0,BCH,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCP,3.0,0.0,1.0,1.0,0.0,3.0,BCP,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BDS,3.0,0.0,1.0,1.0,0.0,3.0,BDS,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCN,2.0,0.0,1.0,1.0,0.0,2.0,BCN,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BEA,2.5,0.0,1.0,1.0,0.0,2.5,BEA,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BNC,3.0,0.0,1.0,1.0,0.0,3.0,BNC,Fruit,10. French Guiana human,Wild,False,10. French Guiana human,10. French Guiana human
+BDQ,2.5,0.0,1.0,1.0,0.0,2.5,BDQ,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BEB,1.5,0.0,1.0,1.0,0.0,1.5,BEB,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BCK,2.5,0.0,1.0,1.0,0.0,2.5,BCK,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BMR,2.5,0.0,1.0,1.0,0.0,2.5,BMR,Nature,10. French Guiana human,Wild,False,10. French Guiana human,10. French Guiana human
+BEE,2.0,0.0,1.0,1.0,0.0,2.0,BEE,Human,10. French Guiana human,Clinical,False,10. French Guiana human,10. French Guiana human
+BND,2.0,0.0,1.0,1.0,0.0,2.0,BND,Fruit,10. French Guiana human,Wild,False,10. French Guiana human,10. French Guiana human
+CQS,1.0,2.0,0.0,0.0,1.0,4.0,CQS,Nature,,Wild,False,,
+BBM,0.0,0.0,1.0,1.0,0.0,0.0,BBM,Distillery,,Distillery,True,,
+CPA,1.0,0.0,1.0,1.0,0.0,1.0,CPA,Nature,,Wild,False,,
+ADE,1.0,1.0,1.0,1.0,1.0,3.0,ADE,Palm wine,,Other fermentation,True,,
+SACE_YCL,1.5,1.0,1.0,1.0,1.0,3.5,SACE_YCL,Tree,,Wild,False,,
+SACE_YBV,2.0,0.0,1.0,1.0,1.0,3.0,SACE_YBV,"Human, clinical",,Clinical,False,,
+SACE_YAX,1.5,2.5,1.0,1.5,0.0,4.0,SACE_YAX,"Human, clinical",,Clinical,False,,
+SACE_YCG,2.5,1.5,1.0,1.5,0.0,4.0,SACE_YCG,Industrial,,Other fermentation,True,,
+AAH,4.0,1.0,1.0,1.0,1.0,6.0,AAH,Unknown,,,False,,
+AFS,8.5,0.0,0.5,0.5,1.5,10.0,AFS,Fruit,,Wild,False,,
+AGC,4.0,1.0,1.0,1.0,1.0,6.0,AGC,Distillery,,Distillery,True,,
+CFC,3.75,0.0,1.0,1.0,1.0,4.75,CFC,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+AGB,3.0,0.0,1.0,1.0,0.0,3.0,AGB,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+ATV,3.0,0.25,1.0,1.0,0.75,4.0,ATV,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+AAC,3.5,0.0,1.0,1.0,1.0,4.5,AAC,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+CBR,2.75,0.0,1.0,1.0,0.75,3.5,CBR,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+CFG,3.0,0.0,1.0,1.0,0.5,3.5,CFG,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+CFH,2.5,0.0,1.0,1.0,0.75,3.25,CFH,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+AEC,3.4,0.0,0.8,0.8,0.8,4.2,AEC,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+CFD,2.5,0.0,1.0,1.0,1.0,3.5,CFD,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+CFM,2.25,0.0,1.0,1.0,1.0,3.25,CFM,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+AQT,2.333333333,0.333333333,1.0,1.0,1.0,3.6666666660000002,AQT,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+BRP,3.5,0.5,1.0,1.0,1.0,5.0,BRP,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+BSI,3.5,0.5,1.25,1.25,0.75,4.75,BSI,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+AEB,7.0,0.0,1.0,1.0,0.75,7.75,AEB,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+ASH,6.5,0.0,1.0,1.0,0.75,7.25,ASH,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+BBG,4.75,0.0,1.0,1.0,1.0,5.75,BBG,Water,11. Ale beer,Wild,False,11. Ale beer,11. Ale beer
+BRQ,5.25,0.0,1.0,1.0,1.0,6.25,BRQ,Beer,11. Ale beer,Beer,True,11. Ale beer,11. Ale beer
+CGC,4.5,0.0,1.0,1.0,1.0,5.5,CGC,Fruit,11. Ale beer,Wild,False,11. Ale beer,11. Ale beer
+CNC,2.0,0.5,1.0,1.0,0.0,2.5,CNC,Bioethanol,M3. Mosaic region 3,Bioethanol,True,M3. Mosaic region 3,M3. Mosaic region 3
+BMQ,3.5,0.0,1.0,1.0,1.0,4.5,BMQ,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+ACN,1.0,2.0,1.0,1.0,1.0,4.0,ACN,Wine,M3. Mosaic region 3,Wine,True,M3. Mosaic region 3,M3. Mosaic region 3
+CBK,1.0,2.0,1.0,1.0,1.0,4.0,CBK,Insect,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+CBL,1.0,1.5,1.0,1.0,1.0,3.5,CBL,Insect,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+AKI,2.0,1.0,1.0,1.0,0.0,3.0,AKI,Wine,M3. Mosaic region 3,Wine,True,M3. Mosaic region 3,M3. Mosaic region 3
+ADA,2.0,1.0,1.0,1.0,0.0,3.0,ADA,Wine,M3. Mosaic region 3,Wine,True,M3. Mosaic region 3,M3. Mosaic region 3
+ATE,2.0,1.0,1.0,1.0,0.0,3.0,ATE,Unknown,M3. Mosaic region 3,,False,M3. Mosaic region 3,M3. Mosaic region 3
+CBM,2.0,1.5,1.0,1.0,0.0,3.5,CBM,Insect,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+ACA,2.0,1.0,1.0,1.0,0.0,3.0,ACA,Fruit,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+ACB,2.0,1.0,1.0,1.0,0.0,3.0,ACB,Dairy,M3. Mosaic region 3,Other fermentation,True,M3. Mosaic region 3,M3. Mosaic region 3
+BRL,1.0,2.0,1.0,1.0,1.0,4.0,BRL,Unknown,M3. Mosaic region 3,,False,M3. Mosaic region 3,M3. Mosaic region 3
+ADT,1.0,3.0,1.0,1.0,1.0,5.0,ADT,Nature,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_GAV,1.0,2.0,1.0,1.0,1.0,4.0,SACE_GAV,Lab strain,M3. Mosaic region 3,,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YCE,2.0,1.0,1.0,1.5,0.0,3.0,SACE_YCE,Distillery,M3. Mosaic region 3,Distillery,True,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YCH,2.0,1.0,1.0,1.5,0.0,3.0,SACE_YCH,Nature,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+CLG,2.0,0.5,1.0,1.0,0.0,2.5,CLG,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+CQC,2.0,1.0,1.0,1.0,1.0,4.0,CQC,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+CQD,2.0,1.0,1.0,1.0,1.0,4.0,CQD,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+CQG,2.0,1.5,1.0,1.0,1.0,4.5,CQG,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+CQI,2.0,1.0,1.0,1.0,1.0,4.0,CQI,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+CQH,2.5,1.0,1.0,1.0,1.0,4.5,CQH,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+CQL,2.5,1.0,1.0,1.0,1.0,4.5,CQL,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+ANN,2.0,1.0,1.0,1.0,1.0,4.0,ANN,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+CQM,2.5,1.0,1.0,1.0,1.0,4.5,CQM,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+CQE,2.5,1.0,1.0,1.0,1.0,4.5,CQE,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+CQK,2.0,1.0,1.0,1.0,1.0,4.0,CQK,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+CQF,2.0,1.0,1.0,1.0,1.0,4.0,CQF,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+CQN,2.5,1.0,1.0,1.0,1.0,4.5,CQN,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+CQP,2.0,2.0,1.0,1.0,1.0,5.0,CQP,Fermentation,12. West African cocoa,Other fermentation,True,12. West African cocoa,12. West African cocoa
+AKQ,2.5,1.0,1.0,1.0,1.0,4.5,AKQ,Insect,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+AKS,1.0,1.0,1.0,1.0,1.0,3.0,AKS,Flower,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+ALG,2.0,1.0,1.0,1.0,1.0,4.0,ALG,Fruit,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+ABH,1.0,2.0,1.0,1.0,0.0,3.0,ABH,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YAN,1.0,2.5,1.0,1.0,0.0,3.5,SACE_YAN,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YBZ,1.5,4.0,1.0,1.5,1.0,6.5,SACE_YBZ,Fruit,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+BTI,2.0,3.0,1.0,1.0,1.0,6.0,BTI,Tree,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+CGB,1.0,3.0,1.0,1.0,1.0,5.0,CGB,Insect,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YDG,1.0,3.5,1.0,1.5,1.0,5.5,SACE_YDG,Fruit,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+ABI,2.0,0.0,1.0,1.0,1.0,3.0,ABI,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YAT,2.5,0.0,1.5,1.0,1.0,3.5,SACE_YAT,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+BSK,1.0,1.0,1.0,1.0,1.0,3.0,BSK,Unknown,M3. Mosaic region 3,,False,M3. Mosaic region 3,M3. Mosaic region 3
+BMD,1.5,0.5,1.0,1.0,0.5,2.5,BMD,Human,M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+AAV,1.0,2.0,1.0,1.0,1.0,4.0,AAV,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+BRV,1.0,2.0,1.0,1.0,1.0,4.0,BRV,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YAP,2.5,2.5,1.0,1.5,1.0,6.0,SACE_YAP,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YAQ,2.5,2.5,1.0,1.5,1.0,6.0,SACE_YAQ,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YAR,1.0,1.0,1.0,1.0,1.0,3.0,SACE_YAR,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+ABK,2.0,2.0,1.0,1.0,0.0,4.0,ABK,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YAU,1.5,2.5,1.5,1.5,0.0,4.0,SACE_YAU,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+ABA,2.0,2.0,1.0,1.0,1.0,5.0,ABA,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YAV,2.5,2.5,1.0,1.5,1.0,6.0,SACE_YAV,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+AAS,2.0,1.0,1.0,1.0,0.0,3.0,AAS,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+AAT,2.0,2.0,1.0,1.0,1.0,5.0,AAT,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+ABG,1.0,1.0,1.0,1.0,0.0,2.0,ABG,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YAK,1.0,1.0,1.0,1.5,0.0,2.0,SACE_YAK,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+CEN,1.0,1.5,1.0,1.0,1.0,3.5,CEN,Fruit,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YAW,2.5,1.0,1.0,1.0,0.0,3.5,SACE_YAW,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YBJ,3.0,1.5,1.5,1.5,1.0,5.5,SACE_YBJ,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YBK,1.0,1.0,1.5,1.5,1.0,3.0,SACE_YBK,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YBL,1.0,1.0,1.0,1.5,1.0,3.0,SACE_YBL,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YBT,1.0,1.5,1.0,1.5,1.5,4.0,SACE_YBT,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+ADK,2.0,0.5,1.0,1.0,0.0,2.5,ADK,Bakery,M3. Mosaic region 3,Bakery,True,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_MAB,2.5,1.5,1.5,1.5,1.5,5.5,SACE_MAB,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+CKA,2.0,0.0,1.0,1.0,0.0,2.0,CKA,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+AGP,1.0,1.0,1.0,1.0,1.0,3.0,AGP,Fruit,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YDH,2.0,0.0,1.0,1.5,0.0,2.0,SACE_YDH,Fermentation,M3. Mosaic region 3,Other fermentation,True,M3. Mosaic region 3,M3. Mosaic region 3
+CHS,2.5,1.0,1.0,1.0,0.0,3.5,CHS,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+CHT,2.0,1.0,1.0,1.0,0.0,3.0,CHT,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+ABD,1.0,1.0,1.0,1.0,1.0,3.0,ABD,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+ATC,1.0,1.0,1.0,1.0,0.5,2.5,ATC,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+ATD,1.0,1.0,1.0,1.0,1.0,3.0,ATD,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+ANA,3.5,0.0,1.0,1.0,1.0,4.5,ANA,Wine,M3. Mosaic region 3,Wine,True,M3. Mosaic region 3,M3. Mosaic region 3
+BBL,1.5,1.0,1.0,1.0,1.0,3.5,BBL,Insect,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+CDC,1.5,1.0,1.0,1.0,1.0,3.5,CDC,Tree,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+CDD,1.0,1.0,1.0,1.0,1.0,3.0,CDD,Tree,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+CDE,1.5,1.0,1.0,1.0,1.0,3.5,CDE,Tree,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+CPC,1.0,2.5,1.0,1.0,0.0,3.5,CPC,Fruit,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+BMF,1.0,1.0,1.0,1.0,0.0,2.0,BMF,Human,M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+CKN,1.5,0.5,1.0,1.0,0.0,2.0,CKN,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+CIG,3.0,0.0,1.0,1.0,0.5,3.5,CIG,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+CIL,2.5,0.0,1.0,1.0,0.5,3.0,CIL,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+AAG,1.0,1.0,1.0,1.0,1.0,3.0,AAG,Unknown,M3. Mosaic region 3,,False,M3. Mosaic region 3,M3. Mosaic region 3
+AHA,1.0,1.0,1.0,1.0,1.0,3.0,AHA,Fruit,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+CII,4.5,1.5,1.0,1.0,1.5,7.5,CII,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+CIK,4.0,1.0,1.0,1.0,1.0,6.0,CIK,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+BTA,3.333333333,0.0,1.0,1.0,1.0,4.333333333000001,BTA,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+BDC,1.0,1.0,1.0,1.0,0.0,2.0,BDC,Nature,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+BDF,1.0,1.0,1.0,1.0,0.0,2.0,BDF,Nature,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+BDG,1.0,1.0,1.0,1.0,0.0,2.0,BDG,Nature,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+CHQ,4.0,2.0,1.0,1.0,1.0,7.0,CHQ,Bakery,M3. Mosaic region 3,Bakery,True,M3. Mosaic region 3,M3. Mosaic region 3
+ALR,3.0,0.666666667,1.0,1.0,1.0,4.666666667,ALR,Tree,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+AEL,4.0,0.0,1.0,1.0,1.5,5.5,AEL,Distillery,M3. Mosaic region 3,Distillery,True,M3. Mosaic region 3,M3. Mosaic region 3
+AEE,4.333333333,0.0,1.333333333,1.333333333,1.0,5.333333333,AEE,Distillery,M3. Mosaic region 3,Distillery,True,M3. Mosaic region 3,M3. Mosaic region 3
+ARA,2.75,0.0,1.0,1.0,0.25,3.0,ARA,Distillery,M3. Mosaic region 3,Distillery,True,M3. Mosaic region 3,M3. Mosaic region 3
+ARB,3.25,0.0,1.0,1.0,1.75,5.0,ARB,Bakery,M3. Mosaic region 3,Bakery,True,M3. Mosaic region 3,M3. Mosaic region 3
+BTB,3.0,0.0,1.0,1.0,1.333333333,4.333333333,BTB,Bakery,M3. Mosaic region 3,Bakery,True,M3. Mosaic region 3,M3. Mosaic region 3
+ATB,3.0,0.333333333,1.0,1.0,0.333333333,3.6666666660000002,ATB,Nature,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+BIE,7.0,0.0,1.0,1.0,0.5,7.5,BIE,Wine,M3. Mosaic region 3,Wine,True,M3. Mosaic region 3,M3. Mosaic region 3
+BPA,6.5,0.0,1.0,1.0,0.5,7.0,BPA,Soil,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+AGT,1.0,1.0,1.0,1.0,0.0,2.0,AGT,Unknown,M3. Mosaic region 3,,False,M3. Mosaic region 3,M3. Mosaic region 3
+CIH,2.0,1.0,1.0,1.0,0.0,3.0,CIH,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+ABF,0.0,0.0,1.0,1.0,0.0,0.0,ABF,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YAL,0.0,0.0,1.5,1.5,0.0,0.0,SACE_YAL,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+AEI,4.0,1.0,1.0,1.0,1.0,6.0,AEI,Bakery,M3. Mosaic region 3,Bakery,True,M3. Mosaic region 3,M3. Mosaic region 3
+AFG,5.0,1.0,1.0,1.0,1.0,7.0,AFG,Bakery,M3. Mosaic region 3,Bakery,True,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YBU,7.0,1.0,1.0,1.5,1.0,9.0,SACE_YBU,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YBM,0.0,0.0,1.0,1.5,0.0,0.0,SACE_YBM,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+ABC,1.0,0.0,1.0,1.0,0.0,1.0,ABC,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YDL,1.0,0.0,1.0,1.0,0.0,1.0,SACE_YDL,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YDN,1.0,0.0,1.0,1.5,1.0,2.0,SACE_YDN,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+CIC,2.0,0.0,1.0,1.0,0.0,2.0,CIC,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+CDK,3.0,1.0,1.0,1.0,1.0,5.0,CDK,Tree,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+CEM,1.0,1.0,1.0,1.0,0.0,2.0,CEM,Fermentation,M3. Mosaic region 3,Other fermentation,True,M3. Mosaic region 3,M3. Mosaic region 3
+CIF,4.5,0.0,1.0,1.0,1.0,5.5,CIF,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+CID,2.5,0.0,1.0,1.0,0.5,3.0,CID,"Human, clinical",M3. Mosaic region 3,Clinical,False,M3. Mosaic region 3,M3. Mosaic region 3
+BBT,4.333333333,0.0,1.0,1.0,1.0,5.333333333,BBT,Wine,M3. Mosaic region 3,Wine,True,M3. Mosaic region 3,M3. Mosaic region 3
+CHN,3.0,0.5,1.0,1.0,1.0,4.5,CHN,Bakery,M3. Mosaic region 3,Bakery,True,M3. Mosaic region 3,M3. Mosaic region 3
+CHP,3.0,0.5,1.0,1.0,1.0,4.5,CHP,Bakery,M3. Mosaic region 3,Bakery,True,M3. Mosaic region 3,M3. Mosaic region 3
+CMG,5.0,0.666666667,1.0,1.0,3.0,8.666666667,CMG,Sake,M3. Mosaic region 3,Sake,True,M3. Mosaic region 3,M3. Mosaic region 3
+CRE,3.666666667,0.333333333,1.0,1.0,0.666666667,4.666666666999999,CRE,Insect,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+BDM,2.5,2.0,1.0,1.0,1.0,5.5,BDM,Nature,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+ACI,1.0,4.0,1.0,1.0,0.0,5.0,ACI,Fruit,M3. Mosaic region 3,Wild,False,M3. Mosaic region 3,M3. Mosaic region 3
+SACE_YCS,1.0,1.0,1.5,1.5,1.0,3.0,SACE_YCS,Unknown,M3. Mosaic region 3,,False,M3. Mosaic region 3,M3. Mosaic region 3
+ACL,1.0,1.0,1.0,1.0,1.0,3.0,ACL,Palm wine,M3. Mosaic region 3,Other fermentation,True,M3. Mosaic region 3,M3. Mosaic region 3
+CEQ,1.0,1.0,1.0,1.0,0.0,2.0,CEQ,Fermentation,M3. Mosaic region 3,Other fermentation,True,M3. Mosaic region 3,M3. Mosaic region 3
+BAB,0.333333333,1.666666667,1.0,1.0,0.0,2.0,BAB,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+AVV,0.333333333,1.666666667,1.0,1.0,0.0,2.0,AVV,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+BAA,0.333333333,1.666666667,1.0,1.0,0.0,2.0,BAA,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+BAD,0.333333333,1.666666667,1.0,1.0,0.0,2.0,BAD,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+BAC,0.333333333,2.0,1.0,1.0,0.0,2.333333333,BAC,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+BAE,0.333333333,1.666666667,1.0,1.0,0.0,2.0,BAE,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+BAF,0.5,1.0,1.0,1.0,0.0,1.5,BAF,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+CFA,0.0,1.0,1.0,1.0,0.0,1.0,CFA,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+SACE_GAL,1.0,1.0,1.0,1.0,0.0,2.0,SACE_GAL,Lab strain,13. African palm wine,,False,13. African palm wine,13. African palm wine
+CPS,0.333333333,1.333333333,1.0,1.0,0.0,1.6666666659999998,CPS,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+CPT,0.0,1.0,1.0,1.0,0.0,1.0,CPT,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+CQA,0.0,2.5,1.0,1.0,0.0,2.5,CQA,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+CQB,0.0,3.5,1.0,1.0,0.0,3.5,CQB,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+AHS,1.0,1.0,1.0,1.0,0.0,2.0,AHS,Wine,13. African palm wine,Wine,True,13. African palm wine,13. African palm wine
+ADV,0.0,1.0,1.0,1.0,0.0,1.0,ADV,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+AKG,0.0,1.0,1.0,1.0,0.0,1.0,AKG,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+SACE_YAC,0.5,1.5,1.0,1.5,0.0,2.0,SACE_YAC,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+ADF,1.0,1.0,1.0,1.0,0.0,2.0,ADF,Tree,13. African palm wine,Wild,False,13. African palm wine,13. African palm wine
+AKB,1.0,1.0,1.0,1.0,0.0,2.0,AKB,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+AKD,0.333333333,1.0,1.0,1.0,0.0,1.3333333330000001,AKD,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+AKC,1.0,1.0,1.0,1.0,0.0,2.0,AKC,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+AKE,1.0,1.0,1.0,1.0,1.0,3.0,AKE,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+AKH,1.0,1.0,1.0,1.0,1.0,3.0,AKH,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+APQ,0.0,1.0,1.0,1.0,0.0,1.0,APQ,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+APR,0.0,1.0,1.0,1.0,0.0,1.0,APR,Beer,13. African palm wine,Beer,True,13. African palm wine,13. African palm wine
+ATP,0.0,1.0,1.0,1.0,0.0,1.0,ATP,Palm wine,13. African palm wine,Other fermentation,True,13. African palm wine,13. African palm wine
+SACE_YBP,0.5,1.5,1.5,1.5,0.0,2.0,SACE_YBP,Wine,13. African palm wine,Wine,True,13. African palm wine,13. African palm wine
+SACE_YCV,0.0,1.0,1.0,1.5,0.0,1.0,SACE_YCV,Beer,13. African palm wine,Beer,True,13. African palm wine,13. African palm wine
+BAM,1.0,1.0,1.0,1.0,1.0,3.0,BAM,Nature,14. CHNIII,Wild,False,14. CHNIII,Wild clades
+BAQ,1.0,1.0,1.0,1.0,1.0,3.0,BAQ,Tree,14. CHNIII,Wild,False,14. CHNIII,Wild clades
+BAG,1.0,1.0,1.0,1.0,1.0,3.0,BAG,Tree,15. CHNII,Wild,False,15. CHNII,Wild clades
+BAH,1.5,1.0,1.0,1.0,1.0,3.5,BAH,Tree,15. CHNII,Wild,False,15. CHNII,Wild clades
+BAL,1.0,1.0,1.0,1.0,1.0,3.0,BAL,Nature,16. CHNI,Wild,False,16. CHNI,Wild clades
+AMH,1.0,1.0,1.0,1.0,1.0,3.0,AMH,Soil,17. Taiwanese,Wild,False,17. Taiwanese,Wild clades
+CEG,1.0,1.0,1.0,1.0,1.0,3.0,CEG,Soil,17. Taiwanese,Wild,False,17. Taiwanese,Wild clades
+CEI,1.0,1.0,1.0,1.0,1.0,3.0,CEI,Soil,17. Taiwanese,Wild,False,17. Taiwanese,Wild clades
+CCQ,1.0,1.0,1.0,1.0,1.0,3.0,CCQ,Tree,18. Far East Asia,Wild,False,18. Far East Asia,Wild clades
+CCR,1.0,1.0,1.0,1.0,1.0,3.0,CCR,Tree,18. Far East Asia,Wild,False,18. Far East Asia,Wild clades
+CCS,1.0,1.0,1.0,1.0,1.0,3.0,CCS,Tree,18. Far East Asia,Wild,False,18. Far East Asia,Wild clades
+BAK,1.0,1.0,1.0,1.0,1.0,3.0,BAK,Tree,18. Far East Asia,Wild,False,18. Far East Asia,Wild clades
+BAI,1.0,1.0,1.0,1.0,1.0,3.0,BAI,Fruit,18. Far East Asia,Wild,False,18. Far East Asia,Wild clades
+ACQ,0.0,1.0,1.0,1.0,1.0,2.0,ACQ,Wine,18. Far East Asia,Wine,True,18. Far East Asia,Wild clades
+CCN,0.5,1.0,1.0,1.0,1.0,2.5,CCN,Fruit,18. Far East Asia,Wild,False,18. Far East Asia,Wild clades
+CDL,1.0,1.0,1.0,1.0,1.0,3.0,CDL,Tree,18. Far East Asia,Wild,False,18. Far East Asia,Wild clades
+SACE_YCR,1.5,1.5,1.5,1.5,1.0,4.0,SACE_YCR,Tree,18. Far East Asia,Wild,False,18. Far East Asia,Wild clades
+BMA,1.0,1.0,1.0,1.0,1.0,3.0,BMA,Tree,19. Malaysian,Wild,False,19. Malaysian,Wild clades
+AKM,1.0,1.0,1.0,1.0,1.0,3.0,AKM,Tree,19. Malaysian,Wild,False,19. Malaysian,Wild clades
+BMB,1.0,1.0,1.0,1.0,1.0,3.0,BMB,Tree,19. Malaysian,Wild,False,19. Malaysian,Wild clades
+BMC,1.0,1.0,1.0,1.0,1.0,3.0,BMC,Tree,19. Malaysian,Wild,False,19. Malaysian,Wild clades
+SACE_MAL,0.5,1.0,1.0,1.0,1.0,2.5,SACE_MAL,Insect,19. Malaysian,Wild,False,19. Malaysian,Wild clades
+SACE_YCY,1.5,1.0,1.0,1.0,1.0,3.5,SACE_YCY,Tree,19. Malaysian,Wild,False,19. Malaysian,Wild clades
+ABL,0.0,3.0,1.0,1.0,0.0,3.0,ABL,Soil,,Wild,False,,
+SACE_YCB,0.5,3.5,1.0,1.5,0.0,4.0,SACE_YCB,Soil,,Wild,False,,
+AMM,1.0,1.0,1.0,1.0,0.0,2.0,AMM,Tree,,Wild,False,,
+BAN,1.0,1.0,1.0,1.0,1.0,3.0,BAN,Nature,20. CHN V,Wild,False,20. CHN V,Wild clades
+BAP,1.0,1.0,1.0,1.0,1.0,3.0,BAP,Soil,20. CHN V,Wild,False,20. CHN V,Wild clades
+CMP,1.0,1.0,1.0,1.0,1.0,3.0,CMP,Tree,21. Ecuadorean,Wild,False,21. Ecuadorean,Wild clades
+CCH,1.0,1.0,1.0,1.0,1.0,3.0,CCH,Insect,21. Ecuadorean,Wild,False,21. Ecuadorean,Wild clades
+ACC,1.0,1.0,1.0,1.0,1.0,3.0,ACC,Tree,21. Ecuadorean,Wild,False,21. Ecuadorean,Wild clades
+CCC,1.0,1.0,1.0,1.0,1.0,3.0,CCC,Flower,21. Ecuadorean,Wild,False,21. Ecuadorean,Wild clades
+CCD,1.0,1.0,1.0,1.0,1.0,3.0,CCD,Flower,21. Ecuadorean,Wild,False,21. Ecuadorean,Wild clades
+CCE,0.5,1.0,1.0,1.0,1.0,2.5,CCE,Flower,21. Ecuadorean,Wild,False,21. Ecuadorean,Wild clades
+CCF,0.5,1.0,1.0,1.0,1.0,2.5,CCF,Insect,21. Ecuadorean,Wild,False,21. Ecuadorean,Wild clades
+CCG,1.0,1.0,1.0,1.0,1.0,3.0,CCG,Fruit,21. Ecuadorean,Wild,False,21. Ecuadorean,Wild clades
+CCI,1.0,1.0,1.0,1.0,1.0,3.0,CCI,Insect,21. Ecuadorean,Wild,False,21. Ecuadorean,Wild clades
+CMQ,1.0,1.0,1.0,1.0,1.0,3.0,CMQ,Tree,21. Ecuadorean,Wild,False,21. Ecuadorean,Wild clades
+SACE_GAT,1.0,0.0,1.0,1.0,1.0,2.0,SACE_GAT,Nature,,Wild,False,,
+SACE_YCX,1.5,0.0,1.0,1.0,1.0,2.5,SACE_YCX,Nature,,Wild,False,,
+CDN,1.0,1.0,1.0,1.0,1.0,3.0,CDN,Insect,,Wild,False,,
+BFA,1.0,1.0,1.0,1.0,1.0,3.0,BFA,Soil,,Wild,False,,
+BFL,1.0,1.0,1.0,1.0,1.0,3.0,BFL,Tree,,Wild,False,,
+AMB,1.0,1.0,1.0,1.0,1.0,3.0,AMB,Insect,,Wild,False,,
+AMC,1.0,1.0,1.0,1.0,1.0,3.0,AMC,Insect,,Wild,False,,
+CDQ,1.0,1.0,1.0,1.0,1.0,3.0,CDQ,Tree,,Wild,False,,
+SACE_GAS,1.0,1.0,1.0,1.0,1.0,3.0,SACE_GAS,Nature,,Wild,False,,
+SACE_YCW,1.5,1.5,1.5,1.5,1.0,4.0,SACE_YCW,Fruit,,Wild,False,,
+CDF,1.0,1.0,1.0,1.0,1.0,3.0,CDF,Fruit,22. Far East Russian,Wild,False,22. Far East Russian,Wild clades
+CDG,1.0,1.0,1.0,1.0,1.0,3.0,CDG,Wine,22. Far East Russian,Wine,True,22. Far East Russian,Wild clades
+CDH,1.0,1.0,1.0,1.0,1.0,3.0,CDH,Tree,22. Far East Russian,Wild,False,22. Far East Russian,Wild clades
+CDI,1.0,1.0,1.0,1.0,1.0,3.0,CDI,Tree,22. Far East Russian,Wild,False,22. Far East Russian,Wild clades
+AMD,1.0,1.0,1.0,1.0,1.0,3.0,AMD,Fruit,,Wild,False,,
+AMF,1.0,1.0,1.0,1.0,1.0,3.0,AMF,Fruit,,Wild,False,,
+CEH,1.0,1.0,1.0,1.0,1.0,3.0,CEH,Fruit,,Wild,False,,
+CCP,1.0,1.0,1.0,1.0,1.0,3.0,CCP,Tree,,Wild,False,,
+BEG,1.0,1.0,1.0,1.0,1.0,3.0,BEG,Industrial,,Other fermentation,True,,
+CDB,1.0,1.0,1.0,1.0,1.0,3.0,CDB,Soil,,Wild,False,,
+AVI,1.0,1.0,1.0,1.0,1.0,3.0,AVI,Soil,23. North American oak,Wild,False,23. North American oak,Wild clades
+ACD,1.0,1.0,1.0,1.0,1.0,3.0,ACD,Tree,23. North American oak,Wild,False,23. North American oak,Wild clades
+ANF,1.0,1.0,1.0,1.0,1.0,3.0,ANF,Soil,23. North American oak,Wild,False,23. North American oak,Wild clades
+ANH,1.0,1.0,1.0,1.0,1.0,3.0,ANH,Nature,23. North American oak,Wild,False,23. North American oak,Wild clades
+ANC,1.0,1.0,1.0,1.0,1.0,3.0,ANC,Tree,23. North American oak,Wild,False,23. North American oak,Wild clades
+ANE,1.0,1.0,1.0,1.0,1.0,3.0,ANE,Soil,23. North American oak,Wild,False,23. North American oak,Wild clades
+ANG,1.0,1.0,1.0,1.0,1.0,3.0,ANG,Soil,23. North American oak,Wild,False,23. North American oak,Wild clades
+AND,1.0,1.0,1.0,1.0,1.0,3.0,AND,Soil,23. North American oak,Wild,False,23. North American oak,Wild clades
+ANK,1.0,1.0,1.0,1.0,1.0,3.0,ANK,Tree,23. North American oak,Wild,False,23. North American oak,Wild clades
+ANI,1.0,1.0,1.0,1.0,1.0,3.0,ANI,Soil,23. North American oak,Wild,False,23. North American oak,Wild clades
+AKN,1.0,1.0,1.0,1.0,1.0,3.0,AKN,Soil,23. North American oak,Wild,False,23. North American oak,Wild clades
+SACE_YBS,1.0,1.0,1.0,1.5,1.0,3.0,SACE_YBS,Tree,23. North American oak,Wild,False,23. North American oak,Wild clades
+SACE_YCU,1.0,1.0,1.0,1.5,1.0,3.0,SACE_YCU,Tree,23. North American oak,Wild,False,23. North American oak,Wild clades
+BBR,1.0,1.0,1.0,1.0,1.0,3.0,BBR,Tree,,Wild,False,,
+SACE_YCO,1.0,1.0,1.0,1.0,1.0,3.0,SACE_YCO,Wine,,Wine,True,,
+CMS,1.0,1.0,1.0,1.0,1.0,3.0,CMS,Tree,,Wild,False,,
+ADG,1.0,1.0,1.0,1.0,1.0,3.0,ADG,Tree,,Wild,False,,
+CDP,1.0,1.0,1.0,1.0,1.0,3.0,CDP,Tree,,Wild,False,,
+SACE_YDI,1.5,1.0,1.0,1.5,1.0,3.5,SACE_YDI,Unknown,,,False,,
+ARH,1.0,2.0,1.0,1.0,2.5,5.5,ARH,Fermentation,24. Asian islands,Other fermentation,True,24. Asian islands,24. Asian islands
+ARI,1.0,2.0,1.0,1.0,1.0,4.0,ARI,Fermentation,24. Asian islands,Other fermentation,True,24. Asian islands,24. Asian islands
+AFK,0.0,1.0,1.0,1.0,0.0,1.0,AFK,Palm wine,24. Asian islands,Other fermentation,True,24. Asian islands,24. Asian islands
+AHH,0.0,1.0,1.0,1.0,0.0,1.0,AHH,Palm wine,24. Asian islands,Other fermentation,True,24. Asian islands,24. Asian islands
+CCT,0.0,2.0,1.0,1.0,0.0,2.0,CCT,Tree,24. Asian islands,Wild,False,24. Asian islands,24. Asian islands
+CCV,0.5,2.0,1.0,1.0,0.0,2.5,CCV,Tree,24. Asian islands,Wild,False,24. Asian islands,24. Asian islands
+CDA,0.0,1.0,1.0,1.0,0.0,1.0,CDA,Tree,24. Asian islands,Wild,False,24. Asian islands,24. Asian islands
+AGR,1.0,2.0,1.0,1.0,1.0,4.0,AGR,Nature,24. Asian islands,Wild,False,24. Asian islands,24. Asian islands
+ARG,0.0,2.5,1.0,1.0,0.0,2.5,ARG,Tree,24. Asian islands,Wild,False,24. Asian islands,24. Asian islands
+SACE_YCM,0.0,0.0,1.0,1.5,0.0,0.0,SACE_YCM,Fruit,24. Asian islands,Wild,False,24. Asian islands,24. Asian islands
+SACE_YDE,0.0,0.0,1.0,1.5,0.0,0.0,SACE_YDE,Palm wine,24. Asian islands,Other fermentation,True,24. Asian islands,24. Asian islands
+SACE_YCN,1.5,0.0,1.5,1.5,1.5,3.0,SACE_YCN,Fruit,,Wild,False,,
+ASM,1.666666667,0.0,1.0,1.0,0.0,1.666666667,ASM,Nature,,Wild,False,,
+CGH,2.0,0.0,1.0,1.0,0.0,2.0,CGH,Unknown,,,False,,
+CEP,3.5,1.0,1.0,1.0,1.0,5.5,CEP,Fermentation,,Other fermentation,True,,
+CKR,4.0,1.0,1.0,1.0,1.0,6.0,CKR,"Human, clinical",,Clinical,False,,
+ARP,4.5,0.0,1.5,1.5,1.5,6.0,ARP,Wine,25. Sake,Wine,True,25. Sake,25. Sake
+AEF,3.0,0.0,1.0,1.0,3.0,6.0,AEF,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CMH,9.5,0.0,1.0,1.0,1.0,10.5,CMH,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+ARM,2.0,0.0,1.0,1.0,1.0,3.0,ARM,Fruit,25. Sake,Wild,False,25. Sake,25. Sake
+CLI,3.5,0.0,1.0,1.0,1.0,4.5,CLI,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CMK,3.5,0.0,1.0,1.0,1.0,4.5,CMK,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CLQ,4.0,1.0,1.0,1.0,1.0,6.0,CLQ,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CLN,3.5,0.0,1.0,1.0,1.0,4.5,CLN,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+AFN,3.0,0.0,1.0,1.0,1.0,4.0,AFN,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+ADQ,1.0,0.0,1.0,1.0,1.0,2.0,ADQ,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+AFM,12.0,0.0,1.0,1.0,1.0,13.0,AFM,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+APA,2.5,0.0,1.0,1.0,1.0,3.5,APA,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+BTS,2.5,0.0,1.0,1.0,1.0,3.5,BTS,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+ANT,2.0,0.0,1.0,1.0,1.0,3.0,ANT,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+ANR,2.0,0.0,1.0,1.0,1.0,3.0,ANR,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+ANV,2.0,0.0,1.0,1.0,1.0,3.0,ANV,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+ADN,2.0,0.0,1.0,1.0,1.0,3.0,ADN,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CMF,2.0,0.0,1.0,1.0,1.0,3.0,CMF,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CMI,4.5,0.0,1.0,1.0,1.0,5.5,CMI,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+AAD,3.0,0.0,1.0,1.0,0.0,3.0,AAD,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+ANS,5.0,0.0,1.0,1.0,1.0,6.0,ANS,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+AQN,2.5,0.0,1.0,1.0,0.0,2.5,AQN,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CLM,2.5,0.0,1.0,1.0,1.0,3.5,CLM,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CMN,3.0,0.0,1.0,1.0,1.0,4.0,CMN,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+APC,1.0,0.0,1.0,1.0,1.0,2.0,APC,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+APD,1.0,0.0,1.0,1.0,1.0,2.0,APD,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+AVC,1.0,0.0,1.0,1.0,1.0,2.0,AVC,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CMD,1.0,0.0,1.0,1.0,1.0,2.0,CMD,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CLP,6.5,0.0,1.0,1.0,1.0,7.5,CLP,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CMC,1.0,0.0,1.0,1.0,1.0,2.0,CMC,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+APF,1.0,0.0,1.0,1.0,1.0,2.0,APF,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+APE,1.0,0.0,1.0,1.0,1.0,2.0,APE,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+AVD,1.0,0.0,1.0,1.0,1.0,2.0,AVD,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+AVM,1.0,0.0,1.0,1.0,1.0,2.0,AVM,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CLT,1.0,0.0,1.0,1.0,1.0,2.0,CLT,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CLS,1.0,0.0,1.0,1.0,1.0,2.0,CLS,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CME,1.0,0.0,1.0,1.0,1.0,2.0,CME,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CLL,1.0,0.0,1.0,1.0,1.0,2.0,CLL,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CLR,1.0,0.0,1.5,1.5,1.0,2.0,CLR,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CML,1.0,0.0,1.0,1.0,1.0,2.0,CML,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CMM,1.0,0.0,1.0,1.0,1.0,2.0,CMM,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CMB,1.0,0.0,1.5,1.5,1.0,2.0,CMB,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+AVL,1.0,0.0,1.0,1.0,1.0,2.0,AVL,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CLV,1.0,0.0,1.0,1.0,1.0,2.0,CLV,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CLK,1.0,0.0,1.0,1.0,1.0,2.0,CLK,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CQQ,1.0,0.0,1.0,1.0,1.0,2.0,CQQ,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+CQR,1.0,0.0,1.0,1.0,1.0,2.0,CQR,Sake,25. Sake,Sake,True,25. Sake,25. Sake
+AHQ,3.0,1.0,1.0,1.0,2.0,6.0,AHQ,Industrial,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+CGL,4.5,0.0,1.0,1.0,1.0,5.5,CGL,Unknown,26. Asian fermentation,,False,26. Asian fermentation,26. Asian fermentation
+AFH,2.0,1.0,1.0,1.0,4.0,7.0,AFH,Distillery,26. Asian fermentation,Distillery,True,26. Asian fermentation,26. Asian fermentation
+AGG,2.5,1.0,1.0,1.0,3.0,6.5,AGG,Distillery,26. Asian fermentation,Distillery,True,26. Asian fermentation,26. Asian fermentation
+AEP,2.0,1.0,1.0,1.0,1.0,4.0,AEP,Distillery,26. Asian fermentation,Distillery,True,26. Asian fermentation,26. Asian fermentation
+CEV,3.0,1.0,1.0,1.0,1.0,5.0,CEV,Distillery,26. Asian fermentation,Distillery,True,26. Asian fermentation,26. Asian fermentation
+CGI,3.0,0.5,1.0,1.0,0.0,3.5,CGI,Unknown,26. Asian fermentation,,False,26. Asian fermentation,26. Asian fermentation
+CGN,3.5,1.0,1.0,1.0,0.0,4.5,CGN,Fermentation,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+CGP,3.5,1.0,1.0,1.0,0.0,4.5,CGP,Unknown,26. Asian fermentation,,False,26. Asian fermentation,26. Asian fermentation
+CGG,3.5,1.0,1.0,1.0,0.0,4.5,CGG,Unknown,26. Asian fermentation,,False,26. Asian fermentation,26. Asian fermentation
+CGR,3.0,1.0,1.0,1.0,1.0,5.0,CGR,Fermentation,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+AQS,2.0,1.0,1.0,1.0,1.0,4.0,AQS,Distillery,26. Asian fermentation,Distillery,True,26. Asian fermentation,26. Asian fermentation
+BEH,4.5,1.0,1.0,1.0,1.0,6.5,BEH,Fermentation,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+ACM,2.0,1.0,1.0,1.0,1.0,4.0,ACM,Fermentation,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+AKL,3.0,1.0,1.0,1.0,1.0,5.0,AKL,Sake,26. Asian fermentation,Sake,True,26. Asian fermentation,26. Asian fermentation
+ABB,4.0,1.0,1.0,1.0,1.0,6.0,ABB,"Human, clinical",26. Asian fermentation,Clinical,False,26. Asian fermentation,26. Asian fermentation
+ACK,4.0,1.0,1.0,1.0,1.0,6.0,ACK,Palm wine,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+ADH,4.0,1.0,1.0,1.0,1.0,6.0,ADH,Tree,26. Asian fermentation,Wild,False,26. Asian fermentation,26. Asian fermentation
+SACE_YDA,2.5,1.0,1.0,1.0,1.0,4.5,SACE_YDA,Palm wine,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+ALB,4.0,1.0,1.0,1.0,0.0,5.0,ALB,Insect,26. Asian fermentation,Wild,False,26. Asian fermentation,26. Asian fermentation
+AKR,4.0,1.0,1.0,1.0,0.0,5.0,AKR,Fruit,26. Asian fermentation,Wild,False,26. Asian fermentation,26. Asian fermentation
+ALC,4.0,1.0,1.0,1.0,0.0,5.0,ALC,Nature,26. Asian fermentation,Wild,False,26. Asian fermentation,26. Asian fermentation
+ALH,4.0,1.0,1.0,1.0,0.0,5.0,ALH,Nature,26. Asian fermentation,Wild,False,26. Asian fermentation,26. Asian fermentation
+ALA,4.5,1.0,1.0,1.0,0.0,5.5,ALA,Insect,26. Asian fermentation,Wild,False,26. Asian fermentation,26. Asian fermentation
+ALK,4.0,1.0,1.0,1.0,0.0,5.0,ALK,Tree,26. Asian fermentation,Wild,False,26. Asian fermentation,26. Asian fermentation
+CGQ,4.5,1.0,1.0,1.0,0.0,5.5,CGQ,Unknown,26. Asian fermentation,,False,26. Asian fermentation,26. Asian fermentation
+BRG,4.666666667,1.0,1.0,1.0,0.0,5.666666667,BRG,Soil,26. Asian fermentation,Wild,False,26. Asian fermentation,26. Asian fermentation
+CGK,4.0,1.0,1.0,1.0,0.0,5.0,CGK,Unknown,26. Asian fermentation,,False,26. Asian fermentation,26. Asian fermentation
+CHM,4.0,1.0,1.0,1.0,0.0,5.0,CHM,Bakery,26. Asian fermentation,Bakery,True,26. Asian fermentation,26. Asian fermentation
+BHP,2.5,2.0,1.0,1.0,0.0,4.5,BHP,Fermentation,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+BHQ,2.5,2.0,1.0,1.0,0.0,4.5,BHQ,Fermentation,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+BHR,2.5,2.0,1.0,1.0,0.0,4.5,BHR,Fermentation,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+BHS,3.0,1.5,1.0,1.0,0.0,4.5,BHS,Fermentation,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+BEF,3.0,1.0,1.0,1.0,0.5,4.5,BEF,Fermentation,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+CEK,2.5,1.0,1.0,1.0,1.0,4.5,CEK,Fermentation,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+CEL,2.5,1.0,1.0,1.0,1.0,4.5,CEL,Fermentation,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+SACE_YCJ,4.5,1.0,1.0,1.5,0.0,5.5,SACE_YCJ,Unknown,26. Asian fermentation,,False,26. Asian fermentation,26. Asian fermentation
+SACE_YCK,4.0,1.5,1.5,1.5,0.0,5.5,SACE_YCK,Industrial,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation
+SACE_YDK,4.0,1.0,1.5,1.5,0.0,5.0,SACE_YDK,Industrial,26. Asian fermentation,Other fermentation,True,26. Asian fermentation,26. Asian fermentation

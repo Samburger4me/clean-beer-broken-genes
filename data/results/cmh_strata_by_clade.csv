@@ -1,0 +1,9 @@
+clade,dom_POFneg,dom_POFpos,ref_POFneg,ref_POFpos,informative
+Asian,6,0,0,4,True
+Beer2,1,20,0,0,False
+Belgium/Germany,7,11,0,0,False
+Britain,25,0,1,0,True
+Mixed,9,1,0,3,True
+Mosaic,9,7,0,8,True
+US,10,0,0,0,False
+Wine,0,10,1,13,True

@@ -1,0 +1,175 @@
+sacc,haplotype,strain,group,LOF,LOF_allele,POF
+S288C_REF,5,S288C,Laboratory,False,,POF+
+CP029160.1,5,SY14,Laboratory,False,,POF+
+NM_001180846.3,5,S288C (NM_001180846.3),Laboratory,False,,?
+U43834.1,5,S288C (U43834.1),Laboratory,False,,POF+
+L09263.1,9,unnamed (L09263.1),Other/Unknown,False,,?
+AB368782.1,3,Shochu Kyokai No.2,Shochu/Awamori,False,,POF-
+LN907787.1,10,N85,Other/Unknown,False,,POF+
+AB368778.1,11,Kyokai No.6,Sake,False,,POF-
+LC075298.1,12,RIB6002 (LC075298.1),Other/Unknown,False,,POF-
+AB293446.1,13,unnamed (AB293446.1),Other/Unknown,False,,POF-
+LC493900.1,0,Y7,Other/Unknown,True,c.305G>A p.W102* -> 101 aa,POF-
+AB368789.1,0,NCYC240,Ale,True,c.305G>A p.W102* -> 101 aa,POF-
+LC075299.1,14,RIB6002 (LC075299.1),Other/Unknown,False,,POF-
+AB368784.1,1,Kyokai wine yeast No.1,Wine,False,,POF+
+AB368793.1,8,NCYC984,Lager,False,,POF-
+AB368786.1,7,Kyokai wine yeast No.3,Wine,False,,POF+
+CP009945.1,2,NCIM3107,Bioethanol,False,,POF+
+AB368787.1,15,EC1118,Wine,False,,POF+
+AB368797.1,4,K1-V1116,Wine,False,,POF+
+CM004786.2,7,wine018,Wine,False,,POF+
+CM004818.2,7,wine017,Wine,False,,POF+
+CM004834.2,5,wine016,Wine,False,,POF+
+CM004850.2,1,wine015,Wine,False,,POF+
+CM004866.2,16,wine014,Wine,False,,POF-
+CM004882.2,4,wine013,Wine,False,,POF+
+CM004914.2,1,wine011,Wine,False,,POF+
+CM004930.2,17,wine010,Wine,False,,POF+
+CM004946.2,4,wine009,Wine,False,,POF+
+CM004962.2,2,wine008,Wine,False,,POF+
+CM004978.2,7,wine007,Wine,False,,POF+
+CM004994.2,1,wine006,Wine,False,,POF+
+CM005026.2,1,wine004,Wine,False,,POF+
+CM005042.2,1,wine003,Wine,False,,POF+
+CM005058.2,18,wine002,Wine,False,,POF+
+CM005074.2,4,wine001,Wine,False,,POF+
+CM005250.2,2,spirits001,Spirits,False,,POF-
+CM005010.2,7,wine005,Wine,False,,POF+
+CM004898.2,0,wine012,Wine,True,c.305G>A p.W102* -> 101 aa,POF-
+CM004690.1,1,wild003,Wild,False,,POF+
+CM007170.1,1,beer002,Beer (Gallone),False,,POF+
+CM007154.1,19,beer001,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM007138.1,20,beer003,Beer (Gallone),False,,POF+
+CM007122.1,6,beer004,Beer (Gallone),False,,POF+
+CM007106.1,21,beer005,Beer (Gallone),False,,POF-
+CM007090.1,2,beer006,Beer (Gallone),False,,POF-
+CM007074.1,0,beer007,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM007058.1,0,beer008,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM007042.1,0,beer009,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM007026.1,0,beer010,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM007010.1,6,beer011,Beer (Gallone),False,,POF+
+CM006994.1,0,beer012,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006978.1,1,beer014,Beer (Gallone),False,,POF+
+CM006962.1,1,beer013,Beer (Gallone),False,,POF+
+CM006946.1,0,beer015,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006930.1,8,beer017,Beer (Gallone),False,,POF-
+CM006914.1,2,beer016,Beer (Gallone),False,,POF+
+CM006898.1,5,beer018,Beer (Gallone),False,,POF+
+CM006882.1,0,beer019,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006866.1,6,beer020,Beer (Gallone),False,,POF+
+CM006834.1,2,beer022,Beer (Gallone),False,,POF+
+CM006850.1,1,beer021,Beer (Gallone),False,,POF+
+CM006818.1,1,beer023,Beer (Gallone),False,,POF+
+CM006802.1,1,beer025,Beer (Gallone),False,,POF-
+CM006786.1,4,beer024,Beer (Gallone),False,,POF+
+CM006770.1,2,beer026,Beer (Gallone),False,,POF+
+CM006754.1,6,beer027,Beer (Gallone),False,,POF+
+CM006738.1,2,beer029,Beer (Gallone),False,,POF-
+CM006722.1,2,beer028,Beer (Gallone),False,,POF-
+CM006706.1,1,beer030,Beer (Gallone),False,,POF+
+CM006690.1,2,beer031,Beer (Gallone),False,,POF+
+CM006674.1,4,beer033,Beer (Gallone),False,,POF+
+CM006658.1,1,beer032,Beer (Gallone),False,,POF+
+CM006642.1,1,beer034,Beer (Gallone),False,,POF+
+CM006626.1,0,beer035,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006610.1,0,beer036,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006594.1,2,beer038,Beer (Gallone),False,,POF-
+CM006578.1,0,beer037,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006562.1,6,beer039,Beer (Gallone),False,,POF+
+CM006546.1,6,beer040,Beer (Gallone),False,,POF+
+CM006530.1,0,beer041,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006514.1,0,beer042,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006498.1,1,beer043,Beer (Gallone),False,,POF+
+CM006482.1,0,beer044,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006466.1,0,beer045,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006450.1,0,beer046,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006434.1,0,beer047,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006418.1,0,beer048,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006402.1,0,beer049,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006386.1,0,beer050,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006370.1,0,beer051,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006354.1,0,beer052,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006338.1,0,beer053,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006322.1,0,beer054,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006306.1,0,beer055,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006290.1,0,beer056,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006274.1,0,beer057,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006258.1,22,beer058,Beer (Gallone),False,,POF-
+CM006242.1,23,beer059,Beer (Gallone),True,c.306G>A p.W102* -> 101 aa,POF-
+CM006226.1,0,beer060,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006210.1,2,beer061,Beer (Gallone),False,,POF-
+CM006194.1,1,beer062,Beer (Gallone),False,,POF+
+CM006178.1,1,beer063,Beer (Gallone),False,,POF+
+CM006162.1,0,beer064,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006146.1,0,beer065,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006130.1,0,beer066,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006114.1,0,beer067,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006098.1,0,beer068,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006082.1,0,beer069,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006066.1,0,beer070,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006050.1,0,beer071,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006034.1,1,beer072,Beer (Gallone),False,,POF+
+CM006018.1,0,beer073,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM006002.1,1,beer074,Beer (Gallone),False,,POF+
+CM005986.1,2,beer075,Beer (Gallone),False,,POF+
+CM005970.1,2,beer076,Beer (Gallone),False,,POF+
+CM005954.1,2,beer077,Beer (Gallone),False,,POF+
+CM005938.1,2,beer078,Beer (Gallone),False,,POF+
+CM005922.1,0,beer079,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005906.1,1,beer080,Beer (Gallone),False,,POF+
+CM005890.1,2,beer081,Beer (Gallone),False,,POF+
+CM005874.1,0,beer082,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005858.1,1,beer083,Beer (Gallone),False,,POF+
+CM005842.1,1,beer084,Beer (Gallone),False,,POF+
+CM005826.1,1,beer085,Beer (Gallone),False,,POF+
+CM005810.1,1,beer086,Beer (Gallone),False,,POF+
+CM005794.1,0,beer087,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005778.1,4,beer088,Beer (Gallone),False,,POF+
+CM005762.1,0,beer089,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005746.1,0,beer090,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005730.1,1,beer091,Beer (Gallone),False,,POF+
+CM005714.1,1,beer092,Beer (Gallone),False,,POF+
+CM005698.1,1,beer093,Beer (Gallone),False,,POF+
+CM005682.1,0,beer094,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005666.1,0,beer096,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005650.1,0,beer095,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005634.1,0,beer097,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005618.1,0,beer098,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005602.1,0,beer100,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005586.1,0,beer099,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005570.1,0,beer101,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005554.1,0,beer102,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa,POF-
+CM005538.1,3,bioethanol001,Bioethanol,False,,POF+
+CM005506.1,2,bread001,Baking,False,,POF-
+CM005490.1,3,bioethanol004,Bioethanol,False,,POF+
+CM005474.1,3,bioethanol003,Bioethanol,False,,POF+
+CM005442.1,2,bread003,Baking,False,,POF-
+CM005426.1,1,bread004,Baking,False,,POF-
+CM005410.1,1,bread002,Baking,False,,POF+
+CM005394.1,24,laboratory001,Laboratory,True,c.294T>G p.Y98* -> 97 aa,POF-
+CM005378.1,5,laboratory002,Laboratory,False,,POF+
+CM005362.1,3,sake001,Sake,False,,POF-
+CM005346.1,25,sake002,Sake,False,,POF+
+CM005330.1,3,sake003,Sake,False,,POF-
+CM005314.1,3,sake004,Sake,False,,POF-
+CM005298.1,3,sake005,Sake,False,,POF-
+CM005282.1,3,sake006,Sake,False,,POF-
+CM005266.1,26,sake007,Sake,False,,POF-
+CM005234.1,4,spirits002,Spirits,False,,POF+
+CM005218.1,27,spirits004,Spirits,False,,POF+
+CM005202.1,2,spirits003,Spirits,False,,POF-
+CM005186.1,2,spirits005,Spirits,False,,POF+
+CM005170.1,28,spirits006,Spirits,False,,POF+
+CM005154.1,1,spirits007,Spirits,False,,POF+
+CM005138.1,29,spirits008,Spirits,True,c.305G>A p.W102* -> 101 aa,POF-
+CM005122.1,2,spirits009,Spirits,False,,POF-
+CM005106.1,1,spirits010,Spirits,False,,POF+
+CM005090.1,1,spirits011,Spirits,False,,POF+
+CM004802.1,30,wine019,Wine,False,,POF+
+CM004770.1,3,wild001,Wild,False,,POF+
+CM004754.1,3,wild002,Wild,False,,POF+
+CM004722.1,1,wild006,Wild,False,,POF+
+CM004706.1,1,wild005,Wild,False,,POF+
+CM004738.1,31,wild004,Wild,False,,POF+
+CM004674.1,2,wild007,Wild,False,,POF+

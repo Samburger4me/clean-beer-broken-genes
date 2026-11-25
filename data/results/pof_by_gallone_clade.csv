@@ -1,0 +1,9 @@
+clade,n,n_POFneg,niches,frac_POFneg,POFneg_clade
+Britain,26,26,"Beer 13, Beer (Pale ale) 4, Beer (Trappist) 3, Beer (Stout) 2, Beer (Bitter) 2, Beer (Lager) 1, Wine 1",1.0,True
+US,10,10,"Beer 6, Beer (Pale ale) 3, Beer (Ale) 1",1.0,True
+Mixed,17,12,"Beer (Ale refermentation) 5, Bread 4, Wild 3, Spirits 2, Beer (Ale) 1, Beer (Lager) 1, Beer (Alt) 1",0.7058823529411765,True
+Asian,10,6,"Saké 6, Bioethanol 3, Wild 1",0.6,True
+Belgium/Germany,18,7,"Beer 3, Beer (Trappist) 3, Beer (Lager) 3, Beer (Ale) 2, Beer (Ale refermentation) 2, Beer (Wheat) 2, Beer (Bitter) 1, Beer (Hefeweizen) 1, Spirits 1",0.3888888888888889,False
+Mosaic,26,10,"Beer 5, Spirits 5, Wine 4, Beer (Hefeweizen) 3, Wild (Cocoa) 3, Lab 2, Beer (Trappist) 1, Beer (Lager) 1, Beer (Ale) 1, Bioethanol 1",0.38461538461538464,False
+Beer2,21,1,"Beer 10, Beer (Lager) 3, Beer (Ale refermentation) 2, Beer (Saison) 2, Beer (Strong ale) 2, Beer (Abbey) 1, Beer (Pale ale) 1",0.047619047619047616,False
+Wine,24,1,"Wine 14, Spirits 3, Beer (Strong ale) 2, Beer 2, Beer (Ale refermentation) 1, Beer (Trappist) 1, Saké 1",0.041666666666666664,False

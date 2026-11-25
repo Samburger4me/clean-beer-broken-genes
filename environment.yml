@@ -1,0 +1,9 @@
+# conda env create -f environment.yml && conda activate yeastflavor
+name: yeastflavor
+channels: [conda-forge]
+dependencies:
+  - python=3.13
+  - pandoc>=3.1          # only needed to rebuild the paper PDF
+  - pip
+  - pip:
+      - -r requirements.txt

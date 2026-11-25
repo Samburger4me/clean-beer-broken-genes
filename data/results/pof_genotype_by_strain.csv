@@ -1,0 +1,182 @@
+group,strain,PAD1,FDC1,predicted_POF,genotype_class
+Laboratory,S288C (NM_001180846.3),0.0,,?,incomplete / not callable
+Laboratory,S288C (NM_001180847.1),,0.0,?,incomplete / not callable
+Laboratory,S288C (U43834.1),0.0,0.0,POF+,both intact
+Laboratory,SY14,0.0,0.0,POF+,both intact
+Laboratory,laboratory001,1.0,1.0,POF-,both LOF
+Laboratory,laboratory002,0.0,0.0,POF+,both intact
+Wild,wild001,0.0,0.0,POF+,both intact
+Wild,wild002,0.0,0.0,POF+,both intact
+Wild,wild003,0.0,0.0,POF+,both intact
+Wild,wild004,0.0,0.0,POF+,both intact
+Wild,wild005,0.0,0.0,POF+,both intact
+Wild,wild006,0.0,0.0,POF+,both intact
+Wild,wild007,0.0,0.0,POF+,both intact
+Wine,EC1118,0.0,0.0,POF+,both intact
+Wine,K1-V1116,0.0,0.0,POF+,both intact
+Wine,Kyokai wine yeast No.1,0.0,0.0,POF+,both intact
+Wine,Kyokai wine yeast No.3,0.0,0.0,POF+,both intact
+Wine,Kyokai wine yeast No.4,,0.0,?,incomplete / not callable
+Wine,wine001,0.0,0.0,POF+,both intact
+Wine,wine002,0.0,0.0,POF+,both intact
+Wine,wine003,0.0,0.0,POF+,both intact
+Wine,wine004,0.0,0.0,POF+,both intact
+Wine,wine005,0.0,0.0,POF+,both intact
+Wine,wine006,0.0,0.0,POF+,both intact
+Wine,wine007,0.0,0.0,POF+,both intact
+Wine,wine008,0.0,0.0,POF+,both intact
+Wine,wine009,0.0,0.0,POF+,both intact
+Wine,wine010,0.0,0.0,POF+,both intact
+Wine,wine011,0.0,0.0,POF+,both intact
+Wine,wine012,1.0,1.0,POF-,both LOF
+Wine,wine013,0.0,0.0,POF+,both intact
+Wine,wine014,0.0,1.0,POF-,FDC1 LOF only
+Wine,wine015,0.0,0.0,POF+,both intact
+Wine,wine016,0.0,0.0,POF+,both intact
+Wine,wine017,0.0,0.0,POF+,both intact
+Wine,wine018,0.0,0.0,POF+,both intact
+Wine,wine019,0.0,0.0,POF+,both intact
+Bioethanol,NCIM3107,0.0,0.0,POF+,both intact
+Bioethanol,bioethanol001,0.0,0.0,POF+,both intact
+Bioethanol,bioethanol002,0.0,0.0,POF+,both intact
+Bioethanol,bioethanol003,0.0,0.0,POF+,both intact
+Bioethanol,bioethanol004,0.0,0.0,POF+,both intact
+Bioethanol,bioethanol005,,0.0,?,incomplete / not callable
+Baking,bread001,0.0,1.0,POF-,FDC1 LOF only
+Baking,bread002,0.0,0.0,POF+,both intact
+Baking,bread003,0.0,1.0,POF-,FDC1 LOF only
+Baking,bread004,0.0,1.0,POF-,FDC1 LOF only
+Wheat/Hefeweizen,Weihenstephan 68,,0.0,?,incomplete / not callable
+Beer (Gallone),beer001,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer002,0.0,0.0,POF+,both intact
+Beer (Gallone),beer003,0.0,0.0,POF+,both intact
+Beer (Gallone),beer004,0.0,0.0,POF+,both intact
+Beer (Gallone),beer005,0.0,1.0,POF-,FDC1 LOF only
+Beer (Gallone),beer006,0.0,1.0,POF-,FDC1 LOF only
+Beer (Gallone),beer007,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer008,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer009,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer010,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer011,0.0,0.0,POF+,both intact
+Beer (Gallone),beer012,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer013,0.0,0.0,POF+,both intact
+Beer (Gallone),beer014,0.0,0.0,POF+,both intact
+Beer (Gallone),beer015,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer016,0.0,0.0,POF+,both intact
+Beer (Gallone),beer017,0.0,1.0,POF-,FDC1 LOF only
+Beer (Gallone),beer018,0.0,0.0,POF+,both intact
+Beer (Gallone),beer019,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer020,0.0,0.0,POF+,both intact
+Beer (Gallone),beer021,0.0,0.0,POF+,both intact
+Beer (Gallone),beer022,0.0,0.0,POF+,both intact
+Beer (Gallone),beer023,0.0,0.0,POF+,both intact
+Beer (Gallone),beer024,0.0,0.0,POF+,both intact
+Beer (Gallone),beer025,0.0,1.0,POF-,FDC1 LOF only
+Beer (Gallone),beer026,0.0,0.0,POF+,both intact
+Beer (Gallone),beer027,0.0,0.0,POF+,both intact
+Beer (Gallone),beer028,0.0,1.0,POF-,FDC1 LOF only
+Beer (Gallone),beer029,0.0,1.0,POF-,FDC1 LOF only
+Beer (Gallone),beer030,0.0,0.0,POF+,both intact
+Beer (Gallone),beer031,0.0,0.0,POF+,both intact
+Beer (Gallone),beer032,0.0,0.0,POF+,both intact
+Beer (Gallone),beer033,0.0,0.0,POF+,both intact
+Beer (Gallone),beer034,0.0,0.0,POF+,both intact
+Beer (Gallone),beer035,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer036,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer037,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer038,0.0,1.0,POF-,FDC1 LOF only
+Beer (Gallone),beer039,0.0,0.0,POF+,both intact
+Beer (Gallone),beer040,0.0,0.0,POF+,both intact
+Beer (Gallone),beer041,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer042,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer043,0.0,0.0,POF+,both intact
+Beer (Gallone),beer044,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer045,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer046,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer047,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer048,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer049,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer050,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer051,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer052,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer053,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer054,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer055,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer056,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer057,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer058,0.0,1.0,POF-,FDC1 LOF only
+Beer (Gallone),beer059,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer060,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer061,0.0,1.0,POF-,FDC1 LOF only
+Beer (Gallone),beer062,0.0,0.0,POF+,both intact
+Beer (Gallone),beer063,0.0,0.0,POF+,both intact
+Beer (Gallone),beer064,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer065,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer066,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer067,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer068,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer069,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer070,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer071,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer072,0.0,0.0,POF+,both intact
+Beer (Gallone),beer073,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer074,0.0,0.0,POF+,both intact
+Beer (Gallone),beer075,0.0,0.0,POF+,both intact
+Beer (Gallone),beer076,0.0,0.0,POF+,both intact
+Beer (Gallone),beer077,0.0,0.0,POF+,both intact
+Beer (Gallone),beer078,0.0,0.0,POF+,both intact
+Beer (Gallone),beer079,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer080,0.0,0.0,POF+,both intact
+Beer (Gallone),beer081,0.0,0.0,POF+,both intact
+Beer (Gallone),beer082,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer083,0.0,0.0,POF+,both intact
+Beer (Gallone),beer084,0.0,0.0,POF+,both intact
+Beer (Gallone),beer085,0.0,0.0,POF+,both intact
+Beer (Gallone),beer086,0.0,0.0,POF+,both intact
+Beer (Gallone),beer087,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer088,0.0,0.0,POF+,both intact
+Beer (Gallone),beer089,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer090,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer091,0.0,0.0,POF+,both intact
+Beer (Gallone),beer092,0.0,0.0,POF+,both intact
+Beer (Gallone),beer093,0.0,0.0,POF+,both intact
+Beer (Gallone),beer094,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer095,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer096,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer097,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer098,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer099,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer100,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer101,1.0,1.0,POF-,both LOF
+Beer (Gallone),beer102,1.0,1.0,POF-,both LOF
+Ale,NCYC240,1.0,1.0,POF-,both LOF
+Lager,NCYC984,0.0,1.0,POF-,FDC1 LOF only
+Sake,Kyokai No.6,0.0,1.0,POF-,FDC1 LOF only
+Sake,sake001,0.0,1.0,POF-,FDC1 LOF only
+Sake,sake002,0.0,0.0,POF+,both intact
+Sake,sake003,0.0,1.0,POF-,FDC1 LOF only
+Sake,sake004,0.0,1.0,POF-,FDC1 LOF only
+Sake,sake005,0.0,1.0,POF-,FDC1 LOF only
+Sake,sake006,0.0,1.0,POF-,FDC1 LOF only
+Sake,sake007,0.0,1.0,POF-,FDC1 LOF only
+Shochu/Awamori,Awamori 101,,1.0,POF-,FDC1 LOF only
+Shochu/Awamori,Kagoshima yeast No.5,,1.0,POF-,FDC1 LOF only
+Shochu/Awamori,Shochu Kyokai No.2,0.0,1.0,POF-,FDC1 LOF only
+Spirits,spirits001,0.0,1.0,POF-,FDC1 LOF only
+Spirits,spirits002,0.0,0.0,POF+,both intact
+Spirits,spirits003,0.0,1.0,POF-,FDC1 LOF only
+Spirits,spirits004,0.0,0.0,POF+,both intact
+Spirits,spirits005,0.0,0.0,POF+,both intact
+Spirits,spirits006,0.0,0.0,POF+,both intact
+Spirits,spirits007,0.0,0.0,POF+,both intact
+Spirits,spirits008,1.0,1.0,POF-,both LOF
+Spirits,spirits009,0.0,1.0,POF-,FDC1 LOF only
+Spirits,spirits010,0.0,0.0,POF+,both intact
+Spirits,spirits011,0.0,0.0,POF+,both intact
+Other/Unknown,N85,0.0,0.0,POF+,both intact
+Other/Unknown,RIB6002,0.0,1.0,POF-,FDC1 LOF only
+Other/Unknown,Y7,1.0,1.0,POF-,both LOF
+Other/Unknown,unnamed (AB293446.1),0.0,1.0,POF-,FDC1 LOF only
+Other/Unknown,unnamed (AY693262.1),,,?,incomplete / not callable
+Other/Unknown,unnamed (L09263.1),0.0,,?,incomplete / not callable
+Other/Unknown,unnamed (PX845829.1),,0.0,?,incomplete / not callable

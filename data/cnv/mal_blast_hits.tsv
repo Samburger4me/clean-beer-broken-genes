@@ -1,0 +1,225 @@
+gene	sacc	pident	length	qcov	sstart	send	qstart	qend	evalue	bitscore	strain	title
+MAL11	NC_001139.9	100.000	1851	1.000	1075813	1073963	1	1851	0.0	3419	S288C	Saccharomyces cerevisiae S288C chromosome VII, complete sequence
+MAL31	NC_001134.8	100.000	1845	1.000	804475	802631	1	1845	0.0	3408	S288C	Saccharomyces cerevisiae S288C chromosome II, complete sequence
+MPH2	NC_001136.10	100.000	1830	1.000	5985	7814	1	1830	0.0	3380	S288C	Saccharomyces cerevisiae S288C chromosome IV, complete sequence
+MPH2	NC_001142.9	99.891	1831	1.000	739816	737986	1	1830	0.0	3369	S288C	Saccharomyces cerevisiae S288C chromosome X, complete sequence
+MPH3	NC_001142.9	100.000	1809	1.000	739816	738008	1	1809	0.0	3341	S288C	Saccharomyces cerevisiae S288C chromosome X, complete sequence
+MPH3	NC_001136.10	99.945	1809	1.000	5985	7792	1	1809	0.0	3334	S288C	Saccharomyces cerevisiae S288C chromosome IV, complete sequence
+MAL11	CP022972.1	100.000	1851	1.000	1111389	1109539	1	1851	0.0	3419	CEN.PK113-7D	Saccharomyces cerevisiae strain CEN.PK113-7D chromosome VII, complete sequence
+MAL31	CP022968.1	100.000	1845	1.000	334614	332770	1	1845	0.0	3408	CEN.PK113-7D	Saccharomyces cerevisiae strain CEN.PK113-7D chromosome III, complete sequence
+MAL31	CP022967.1	99.892	1845	1.000	804849	803007	1	1845	0.0	3395	CEN.PK113-7D	Saccharomyces cerevisiae strain CEN.PK113-7D chromosome II, complete sequence
+MPH2	CP022975.1	99.782	1833	1.000	758715	756883	1	1830	0.0	3360	CEN.PK113-7D	Saccharomyces cerevisiae strain CEN.PK113-7D chromosome X, complete sequence
+MPH2	CP022969.1	99.672	1831	1.000	5737	7563	1	1830	0.0	3343	CEN.PK113-7D	Saccharomyces cerevisiae strain CEN.PK113-7D chromosome IV, complete sequence
+MPH3	CP022975.1	99.890	1811	1.000	758715	756905	1	1809	0.0	3332	CEN.PK113-7D	Saccharomyces cerevisiae strain CEN.PK113-7D chromosome X, complete sequence
+MPH3	CP022969.1	99.668	1809	1.000	5737	7541	1	1809	0.0	3304	CEN.PK113-7D	Saccharomyces cerevisiae strain CEN.PK113-7D chromosome IV, complete sequence
+MAL31	CP093724.1	88.895	1855	1.000	1059941	1058094	1	1845	0.0	2268	SK1	Saccharomyces cerevisiae strain SK1 chromosome VII
+MPH2	CP093720.1	98.799	1832	1.000	12591	14422	1	1830	0.0	3260	SK1	Saccharomyces cerevisiae strain SK1 chromosome IV
+MPH2	CP093724.1	78.135	1523	0.828	1059718	1058204	218	1732	0.0	953	SK1	Saccharomyces cerevisiae strain SK1 chromosome VII
+MPH3	CP093720.1	98.950	1809	1.000	12591	14399	1	1809	0.0	3236	SK1	Saccharomyces cerevisiae strain SK1 chromosome IV
+MPH3	CP093724.1	78.135	1523	0.837	1059718	1058204	218	1732	0.0	953	SK1	Saccharomyces cerevisiae strain SK1 chromosome VII
+MAL31	CP093719.1	98.428	1845	1.000	325022	323178	1	1845	0.0	3247	SK1	Saccharomyces cerevisiae strain SK1 chromosome III
+MPH2	CP093719.1	78.711	1536	0.834	324810	323288	207	1732	0.0	1003	SK1	Saccharomyces cerevisiae strain SK1 chromosome III
+MPH3	CP093719.1	78.711	1536	0.844	324810	323288	207	1732	0.0	1003	SK1	Saccharomyces cerevisiae strain SK1 chromosome III
+MAL31	CP093558.1	99.783	1847	1.000	781601	779755	1	1845	0.0	3387	Y55	Saccharomyces cerevisiae strain Y55 chromosome II
+MAL31	CP093564.1	98.754	1846	1.000	1053449	1051604	1	1845	0.0	3280	Y55	Saccharomyces cerevisiae strain Y55 chromosome VII
+MPH2	CP093560.1	99.891	1831	1.000	5793	7623	1	1830	0.0	3369	Y55	Saccharomyces cerevisiae strain Y55 chromosome IV
+MPH3	CP093560.1	99.945	1809	1.000	5793	7601	1	1809	0.0	3336	Y55	Saccharomyces cerevisiae strain Y55 chromosome IV
+MAL11	CP093820.1	98.433	1851	1.000	1050021	1048172	1	1851	0.0	3256	DBVPG6765	Saccharomyces cerevisiae strain DBVPG6765 chromosome VII
+MAL31	CP093814.1	100.000	1845	1.000	787079	785235	1	1845	0.0	3408	DBVPG6765	Saccharomyces cerevisiae strain DBVPG6765 chromosome II
+MAL31	CP093820.1	99.729	1845	1.000	1061662	1059818	1	1845	0.0	3380	DBVPG6765	Saccharomyces cerevisiae strain DBVPG6765 chromosome VII
+MPH2	CP093816.1	99.891	1831	1.000	6077	7907	1	1830	0.0	3369	DBVPG6765	Saccharomyces cerevisiae strain DBVPG6765 chromosome IV
+MPH3	CP093816.1	99.945	1809	1.000	6077	7885	1	1809	0.0	3336	DBVPG6765	Saccharomyces cerevisiae strain DBVPG6765 chromosome IV
+MAL31	CP093823.1	99.729	1845	1.000	648859	647015	1	1845	0.0	3380	DBVPG6765	Saccharomyces cerevisiae strain DBVPG6765 chromosome XI
+MAL31	CP093734.1	99.729	1845	1.000	786005	784161	1	1845	0.0	3380	BC187	Saccharomyces cerevisiae strain BC187 chromosome II
+MAL31	CP093740.1	98.537	1845	1.000	1068001	1066157	1	1845	0.0	3258	BC187	Saccharomyces cerevisiae strain BC187 chromosome VII
+MPH2	CP093736.1	99.891	1831	1.000	12693	14523	1	1830	0.0	3369	BC187	Saccharomyces cerevisiae strain BC187 chromosome IV
+MPH2	CP093740.1	78.776	1536	0.834	1067789	1066267	207	1732	0.0	1009	BC187	Saccharomyces cerevisiae strain BC187 chromosome VII
+MPH3	CP093736.1	99.945	1809	1.000	12693	14501	1	1809	0.0	3336	BC187	Saccharomyces cerevisiae strain BC187 chromosome IV
+MPH3	CP093740.1	78.776	1536	0.844	1067789	1066267	207	1732	0.0	1009	BC187	Saccharomyces cerevisiae strain BC187 chromosome VII
+MAL11	CP093708.1	98.487	1851	1.000	1050211	1048361	1	1851	0.0	3264	L_1374	Saccharomyces cerevisiae strain L_1374 chromosome VII
+MAL31	CP093702.1	99.946	1846	1.000	779978	778133	1	1845	0.0	3402	L_1374	Saccharomyces cerevisiae strain L_1374 chromosome II
+MAL31	CP093708.1	98.537	1845	1.000	1061875	1060031	1	1845	0.0	3258	L_1374	Saccharomyces cerevisiae strain L_1374 chromosome VII
+MPH2	CP093704.1	99.891	1831	1.000	6092	7922	1	1830	0.0	3369	L_1374	Saccharomyces cerevisiae strain L_1374 chromosome IV
+MPH2	CP093708.1	78.776	1536	0.834	1061663	1060141	207	1732	0.0	1009	L_1374	Saccharomyces cerevisiae strain L_1374 chromosome VII
+MPH3	CP093704.1	99.945	1809	1.000	6092	7900	1	1809	0.0	3336	L_1374	Saccharomyces cerevisiae strain L_1374 chromosome IV
+MPH3	CP093708.1	78.776	1536	0.844	1061663	1060141	207	1732	0.0	1009	L_1374	Saccharomyces cerevisiae strain L_1374 chromosome VII
+MAL11	CP093628.1	98.379	1851	1.000	1064232	1062383	1	1851	0.0	3251	L_1528	Saccharomyces cerevisiae strain L_1528 chromosome VII
+MAL31	CP093622.1	100.000	1845	1.000	789700	787856	1	1845	0.0	3408	L_1528	Saccharomyces cerevisiae strain L_1528 chromosome II
+MAL31	CP093628.1	95.680	1898	1.000	1075972	1074099	1	1845	0.0	2979	L_1528	Saccharomyces cerevisiae strain L_1528 chromosome VII
+MPH2	CP093624.1	99.891	1831	1.000	5802	7632	1	1830	0.0	3369	L_1528	Saccharomyces cerevisiae strain L_1528 chromosome IV
+MPH3	CP093624.1	99.945	1809	1.000	5802	7610	1	1809	0.0	3336	L_1528	Saccharomyces cerevisiae strain L_1528 chromosome IV
+MAL31	CP093756.1	99.946	1845	1.000	1078149	1076305	1	1845	0.0	3402	YIIc17_E5	Saccharomyces cerevisiae strain YIIc17_E5 chromosome VII
+MPH2	CP093752.1	99.727	1831	1.000	6223	8053	1	1830	0.0	3352	YIIc17_E5	Saccharomyces cerevisiae strain YIIc17_E5 chromosome IV
+MPH3	CP093752.1	99.779	1809	1.000	6223	8031	1	1809	0.0	3319	YIIc17_E5	Saccharomyces cerevisiae strain YIIc17_E5 chromosome IV
+MAL31	CM010781.1	99.675	1845	1.000	787630	785787	1	1845	0.0	3373	YAL1	Saccharomyces cerevisiae strain YAL1 chromosome II, whole genome shotgun sequence
+MAL31	CM010785.1	98.483	1846	1.000	1056801	1054956	1	1845	0.0	3253	YAL1	Saccharomyces cerevisiae strain YAL1 chromosome VII, whole genome shotgun sequence
+MPH2	QQBK01000010.1	99.836	1831	1.000	1497638	1495809	1	1830	0.0	3363	YAL1	Saccharomyces cerevisiae strain YAL1 chromosome XVI Consensus_Consensus_Consensus_utg27_pilon, whole genome shotgun sequence
+MPH2	CM010785.1	78.725	1537	0.834	1056589	1055066	207	1732	0.0	1005	YAL1	Saccharomyces cerevisiae strain YAL1 chromosome VII, whole genome shotgun sequence
+MPH3	QQBK01000010.1	99.889	1809	1.000	1497638	1495831	1	1809	0.0	3328	YAL1	Saccharomyces cerevisiae strain YAL1 chromosome XVI Consensus_Consensus_Consensus_utg27_pilon, whole genome shotgun sequence
+MPH3	CM010785.1	78.725	1537	0.844	1056589	1055066	207	1732	0.0	1005	YAL1	Saccharomyces cerevisiae strain YAL1 chromosome VII, whole genome shotgun sequence
+MAL31	CM001084.1	99.838	1848	1.000	1037469	1035622	1	1845	0.0	3393	AWRI796	Saccharomyces cerevisiae AWRI796 chromosome VII, whole genome shotgun sequence
+MAL31	CM001079.1	99.783	1847	1.000	782017	780171	1	1845	0.0	3389	AWRI796	Saccharomyces cerevisiae AWRI796 chromosome II, whole genome shotgun sequence
+MAL11	AP044995.1	98.433	1851	1.000	1039424	1037574	1	1851	0.0	3258	I-25	Saccharomyces cerevisiae I-25 DNA, chromosome VII, complete sequence
+MAL31	AP044990.1	99.946	1845	1.000	790301	788457	1	1845	0.0	3402	I-25	Saccharomyces cerevisiae I-25 DNA, chromosome II, complete sequence
+MPH2	AP044992.1	99.891	1831	1.000	6725	8555	1	1830	0.0	3369	I-25	Saccharomyces cerevisiae I-25 DNA, chromosome IV, complete sequence
+MPH3	AP044992.1	99.945	1809	1.000	6725	8533	1	1809	0.0	3336	I-25	Saccharomyces cerevisiae I-25 DNA, chromosome IV, complete sequence
+MAL11	CP072098.1	99.730	1851	1.000	1075749	1073899	1	1851	0.0	3391	L261	Saccharomyces cerevisiae strain L261 chromosome VII
+MAL31	CP072092.1	99.241	1845	1.000	804415	802571	1	1845	0.0	3330	L261	Saccharomyces cerevisiae strain L261 chromosome II
+MPH2	CP072094.1	100.000	1830	1.000	5985	7814	1	1830	0.0	3380	L261	Saccharomyces cerevisiae strain L261 chromosome IV
+MPH2	CP072100.1	99.891	1831	1.000	739570	737740	1	1830	0.0	3369	L261	Saccharomyces cerevisiae strain L261 chromosome X
+MPH3	CP072100.1	100.000	1809	1.000	739570	737762	1	1809	0.0	3341	L261	Saccharomyces cerevisiae strain L261 chromosome X
+MPH3	CP072094.1	99.945	1809	1.000	5985	7792	1	1809	0.0	3334	L261	Saccharomyces cerevisiae strain L261 chromosome IV
+MAL31	CP093804.1	88.895	1855	1.000	1060097	1058250	1	1845	0.0	2268	DBVPG6044	Saccharomyces cerevisiae strain DBVPG6044 chromosome VII
+MPH2	CP093800.1	98.799	1832	1.000	12422	14253	1	1830	0.0	3260	DBVPG6044	Saccharomyces cerevisiae strain DBVPG6044 chromosome IV
+MPH2	CP093804.1	78.135	1523	0.828	1059874	1058360	218	1732	0.0	953	DBVPG6044	Saccharomyces cerevisiae strain DBVPG6044 chromosome VII
+MPH3	CP093800.1	98.950	1809	1.000	12422	14230	1	1809	0.0	3236	DBVPG6044	Saccharomyces cerevisiae strain DBVPG6044 chromosome IV
+MPH3	CP093804.1	78.135	1523	0.837	1059874	1058360	218	1732	0.0	953	DBVPG6044	Saccharomyces cerevisiae strain DBVPG6044 chromosome VII
+MAL11	CP093772.1	99.892	1851	1.000	1064668	1062818	1	1851	0.0	3408	Y12	Saccharomyces cerevisiae strain Y12 chromosome VII
+MAL31	CP093766.1	99.458	1845	1.000	791827	789983	1	1845	0.0	3352	Y12	Saccharomyces cerevisiae strain Y12 chromosome II
+MAL31	CP093766.1	90.178	1853	1.000	781256	779409	1	1845	0.0	2401	Y12	Saccharomyces cerevisiae strain Y12 chromosome II
+MAL31	CP093766.1	85.911	291	0.157	785997	785713	1277	1565	5.41e-82	303	Y12	Saccharomyces cerevisiae strain Y12 chromosome II
+MAL31	CP093772.1	99.350	1845	1.000	1075609	1073765	1	1845	0.0	3341	Y12	Saccharomyces cerevisiae strain Y12 chromosome VII
+MPH2	CP093768.1	99.891	1831	1.000	6074	7904	1	1830	0.0	3369	Y12	Saccharomyces cerevisiae strain Y12 chromosome IV
+MPH2	CP093766.1	78.332	1523	0.828	781033	779519	218	1732	0.0	970	Y12	Saccharomyces cerevisiae strain Y12 chromosome II
+MPH3	CP093768.1	99.945	1809	1.000	6074	7882	1	1809	0.0	3336	Y12	Saccharomyces cerevisiae strain Y12 chromosome IV
+MPH3	CP093766.1	78.332	1523	0.837	781033	779519	218	1732	0.0	970	Y12	Saccharomyces cerevisiae strain Y12 chromosome II
+MAL11	CP025103.1	98.433	1851	1.000	1068970	1067120	1	1851	0.0	3258	Makgeolli	Saccharomyces cerevisiae strain Makgeolli chromosome 7
+MAL31	CP025098.1	99.946	1845	1.000	784386	782542	1	1845	0.0	3402	Makgeolli	Saccharomyces cerevisiae strain Makgeolli chromosome 2
+MAL31	CP025103.1	92.017	1854	1.000	1080742	1078895	1	1845	0.0	2590	Makgeolli	Saccharomyces cerevisiae strain Makgeolli chromosome 7
+MAL31	CP025107.1	99.187	1845	1.000	672526	670682	1	1845	0.0	3325	Makgeolli	Saccharomyces cerevisiae strain Makgeolli chromosome 11
+MAL11	CM027002.1	99.892	1851	1.000	19903	21753	1	1851	0.0	3408	HJ	Saccharomyces cerevisiae strain HJ chromosome VII, whole genome shotgun sequence
+MAL31	CM026998.1	99.295	1845	1.000	805882	804038	1	1845	0.0	3336	HJ	Saccharomyces cerevisiae strain HJ chromosome II, whole genome shotgun sequence
+MAL31	CM026998.1	90.222	1851	1.000	795314	793467	1	1845	0.0	2407	HJ	Saccharomyces cerevisiae strain HJ chromosome II, whole genome shotgun sequence
+MAL31	CM026998.1	85.911	291	0.157	800052	799768	1277	1565	5.41e-82	303	HJ	Saccharomyces cerevisiae strain HJ chromosome II, whole genome shotgun sequence
+MAL31	CM027002.1	99.133	1845	1.000	8960	10804	1	1845	0.0	3319	HJ	Saccharomyces cerevisiae strain HJ chromosome VII, whole genome shotgun sequence
+MPH2	CM027000.1	99.891	1831	1.000	6230	8060	1	1830	0.0	3369	HJ	Saccharomyces cerevisiae strain HJ chromosome IV, whole genome shotgun sequence
+MPH2	CM026998.1	78.318	1522	0.828	795091	793577	218	1732	0.0	970	HJ	Saccharomyces cerevisiae strain HJ chromosome II, whole genome shotgun sequence
+MPH3	CM027000.1	99.945	1809	1.000	6230	8038	1	1809	0.0	3336	HJ	Saccharomyces cerevisiae strain HJ chromosome IV, whole genome shotgun sequence
+MPH3	CM026998.1	78.318	1522	0.837	795091	793577	218	1732	0.0	970	HJ	Saccharomyces cerevisiae strain HJ chromosome II, whole genome shotgun sequence
+MAL31	CP088307.1	99.512	1845	1.000	8989	10833	1	1845	0.0	3358	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome VII
+MAL31	CP088307.1	90.762	1851	1.000	15263	17110	1	1845	0.0	2462	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome VII
+MAL31	CP088311.1	99.512	1845	1.000	655197	653355	1	1845	0.0	3356	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome XI
+MAL31	CP088302.1	99.024	1845	1.000	819782	817938	1	1845	0.0	3308	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome II
+MAL31	CP088302.1	91.788	1851	1.000	809552	807705	1	1845	0.0	2567	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome II
+MAL31	CP088302.1	86.254	291	0.157	814290	814006	1277	1565	1.16e-83	309	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome II
+MPH2	CP088304.1	99.727	1831	1.000	6152	7982	1	1830	0.0	3352	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome IV
+MPH2	CP088302.1	78.371	1535	0.834	809340	807815	207	1732	0.0	979	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome II
+MPH2	CP088307.1	78.272	1528	0.831	15480	17000	212	1732	0.0	970	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome VII
+MPH3	CP088304.1	99.779	1809	1.000	6152	7960	1	1809	0.0	3319	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome IV
+MPH3	CP088302.1	78.371	1535	0.844	809340	807815	207	1732	0.0	979	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome II
+MPH3	CP088307.1	78.272	1528	0.841	15480	17000	212	1732	0.0	970	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome VII
+MAL31	CP088308.1	99.024	1845	1.000	528844	527001	1	1845	0.0	3306	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome VIII
+MAL31	CP088308.1	86.254	291	0.157	523351	523067	1277	1565	2.87e-84	309	A (Luzhou Daqu)	Saccharomyces cerevisiae strain A chromosome VIII
+MAL11	CM004300.1	99.622	1851	1.000	1097976	1096126	1	1851	0.0	3380	GLBRCY22-3	Saccharomyces cerevisiae strain GLBRCY22-3 chromosome VII, whole genome shotgun sequence
+MAL31	CM004295.1	99.892	1845	1.000	810953	809109	1	1845	0.0	3397	GLBRCY22-3	Saccharomyces cerevisiae strain GLBRCY22-3 chromosome II, whole genome shotgun sequence
+MAL31	CM004300.1	89.320	1854	1.000	1108924	1107077	1	1845	0.0	2313	GLBRCY22-3	Saccharomyces cerevisiae strain GLBRCY22-3 chromosome VII, whole genome shotgun sequence
+MPH2	CM004297.1	99.891	1831	1.000	12782	14612	1	1830	0.0	3369	GLBRCY22-3	Saccharomyces cerevisiae strain GLBRCY22-3 chromosome IV, whole genome shotgun sequence
+MPH2	CM004300.1	78.292	1534	0.834	1108712	1107187	207	1732	0.0	974	GLBRCY22-3	Saccharomyces cerevisiae strain GLBRCY22-3 chromosome VII, whole genome shotgun sequence
+MPH3	CM004297.1	100.000	1809	1.000	12782	14590	1	1809	0.0	3341	GLBRCY22-3	Saccharomyces cerevisiae strain GLBRCY22-3 chromosome IV, whole genome shotgun sequence
+MPH3	CM004300.1	78.292	1534	0.844	1108712	1107187	207	1732	0.0	974	GLBRCY22-3	Saccharomyces cerevisiae strain GLBRCY22-3 chromosome VII, whole genome shotgun sequence
+MAL11	CP093788.1	99.784	1851	1.000	1045271	1043421	1	1851	0.0	3397	YPS128	Saccharomyces cerevisiae strain YPS128 chromosome VII
+MAL31	CP093788.1	95.831	1847	1.000	1066426	1064582	1	1845	0.0	2981	YPS128	Saccharomyces cerevisiae strain YPS128 chromosome VII
+MAL31	CP093788.1	88.943	1854	1.000	1056196	1054349	1	1845	0.0	2274	YPS128	Saccharomyces cerevisiae strain YPS128 chromosome VII
+MAL31	CP093788.1	85.666	293	0.158	1060933	1060647	1275	1565	1.93e-81	302	YPS128	Saccharomyces cerevisiae strain YPS128 chromosome VII
+MPH2	CP093784.1	99.836	1831	1.000	6085	7915	1	1830	0.0	3363	YPS128	Saccharomyces cerevisiae strain YPS128 chromosome IV
+MPH2	CP093788.1	78.318	1522	0.828	1055973	1054459	218	1732	0.0	970	YPS128	Saccharomyces cerevisiae strain YPS128 chromosome VII
+MPH3	CP093784.1	99.889	1809	1.000	6085	7893	1	1809	0.0	3330	YPS128	Saccharomyces cerevisiae strain YPS128 chromosome IV
+MPH3	CP093788.1	78.318	1522	0.837	1055973	1054459	218	1732	0.0	970	YPS128	Saccharomyces cerevisiae strain YPS128 chromosome VII
+MAL11	CP093644.1	99.784	1851	1.000	1058671	1056821	1	1851	0.0	3397	YPS606	Saccharomyces cerevisiae strain YPS606 chromosome VII
+MAL31	CP093644.1	95.831	1847	1.000	1079826	1077982	1	1845	0.0	2981	YPS606	Saccharomyces cerevisiae strain YPS606 chromosome VII
+MAL31	CP093644.1	88.943	1854	1.000	1069596	1067749	1	1845	0.0	2274	YPS606	Saccharomyces cerevisiae strain YPS606 chromosome VII
+MAL31	CP093644.1	85.666	293	0.158	1074333	1074047	1275	1565	1.93e-81	302	YPS606	Saccharomyces cerevisiae strain YPS606 chromosome VII
+MPH2	CP093640.1	99.836	1831	1.000	6031	7861	1	1830	0.0	3363	YPS606	Saccharomyces cerevisiae strain YPS606 chromosome IV
+MPH2	CP093644.1	78.318	1522	0.828	1069373	1067859	218	1732	0.0	970	YPS606	Saccharomyces cerevisiae strain YPS606 chromosome VII
+MPH3	CP093640.1	99.889	1809	1.000	6031	7839	1	1809	0.0	3330	YPS606	Saccharomyces cerevisiae strain YPS606 chromosome IV
+MPH3	CP093644.1	78.318	1522	0.837	1069373	1067859	218	1732	0.0	970	YPS606	Saccharomyces cerevisiae strain YPS606 chromosome VII
+MAL11	JALCYN010000013.1	99.298	1851	1.000	29501	31351	1	1851	0.0	3347	UWOPS03-461.4	Saccharomyces cerevisiae strain UWOPSO3_461_4 contig00000009, whole genome shotgun sequence
+MAL31	JALCYN010000013.1	93.333	1845	1.000	9072	10916	1	1845	0.0	2726	UWOPS03-461.4	Saccharomyces cerevisiae strain UWOPSO3_461_4 contig00000009, whole genome shotgun sequence
+MAL31	JALCYN010000013.1	93.333	1845	1.000	18686	20530	1	1845	0.0	2726	UWOPS03-461.4	Saccharomyces cerevisiae strain UWOPSO3_461_4 contig00000009, whole genome shotgun sequence
+MAL31	JALCYN010000013.1	86.620	284	0.153	13953	14231	1275	1556	4.13e-83	307	UWOPS03-461.4	Saccharomyces cerevisiae strain UWOPSO3_461_4 contig00000009, whole genome shotgun sequence
+MPH2	CM041188.1	99.782	1831	1.000	6281	8111	1	1830	0.0	3358	UWOPS03-461.4	Saccharomyces cerevisiae strain UWOPSO3_461_4 chromosome IV, whole genome shotgun sequence
+MPH3	CM041188.1	99.834	1809	1.000	6281	8089	1	1809	0.0	3325	UWOPS03-461.4	Saccharomyces cerevisiae strain UWOPSO3_461_4 chromosome IV, whole genome shotgun sequence
+MAL11	CP093612.1	99.730	1851	1.000	1052815	1050965	1	1851	0.0	3391	UWOPS83-787.3	Saccharomyces cerevisiae strain UWOPS83_787_3 chromosome VII
+MAL31	CP093612.1	95.723	1847	1.000	1073978	1072134	1	1845	0.0	2970	UWOPS83-787.3	Saccharomyces cerevisiae strain UWOPS83_787_3 chromosome VII
+MAL31	CP093612.1	89.051	1854	1.000	1063744	1061897	1	1845	0.0	2285	UWOPS83-787.3	Saccharomyces cerevisiae strain UWOPS83_787_3 chromosome VII
+MAL31	CP093612.1	85.666	293	0.158	1068484	1068198	1275	1565	1.92e-81	302	UWOPS83-787.3	Saccharomyces cerevisiae strain UWOPS83_787_3 chromosome VII
+MPH2	CP093608.1	99.782	1831	1.000	6057	7887	1	1830	0.0	3358	UWOPS83-787.3	Saccharomyces cerevisiae strain UWOPS83_787_3 chromosome IV
+MPH2	CP093612.1	78.252	1522	0.828	1063521	1062007	218	1732	0.0	965	UWOPS83-787.3	Saccharomyces cerevisiae strain UWOPS83_787_3 chromosome VII
+MPH3	CP093608.1	99.834	1809	1.000	6057	7865	1	1809	0.0	3325	UWOPS83-787.3	Saccharomyces cerevisiae strain UWOPS83_787_3 chromosome IV
+MPH3	CP093612.1	78.252	1522	0.837	1063521	1062007	218	1732	0.0	965	UWOPS83-787.3	Saccharomyces cerevisiae strain UWOPS83_787_3 chromosome VII
+MAL11	CP093596.1	99.730	1851	1.000	1066167	1064317	1	1851	0.0	3391	UWOPS87-2421	Saccharomyces cerevisiae strain UWOPS87_2421 chromosome VII
+MAL31	CP093596.1	95.885	1847	1.000	1087350	1085506	1	1845	0.0	2987	UWOPS87-2421	Saccharomyces cerevisiae strain UWOPS87_2421 chromosome VII
+MAL31	CP093596.1	88.997	1854	1.000	1077116	1075269	1	1845	0.0	2279	UWOPS87-2421	Saccharomyces cerevisiae strain UWOPS87_2421 chromosome VII
+MAL31	CP093596.1	85.666	293	0.158	1081855	1081569	1275	1565	1.93e-81	302	UWOPS87-2421	Saccharomyces cerevisiae strain UWOPS87_2421 chromosome VII
+MPH2	CP093596.1	78.252	1522	0.828	1076893	1075379	218	1732	0.0	965	UWOPS87-2421	Saccharomyces cerevisiae strain UWOPS87_2421 chromosome VII
+MPH3	CP093596.1	78.252	1522	0.837	1076893	1075379	218	1732	0.0	965	UWOPS87-2421	Saccharomyces cerevisiae strain UWOPS87_2421 chromosome VII
+MAL11	CP133027.1	99.730	1851	1.000	1041011	1039161	1	1851	0.0	3391	AGY731	Saccharomyces cerevisiae strain AGY731 chromosome VII
+MAL31	CP133027.1	95.723	1847	1.000	1062162	1060320	1	1845	0.0	2968	AGY731	Saccharomyces cerevisiae strain AGY731 chromosome VII
+MAL31	CP133027.1	88.997	1854	1.000	1051934	1050087	1	1845	0.0	2279	AGY731	Saccharomyces cerevisiae strain AGY731 chromosome VII
+MAL31	CP133027.1	85.666	293	0.158	1056670	1056384	1275	1565	1.92e-81	302	AGY731	Saccharomyces cerevisiae strain AGY731 chromosome VII
+MPH2	CP133024.1	99.782	1831	1.000	6148	7978	1	1830	0.0	3358	AGY731	Saccharomyces cerevisiae strain AGY731 chromosome IV
+MPH2	CP133027.1	78.318	1522	0.828	1051711	1050197	218	1732	0.0	970	AGY731	Saccharomyces cerevisiae strain AGY731 chromosome VII
+MPH3	CP133024.1	99.834	1809	1.000	6148	7956	1	1809	0.0	3325	AGY731	Saccharomyces cerevisiae strain AGY731 chromosome IV
+MPH3	CP133027.1	78.318	1522	0.837	1051711	1050197	218	1732	0.0	970	AGY731	Saccharomyces cerevisiae strain AGY731 chromosome VII
+MAL11	CP159413.1	98.217	1851	1.000	1064872	1063022	1	1851	0.0	3236	C018	Saccharomyces cerevisiae strain C018 chromosome 2
+MAL31	CP159418.1	99.350	1845	1.000	11627	13471	1	1845	0.0	3341	C018	Saccharomyces cerevisiae strain C018 chromosome 7
+MAL31	CP159420.1	99.241	1845	1.000	658933	657089	1	1845	0.0	3330	C018	Saccharomyces cerevisiae strain C018 chromosome 9
+MAL31	CP159413.1	98.266	1845	1.000	1076802	1074958	1	1845	0.0	3230	C018	Saccharomyces cerevisiae strain C018 chromosome 2
+MPH2	CP159413.1	78.451	1536	0.834	1076590	1075068	207	1732	0.0	981	C018	Saccharomyces cerevisiae strain C018 chromosome 2
+MPH3	CP159413.1	78.451	1536	0.844	1076590	1075068	207	1732	0.0	981	C018	Saccharomyces cerevisiae strain C018 chromosome 2
+MAL31	CP093692.1	99.892	1845	1.000	1056673	1054829	1	1845	0.0	3397	YJM978	Saccharomyces cerevisiae strain YJM978 chromosome VII
+MAL31	CP093676.1	100.000	1845	1.000	1056344	1054500	1	1845	0.0	3408	YJM975	Saccharomyces cerevisiae strain YJM975 chromosome VII
+MAL31	CP093670.1	99.729	1848	1.000	786395	784548	1	1845	0.0	3382	YJM975	Saccharomyces cerevisiae strain YJM975 chromosome II
+MPH2	CP093672.1	99.891	1831	1.000	6090	7920	1	1830	0.0	3369	YJM975	Saccharomyces cerevisiae strain YJM975 chromosome IV
+MPH3	CP093672.1	99.945	1809	1.000	6090	7898	1	1809	0.0	3336	YJM975	Saccharomyces cerevisiae strain YJM975 chromosome IV
+MAL31	CP093580.1	99.892	1845	1.000	1055455	1053611	1	1845	0.0	3397	YJM981	Saccharomyces cerevisiae strain YJM981 chromosome VII
+MAL31	CP093574.1	99.837	1845	1.000	779987	778144	1	1845	0.0	3389	YJM981	Saccharomyces cerevisiae strain YJM981 chromosome II
+MPH2	CP093576.1	99.891	1831	1.000	9440	11270	1	1830	0.0	3369	YJM981	Saccharomyces cerevisiae strain YJM981 chromosome IV
+MPH3	CP093576.1	99.945	1809	1.000	9440	11248	1	1809	0.0	3336	YJM981	Saccharomyces cerevisiae strain YJM981 chromosome IV
+MAL11	CP093660.1	98.433	1851	1.000	1069185	1067336	1	1851	0.0	3256	273614N	Saccharomyces cerevisiae strain 273614N chromosome VII
+MAL31	CP093654.1	99.458	1845	1.000	790804	788961	1	1845	0.0	3350	273614N	Saccharomyces cerevisiae strain 273614N chromosome II
+MAL31	CP093654.1	99.187	1846	1.000	784553	782710	1	1845	0.0	3323	273614N	Saccharomyces cerevisiae strain 273614N chromosome II
+MAL31	CP093660.1	98.537	1845	1.000	1080855	1079011	1	1845	0.0	3258	273614N	Saccharomyces cerevisiae strain 273614N chromosome VII
+MAL31	CP093660.1	96.221	1879	1.000	1096027	1094172	1	1845	0.0	3024	273614N	Saccharomyces cerevisiae strain 273614N chromosome VII
+MPH2	CP093656.1	99.782	1831	1.000	17311	19141	1	1830	0.0	3358	273614N	Saccharomyces cerevisiae strain 273614N chromosome IV
+MPH2	CP093660.1	78.776	1536	0.834	1080643	1079121	207	1732	0.0	1009	273614N	Saccharomyces cerevisiae strain 273614N chromosome VII
+MPH3	CP093656.1	99.834	1809	1.000	17311	19119	1	1809	0.0	3325	273614N	Saccharomyces cerevisiae strain 273614N chromosome IV
+MPH3	CP093660.1	78.776	1536	0.844	1080643	1079121	207	1732	0.0	1009	273614N	Saccharomyces cerevisiae strain 273614N chromosome VII
+MAL31	CP097133.1	99.892	1845	1.000	784154	782310	1	1845	0.0	3397	PY0001 (S. boulardii)	Saccharomyces cerevisiae strain PY0001 chromosome II
+MAL31	CP097138.1	99.837	1845	1.000	1049753	1047909	1	1845	0.0	3391	PY0001 (S. boulardii)	Saccharomyces cerevisiae strain PY0001 chromosome VII
+MPH2	CP097135.1	99.836	1831	1.000	6193	8023	1	1830	0.0	3363	PY0001 (S. boulardii)	Saccharomyces cerevisiae strain PY0001 chromosome IV
+MPH3	CP097135.1	99.889	1809	1.000	6193	8001	1	1809	0.0	3330	PY0001 (S. boulardii)	Saccharomyces cerevisiae strain PY0001 chromosome IV
+MAL31	CM170378.1	98.374	1845	1.000	8943	10787	1	1845	0.0	3241	WUT3	Saccharomyces cerevisiae strain WUT3 chromosome XI, whole genome shotgun sequence
+MAL31	CM170374.1	99.756	1229	0.666	1	1229	617	1845	0.0	2254	WUT3	Saccharomyces cerevisiae strain WUT3 chromosome VII, whole genome shotgun sequence
+MPH2	CM170378.1	78.581	1536	0.834	9155	10677	207	1732	0.0	992	WUT3	Saccharomyces cerevisiae strain WUT3 chromosome XI, whole genome shotgun sequence
+MPH3	CM170378.1	78.581	1536	0.844	9155	10677	207	1732	0.0	992	WUT3	Saccharomyces cerevisiae strain WUT3 chromosome XI, whole genome shotgun sequence
+MAL11	CM121479.1	98.379	1851	1.000	1084412	1082563	1	1851	0.0	3251	ZIM 3704	Saccharomyces cerevisiae strain ZIM 3704 chromosome VII, whole genome shotgun sequence
+MAL31	CM121474.1	99.946	1845	1.000	780050	778206	1	1845	0.0	3402	ZIM 3704	Saccharomyces cerevisiae strain ZIM 3704 chromosome II, whole genome shotgun sequence
+MAL31	CM121479.1	99.946	1845	1.000	1095820	1093976	1	1845	0.0	3402	ZIM 3704	Saccharomyces cerevisiae strain ZIM 3704 chromosome VII, whole genome shotgun sequence
+MPH2	CM121482.1	99.891	1831	1.000	5856	7686	1	1830	0.0	3369	ZIM 3704	Saccharomyces cerevisiae strain ZIM 3704 chromosome X, whole genome shotgun sequence
+MPH2	CM121476.1	99.782	1831	1.000	6039	7869	1	1830	0.0	3358	ZIM 3704	Saccharomyces cerevisiae strain ZIM 3704 chromosome IV, whole genome shotgun sequence
+MPH3	CM121482.1	99.945	1809	1.000	5856	7664	1	1809	0.0	3336	ZIM 3704	Saccharomyces cerevisiae strain ZIM 3704 chromosome X, whole genome shotgun sequence
+MPH3	CM121476.1	99.889	1809	1.000	6039	7847	1	1809	0.0	3330	ZIM 3704	Saccharomyces cerevisiae strain ZIM 3704 chromosome IV, whole genome shotgun sequence
+MAL11	CM022363.1	98.433	1851	1.000	1042635	1040785	1	1851	0.0	3258	Jean-Talon	Saccharomyces cerevisiae strain Jean-Talon chromosome VII, whole genome shotgun sequence
+MAL31	JAAGNM010000003.1	99.458	1845	1.000	9204	11048	1	1845	0.0	3352	Jean-Talon	Saccharomyces cerevisiae strain Jean-Talon chromosome XI ctg6.1_pilon, whole genome shotgun sequence
+MAL11	CP049004.1	98.596	1852	1.000	1040662	1038811	1	1851	0.0	3275	CBS 1483	Saccharomyces pastorianus strain CBS 1483 chromosome SeVII-ScVII
+MAL31	CP049010.1	78.773	1809	0.975	17197	18990	1	1798	0.0	1190	CBS 1483	Saccharomyces pastorianus strain CBS 1483 chromosome SeXIII-ScXIII
+MPH2	CP048985.1	99.672	1831	1.000	18089	19919	1	1830	0.0	3347	CBS 1483	Saccharomyces pastorianus strain CBS 1483 chromosome ScIV
+MPH2	CP048999.1	78.947	1520	0.828	11397	12911	217	1731	0.0	1026	CBS 1483	Saccharomyces pastorianus strain CBS 1483 chromosome SeII-SeIV
+MPH3	CP048985.1	99.724	1809	1.000	18089	19897	1	1809	0.0	3314	CBS 1483	Saccharomyces pastorianus strain CBS 1483 chromosome ScIV
+MPH3	CP048999.1	78.947	1520	0.837	11397	12911	217	1731	0.0	1026	CBS 1483	Saccharomyces pastorianus strain CBS 1483 chromosome SeII-SeIV
+MAL11	CP049012.1	82.869	1652	0.890	5991	7638	111	1758	0.0	1476	CBS 1483	Saccharomyces pastorianus strain CBS 1483 chromosome SeXV-SeVIII
+MAL31	CP048984.1	99.241	1845	1.000	790503	788662	1	1845	0.0	3326	CBS 1483	Saccharomyces pastorianus strain CBS 1483 chromosome ScII
+MAL31	CP048992.1	98.482	1845	1.000	659819	657988	1	1845	0.0	3240	CBS 1483	Saccharomyces pastorianus strain CBS 1483 chromosome ScXI
+MAL11	CP150043.1	98.596	1852	1.000	1047529	1045678	1	1851	0.0	3275	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome SeVII
+MAL31	CP150043.1	95.035	1853	1.000	1059110	1057263	1	1845	0.0	2900	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome SeVII
+MAL31	CP150025.1	90.205	1858	1.000	410725	408878	1	1845	0.0	2401	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome ScIII_dup
+MAL31	CP150029.1	90.151	1858	1.000	1126155	1124308	1	1845	0.0	2396	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome ScVII
+MAL31	CP150033.1	78.729	1810	0.975	17526	19320	1	1798	0.0	1184	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome ScXIII
+MPH2	CP150038.1	78.947	1520	0.828	11782	13296	217	1731	0.0	1026	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome SeII
+MPH3	CP150038.1	78.947	1520	0.837	11782	13296	217	1731	0.0	1026	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome SeII
+MAL11	CP150051.1	82.869	1652	0.890	5703	7350	111	1758	0.0	1476	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome SeXV
+MAL31	CP150041.1	79.465	1719	0.927	670664	668957	88	1798	0.0	1201	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome SeV
+MAL31	CP150049.1	78.729	1810	0.975	17526	19320	1	1798	0.0	1184	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome SeXIII
+MAL31	CP150039.1	90.205	1858	1.000	220965	219118	1	1845	0.0	2401	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome SeIII-ScIII
+MAL31	CP150026.1	90.205	1858	1.000	323868	322021	1	1845	0.0	2401	CBS 1513	Saccharomyces pastorianus strain CBS 1513 chromosome ScIII

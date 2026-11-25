@@ -1,0 +1,13 @@
+{
+  "title": "Clean Beer, Broken Genes: Tracing how brewing yeasts lost the clove flavor (code and data)",
+  "upload_type": "software",
+  "description": "Reproducible pipeline, derived data, figures and manuscript for a BCH 339N Bioinformatics (UT Austin, Fall 2026) project on convergent loss of the PAD1/FDC1 phenolic off-flavour pathway in domesticated Saccharomyces cerevisiae.",
+  "creators": [
+    {"name": "Sperling, Sam", "affiliation": "The University of Texas at Austin"},
+    {"name": "Subillaga, Alissa", "affiliation": "The University of Texas at Austin"},
+    {"name": "Lucio, Christian", "affiliation": "The University of Texas at Austin"}
+  ],
+  "keywords": ["Saccharomyces cerevisiae", "domestication", "PAD1", "FDC1", "phenolic off-flavour", "beer", "bioinformatics"],
+  "license": "MIT",
+  "access_right": "open"
+}

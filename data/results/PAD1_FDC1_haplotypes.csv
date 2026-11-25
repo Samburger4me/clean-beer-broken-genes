@@ -1,0 +1,170 @@
+sacc,haplotype,strain,group,LOF,LOF_allele,POF
+S288C,8,S288C,Laboratory,False,,POF+
+NCYC984,18,NCYC984,Lager,True,c.501dupA p.K167fs -> 169 aa,POF-
+N85,19,N85,Other/Unknown,False,,POF+
+NCIM3107,20,NCIM3107,Bioethanol,False,,POF+
+RIB6002,21,RIB6002,Other/Unknown,True,c.501dupA p.K167fs -> 169 aa,POF-
+SY14,8,SY14,Laboratory,False,,POF+
+Kyokai_No.6,22,Kyokai No.6,Sake,True,c.160A>T p.K54* -> 53 aa,POF-
+Shochu_Kyokai_No.2,23,Shochu Kyokai No.2,Shochu/Awamori,True,c.160A>T p.K54* -> 53 aa,POF-
+NCYC240,0,NCYC240,Ale,True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+EC1118,24,EC1118,Wine,False,,POF+
+K1_V1116,5,K1-V1116,Wine,False,,POF+
+Kyokai_wine_yeast_No.1,2,Kyokai wine yeast No.1,Wine,False,,POF+
+Kyokai_wine_yeast_No.3,14,Kyokai wine yeast No.3,Wine,False,,POF+
+Y7,1,Y7,Other/Unknown,True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer001,25,beer001,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer002,26,beer002,Beer (Gallone),False,,POF+
+beer003,27,beer003,Beer (Gallone),False,,POF+
+beer004,10,beer004,Beer (Gallone),False,,POF+
+beer005,28,beer005,Beer (Gallone),True,c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer006,15,beer006,Beer (Gallone),True,c.501dupA p.K167fs -> 169 aa,POF-
+beer007,1,beer007,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer008,6,beer008,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer009,0,beer009,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer010,0,beer010,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer011,10,beer011,Beer (Gallone),False,,POF+
+beer012,6,beer012,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer013,3,beer013,Beer (Gallone),False,,POF+
+beer014,2,beer014,Beer (Gallone),False,,POF+
+beer015,29,beer015,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer016,4,beer016,Beer (Gallone),False,,POF+
+beer017,30,beer017,Beer (Gallone),True,c.501dupA p.K167fs -> 169 aa,POF-
+beer018,8,beer018,Beer (Gallone),False,,POF+
+beer019,31,beer019,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer020,32,beer020,Beer (Gallone),False,,POF+
+beer021,3,beer021,Beer (Gallone),False,,POF+
+beer022,4,beer022,Beer (Gallone),False,,POF+
+beer023,33,beer023,Beer (Gallone),False,,POF+
+beer024,5,beer024,Beer (Gallone),False,,POF+
+beer025,34,beer025,Beer (Gallone),True,c.501dupA p.K167fs -> 169 aa,POF-
+beer026,4,beer026,Beer (Gallone),False,,POF+
+beer027,35,beer027,Beer (Gallone),False,,POF+
+beer028,15,beer028,Beer (Gallone),True,c.501dupA p.K167fs -> 169 aa,POF-
+beer029,36,beer029,Beer (Gallone),True,c.501dupA p.K167fs -> 169 aa,POF-
+beer030,2,beer030,Beer (Gallone),False,,POF+
+beer031,4,beer031,Beer (Gallone),False,,POF+
+beer032,3,beer032,Beer (Gallone),False,,POF+
+beer033,5,beer033,Beer (Gallone),False,,POF+
+beer034,3,beer034,Beer (Gallone),False,,POF+
+beer035,11,beer035,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer036,0,beer036,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer037,1,beer037,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer038,7,beer038,Beer (Gallone),True,c.501dupA p.K167fs -> 169 aa,POF-
+beer039,10,beer039,Beer (Gallone),False,,POF+
+beer040,10,beer040,Beer (Gallone),False,,POF+
+beer041,6,beer041,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer042,1,beer042,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer043,16,beer043,Beer (Gallone),False,,POF+
+beer044,1,beer044,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer045,0,beer045,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer046,6,beer046,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer047,0,beer047,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer048,0,beer048,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer049,1,beer049,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer050,0,beer050,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer051,0,beer051,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer052,1,beer052,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer053,0,beer053,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer054,0,beer054,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer055,0,beer055,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer056,0,beer056,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer057,11,beer057,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer058,37,beer058,Beer (Gallone),True,c.501dupA p.K167fs -> 169 aa,POF-
+beer059,38,beer059,Beer (Gallone),True,c.306G>A p.W102* -> 101 aa + c.160A>T p.K54* -> 53 aa,POF-
+beer060,11,beer060,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer061,7,beer061,Beer (Gallone),True,c.501dupA p.K167fs -> 169 aa,POF-
+beer062,3,beer062,Beer (Gallone),False,,POF+
+beer063,2,beer063,Beer (Gallone),False,,POF+
+beer064,0,beer064,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer065,1,beer065,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer066,0,beer066,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer067,1,beer067,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer068,1,beer068,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer069,0,beer069,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer070,0,beer070,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer071,1,beer071,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer072,12,beer072,Beer (Gallone),False,,POF+
+beer073,6,beer073,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer074,12,beer074,Beer (Gallone),False,,POF+
+beer075,4,beer075,Beer (Gallone),False,,POF+
+beer076,4,beer076,Beer (Gallone),False,,POF+
+beer077,4,beer077,Beer (Gallone),False,,POF+
+beer078,4,beer078,Beer (Gallone),False,,POF+
+beer079,0,beer079,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer080,3,beer080,Beer (Gallone),False,,POF+
+beer081,39,beer081,Beer (Gallone),False,,POF+
+beer082,1,beer082,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer083,3,beer083,Beer (Gallone),False,,POF+
+beer084,3,beer084,Beer (Gallone),False,,POF+
+beer085,3,beer085,Beer (Gallone),False,,POF+
+beer086,2,beer086,Beer (Gallone),False,,POF+
+beer087,6,beer087,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer088,5,beer088,Beer (Gallone),False,,POF+
+beer089,0,beer089,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer090,0,beer090,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer091,3,beer091,Beer (Gallone),False,,POF+
+beer092,16,beer092,Beer (Gallone),False,,POF+
+beer093,12,beer093,Beer (Gallone),False,,POF+
+beer094,0,beer094,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer095,1,beer095,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer096,1,beer096,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer097,1,beer097,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer098,1,beer098,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer099,0,beer099,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer100,0,beer100,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer101,1,beer101,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+beer102,1,beer102,Beer (Gallone),True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+bioethanol001,13,bioethanol001,Bioethanol,False,,POF+
+bioethanol003,13,bioethanol003,Bioethanol,False,,POF+
+bioethanol004,13,bioethanol004,Bioethanol,False,,POF+
+bread001,7,bread001,Baking,True,c.501dupA p.K167fs -> 169 aa,POF-
+bread002,2,bread002,Baking,False,,POF+
+bread003,7,bread003,Baking,True,c.501dupA p.K167fs -> 169 aa,POF-
+bread004,40,bread004,Baking,True,c.460C>T p.Q154* -> 153 aa,POF-
+laboratory001,41,laboratory001,Laboratory,True,c.294T>G p.Y98* -> 97 aa + c.864delA p.G288fs -> 305 aa,POF-
+laboratory002,8,laboratory002,Laboratory,False,,POF+
+sake001,9,sake001,Sake,True,c.160A>T p.K54* -> 53 aa,POF-
+sake002,42,sake002,Sake,False,,POF+
+sake003,9,sake003,Sake,True,c.160A>T p.K54* -> 53 aa,POF-
+sake004,9,sake004,Sake,True,c.160A>T p.K54* -> 53 aa,POF-
+sake005,9,sake005,Sake,True,c.160A>T p.K54* -> 53 aa,POF-
+sake006,9,sake006,Sake,True,c.160A>T p.K54* -> 53 aa,POF-
+sake007,43,sake007,Sake,True,c.160A>T p.K54* -> 53 aa,POF-
+spirits001,44,spirits001,Spirits,True,c.501dupA p.K167fs -> 169 aa,POF-
+spirits002,5,spirits002,Spirits,False,,POF+
+spirits003,7,spirits003,Spirits,True,c.501dupA p.K167fs -> 169 aa,POF-
+spirits004,45,spirits004,Spirits,False,,POF+
+spirits005,4,spirits005,Spirits,False,,POF+
+spirits006,46,spirits006,Spirits,False,,POF+
+spirits007,2,spirits007,Spirits,False,,POF+
+spirits008,47,spirits008,Spirits,True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+spirits009,7,spirits009,Spirits,True,c.501dupA p.K167fs -> 169 aa,POF-
+spirits010,2,spirits010,Spirits,False,,POF+
+spirits011,2,spirits011,Spirits,False,,POF+
+wild001,17,wild001,Wild,False,,POF+
+wild002,17,wild002,Wild,False,,POF+
+wild003,2,wild003,Wild,False,,POF+
+wild004,48,wild004,Wild,False,,POF+
+wild005,49,wild005,Wild,False,,POF+
+wild006,3,wild006,Wild,False,,POF+
+wild007,50,wild007,Wild,False,,POF+
+wine001,5,wine001,Wine,False,,POF+
+wine002,51,wine002,Wine,False,,POF+
+wine003,52,wine003,Wine,False,,POF+
+wine004,2,wine004,Wine,False,,POF+
+wine005,53,wine005,Wine,False,,POF+
+wine006,54,wine006,Wine,False,,POF+
+wine007,14,wine007,Wine,False,,POF+
+wine008,55,wine008,Wine,False,,POF+
+wine009,5,wine009,Wine,False,,POF+
+wine010,56,wine010,Wine,False,,POF+
+wine011,2,wine011,Wine,False,,POF+
+wine012,0,wine012,Wine,True,c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa,POF-
+wine013,5,wine013,Wine,False,,POF+
+wine014,57,wine014,Wine,True,c.925A>T p.R309* -> 308 aa,POF-
+wine015,2,wine015,Wine,False,,POF+
+wine016,8,wine016,Wine,False,,POF+
+wine017,58,wine017,Wine,False,,POF+
+wine018,59,wine018,Wine,False,,POF+
+wine019,60,wine019,Wine,False,,POF+

@@ -1,0 +1,37 @@
+strain,assembly_or_record_set,group,species,source_niche,MAL11,MAL11_raw,MAL31,MAL31_raw,MPH2,MPH2_raw,MPH3,MPH3_raw,MPH2_3,total_loci
+S288C,GCF_000146045.2,Laboratory,Saccharomyces cerevisiae,reference lab strain (SGD),1,1,1,1,1,2,1,2,2,4
+CEN.PK113-7D,GCA_002885995.1,Laboratory,Saccharomyces cerevisiae,laboratory/industrial-biotech lab strain,1,1,2,2,1,2,1,2,2,5
+SK1,GCA_025727205.1,Laboratory,Saccharomyces cerevisiae,"lab strain; biosample: soil, USA",0,0,2,2,1,1,0,1,1,3
+Y55,GCA_025434875.2,Laboratory,Saccharomyces cerevisiae,"lab strain; biosample: grape, France",0,0,2,2,1,1,0,1,1,3
+DBVPG6765,GCA_025727325.1,Wine,Saccharomyces cerevisiae,biosample: Europe (Wine/European clade),1,1,3,3,1,1,0,1,1,5
+BC187,GCA_025727225.1,Wine,Saccharomyces cerevisiae,"wine, USA",0,0,2,2,1,1,0,1,1,3
+L_1374,GCA_025727185.1,Wine,Saccharomyces cerevisiae,"wine, Chile",1,1,2,2,1,1,0,1,1,4
+L_1528,GCA_022695715.1,Wine,Saccharomyces cerevisiae,"wine, Chile",1,1,2,2,1,1,0,1,1,4
+YIIc17_E5,GCA_025727245.1,Wine,Saccharomyces cerevisiae,"wine, France",0,0,1,1,1,1,0,1,1,2
+YAL1,GCA_003591695.1,Wine,Saccharomyces cerevisiae,"shiraz spontaneous fermentation, Australia",0,0,2,2,0,1,1,1,1,3
+AWRI796,GCA_000190195.1,Wine,Saccharomyces cerevisiae,commercial wine strain (AWRI),0,0,2,2,0,0,0,0,0,2
+I-25,GCA_059724825.1,Wine,Saccharomyces cerevisiae,"Scwine_25, Russia",1,1,1,1,1,1,0,1,1,3
+L261,GCA_024972955.1,Wine,Saccharomyces cerevisiae,grape (Vitis vinifera),1,1,1,1,1,2,1,2,2,4
+DBVPG6044,GCA_025727305.1,Wine,Saccharomyces cerevisiae,wine from West Africa,0,0,1,1,1,1,0,1,1,2
+Y12,GCA_025727265.1,Sake,Saccharomyces cerevisiae,"sake, Japan",1,1,3,3,1,1,0,1,1,5
+Makgeolli,GCA_004014915.1,Other/Unknown,Saccharomyces cerevisiae,"Makgeolli rice beverage, South Korea",1,1,3,3,0,0,0,0,0,4
+HJ,GCA_015363515.1,Other/Unknown,Saccharomyces cerevisiae,"Huangjiu fermentation mash, China",1,1,3,3,1,1,0,1,1,5
+A (Luzhou Daqu),GCA_025782755.1,Other/Unknown,Saccharomyces cerevisiae,"Daqu baijiu brewing starter, China",0,0,6,6,1,1,0,1,1,7
+GLBRCY22-3,GCA_001634645.1,Bioethanol,Saccharomyces cerevisiae,"GLBRC lignocellulosic-ethanol strain; parent from banana, Costa Rica",1,1,2,2,1,1,0,1,1,4
+YPS128,GCA_025727285.1,Wild,Saccharomyces cerevisiae,"soil beneath Quercus alba, USA",1,1,2,2,1,1,0,1,1,4
+YPS606,GCA_022695695.1,Wild,Saccharomyces cerevisiae,"Quercus rubra bark, USA",1,1,2,2,1,1,0,1,1,4
+UWOPS03-461.4,GCA_023065715.1,Wild,Saccharomyces cerevisiae,"Eugeissona nectar, Malaysia",1,1,2,2,1,1,0,1,1,4
+UWOPS83-787.3,GCA_022695735.1,Wild,Saccharomyces cerevisiae,"Opuntia fruit, Bahamas",1,1,2,2,1,1,0,1,1,4
+UWOPS87-2421,GCA_025434915.2,Wild,Saccharomyces cerevisiae,"Opuntia cladode, USA",1,1,2,2,0,0,0,0,0,3
+AGY731,GCA_030866685.1,Wild,Saccharomyces cerevisiae,"oak-tree soil, USA",1,1,2,2,1,1,0,1,1,4
+C018,GCA_051861825.1,Wild,Saccharomyces cerevisiae,"soil, China",1,1,3,3,0,0,0,0,0,4
+YJM978,GCA_025727165.1,Clinical,Saccharomyces cerevisiae,"vaginal clinical isolate, Italy",0,0,1,1,0,0,0,0,0,1
+YJM975,GCA_025727145.1,Clinical,Saccharomyces cerevisiae,"vaginal clinical isolate, Italy",0,0,2,2,1,1,0,1,1,3
+YJM981,GCA_025434895.2,Clinical,Saccharomyces cerevisiae,"vaginal clinical isolate, Italy",0,0,2,2,1,1,0,1,1,3
+273614N,GCA_022695675.1,Clinical,Saccharomyces cerevisiae,"fecal clinical isolate, UK",1,1,4,4,1,1,0,1,1,6
+PY0001 (S. boulardii),GCA_024732265.1,Other/Unknown,Saccharomyces cerevisiae,"probiotic supplement, Hungary",0,0,2,2,1,1,0,1,1,3
+WUT3,GCA_057318525.1,Other/Unknown,Saccharomyces cerevisiae,"kefyr, Turkey",0,0,1,1,0,0,0,0,0,1
+ZIM 3704,GCA_051621945.1,Other/Unknown,Saccharomyces cerevisiae,"cider, Slovenia",1,1,2,2,1,2,1,2,2,5
+Jean-Talon,GCA_011799815.1,Ale,Saccharomyces cerevisiae,"Intendant's Palace (17th c. brewery) archaeological site, Quebec",1,1,1,1,0,0,0,0,0,2
+CBS 1483,GCA_011022315.1,Lager,Saccharomyces pastorianus,"S. pastorianus Group II (Heineken-type) lager, CBS collection",2,2,2,2,1,1,0,1,1,5
+CBS 1513,GCA_056824455.1,Lager,Saccharomyces pastorianus,S. pastorianus Group I (Saaz/Carlsberg-type) lager,2,2,5,5,0,0,0,0,0,7

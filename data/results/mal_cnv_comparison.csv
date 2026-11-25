@@ -1,0 +1,5 @@
+gene,domesticated_mean,domesticated_median,domesticated_n,wild_lab_mean,wild_lab_median,wild_lab_n,mannwhitney_p
+MAL11,0.8,1.0,15,0.818,1.0,11,0.853
+MAL31,2.0,2.0,15,2.0,2.0,11,0.591
+MPH2_3,0.867,1.0,15,1.0,1.0,11,0.587
+total_loci,3.667,4.0,15,3.818,4.0,11,0.624

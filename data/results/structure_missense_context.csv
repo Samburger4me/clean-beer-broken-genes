@@ -1,0 +1,75 @@
+gene,protein_change,ref_aa,pos,alt_aa,n_records,groups,b_or_plddt,d_prFMN_A,d_Mn_A,d_active_site_A,in_pfam_domain,in_transit_peptide,d_binding_site_CA_A
+FDC1,p.V16I,V,16,I,3,Bioethanol,20.6,20.799999237060547,28.5,27.0,UbiD N-terminal domain,False,
+FDC1,p.N55Y,N,55,Y,14,Baking; Beer (Gallone); Bioethanol; Other/Unknown; Spirits; Wild,24.3,22.399999618530273,35.0,24.0,UbiD N-terminal domain,False,
+FDC1,p.L56V,L,56,V,2,Bioethanol,22.2,20.299999237060547,33.5,21.399999618530273,UbiD N-terminal domain,False,
+FDC1,p.K57I,K,57,I,1,Bioethanol,25.8,22.299999237060547,35.900001525878906,22.899999618530273,UbiD N-terminal domain,False,
+FDC1,p.K76N,K,76,N,1,Bioethanol,27.9,22.100000381469727,32.20000076293945,26.200000762939453,UbiD N-terminal domain,False,
+FDC1,p.E98G,E,98,G,1,Bioethanol,15.9,19.399999618530273,22.700000762939453,27.600000381469727,UbiD N-terminal domain,False,
+FDC1,p.E108K,E,108,K,1,Wild,21.8,18.700000762939453,17.200000762939453,30.5,none,False,
+FDC1,p.E110K,E,110,K,2,Bioethanol; Wild,22.1,19.700000762939453,18.0,31.100000381469727,none,False,
+FDC1,p.L112P,L,112,P,1,Shochu/Awamori,21.4,17.899999618530273,16.299999237060547,27.899999618530273,none,False,
+FDC1,p.I115T,I,115,T,1,Bioethanol,21.3,20.700000762939453,19.600000381469727,27.700000762939453,none,False,
+FDC1,p.E132D,E,132,D,1,Bioethanol,32.2,27.600000381469727,32.400001525878906,24.700000762939453,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.H145Y,H,145,Y,2,Beer (Gallone); Lager,17.5,11.899999618530273,28.200000762939453,9.5,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.G150D,G,150,D,1,Wine,19.8,13.300000190734863,26.600000381469727,7.699999809265137,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.H193Y,H,193,Y,1,Beer (Gallone),14.8,3.5,5.199999809265137,13.899999618530273,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.A207G,A,207,G,1,Bioethanol,22.7,18.200000762939453,19.600000381469727,18.899999618530273,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.V225I,V,225,I,8,Beer (Gallone); Spirits; Wine,14.3,7.800000190734863,8.600000381469727,15.800000190734863,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.V234I,V,234,I,2,Bioethanol,19.8,8.600000381469727,6.400000095367432,21.700000762939453,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.P249L,P,249,L,27,Ale; Beer (Gallone); Shochu/Awamori; Wine,19.5,20.100000381469727,19.399999618530273,25.0,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.C253Y,C,253,Y,30,Beer (Gallone); Other/Unknown; Spirits,22.9,20.299999237060547,20.299999237060547,21.5,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.S264G,S,264,G,10,Beer (Gallone); Spirits,16.9,17.200000762939453,19.700000762939453,18.200000762939453,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.T277A,T,277,A,4,Beer (Gallone),19.4,15.899999618530273,23.299999237060547,8.899999618530273,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.T277K,T,277,K,1,Bioethanol,19.4,15.899999618530273,23.299999237060547,8.899999618530273,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.K292N,K,292,N,3,Wine,28.7,16.799999237060547,30.600000381469727,12.100000381469727,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.S293N,S,293,N,1,Bioethanol,37.2,17.0,30.399999618530273,9.899999618530273,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.P297A,P,297,A,1,Wild,22.2,13.5,23.299999237060547,5.699999809265137,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.D310E,D,310,E,1,Bioethanol,24.9,24.5,30.399999618530273,24.799999237060547,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.S317L,S,317,L,45,Ale; Beer (Gallone); Other/Unknown; Spirits; Wine,14.9,5.099999904632568,20.100000381469727,10.0,UbiD Rift-related (prFMN-binding) domain,False,
+FDC1,p.I349V,I,349,V,1,Bioethanol,16.8,22.0,24.799999237060547,30.200000762939453,UbiD C-terminal domain,False,
+FDC1,p.A360V,A,360,V,1,Shochu/Awamori,13.0,11.300000190734863,19.5,11.300000190734863,UbiD C-terminal domain,False,
+FDC1,p.I364V,I,364,V,1,Bioethanol,12.2,18.299999237060547,23.700000762939453,21.700000762939453,UbiD C-terminal domain,False,
+FDC1,p.R392M,R,392,M,1,Other/Unknown,15.7,15.100000381469727,17.5,23.299999237060547,UbiD C-terminal domain,False,
+FDC1,p.T393A,T,393,A,1,Bioethanol,19.3,11.699999809265137,14.0,22.200000762939453,UbiD C-terminal domain,False,
+FDC1,p.I403V,I,403,V,2,Bioethanol,13.6,20.899999618530273,26.5,23.299999237060547,UbiD C-terminal domain,False,
+FDC1,p.M432V,M,432,V,1,Bioethanol,15.4,25.399999618530273,30.600000381469727,27.5,UbiD C-terminal domain,False,
+FDC1,p.D435N,D,435,N,1,Bioethanol,22.9,22.700000762939453,27.600000381469727,24.799999237060547,UbiD C-terminal domain,False,
+FDC1,p.S450P,S,450,P,2,Bioethanol,27.3,22.5,31.0,20.200000762939453,UbiD C-terminal domain,False,
+FDC1,p.R472C,R,472,C,3,Beer (Gallone); Bioethanol; Spirits,20.3,38.400001525878906,41.5,43.400001525878906,none,False,
+FDC1,p.K487S,K,487,S,2,Bioethanol,29.8,40.900001525878906,46.79999923706055,44.400001525878906,none,False,
+FDC1,p.G488E,G,488,E,1,Bioethanol,28.8,44.20000076293945,50.29999923706055,47.79999923706055,none,False,
+FDC1,p.E495D,E,495,D,13,Beer (Gallone); Other/Unknown; Sake; Shochu/Awamori,35.6,43.400001525878906,51.599998474121094,46.5,none,False,
+FDC1,p.R499K,R,499,K,1,Bioethanol,32.6,48.099998474121094,57.5,49.900001525878906,none,False,
+PAD1,p.L2F,L,2,F,1,Bioethanol,34.8,,,,none,True,32.79999923706055
+PAD1,p.F4L,F,4,L,1,Bioethanol,41.7,,,,none,True,33.29999923706055
+PAD1,p.P5L,P,5,L,2,Bioethanol; Spirits,49.2,,,,none,True,35.099998474121094
+PAD1,p.R6S,R,6,S,1,Bioethanol,36.1,,,,none,True,34.599998474121094
+PAD1,p.T8A,T,8,A,1,Bioethanol,38.7,,,,none,True,37.599998474121094
+PAD1,p.I10L,I,10,L,1,Bioethanol,36.4,,,,none,True,39.900001525878906
+PAD1,p.I18V,I,18,V,1,Bioethanol,40.3,,,,none,True,39.29999923706055
+PAD1,p.N21R,N,21,R,2,Bioethanol,41.1,,,,none,True,46.29999923706055
+PAD1,p.L25P,L,25,P,6,Beer (Gallone),45.5,,,,none,True,55.400001525878906
+PAD1,p.G26N,G,26,N,2,Bioethanol,37.8,,,,none,True,57.0
+PAD1,p.T30S,T,30,S,1,Bioethanol,43.7,,,,none,True,60.900001525878906
+PAD1,p.P33S,P,33,S,2,Bioethanol; Wild,50.0,,,,none,True,58.70000076293945
+PAD1,p.T37S,T,37,S,1,Bioethanol,47.3,,,,none,True,54.900001525878906
+PAD1,p.H38Y,H,38,Y,168,Ale; Baking; Beer (Gallone); Bioethanol; Laboratory; Lager; Other/Unknown; Sake; Shochu/Awamori; Spirits; Wild; Wine,50.7,,,,none,True,51.900001525878906
+PAD1,p.L40Q,L,40,Q,1,Other/Unknown,50.4,,,,none,True,48.099998474121094
+PAD1,p.E43D,E,43,D,1,Bioethanol,51.9,,,,none,True,41.29999923706055
+PAD1,p.A47V,A,47,V,168,Ale; Baking; Beer (Gallone); Bioethanol; Laboratory; Lager; Other/Unknown; Sake; Shochu/Awamori; Spirits; Wild; Wine,57.6,,,,none,True,34.0
+PAD1,p.S50L,S,50,L,1,Beer (Gallone),67.2,,,,Flavoprotein (UbiX-like),True,31.299999237060547
+PAD1,p.R53S,R,53,S,1,Other/Unknown,88.4,,,,Flavoprotein (UbiX-like),True,23.700000762939453
+PAD1,p.V58I,V,58,I,2,Other/Unknown; Sake,98.8,,,,Flavoprotein (UbiX-like),True,13.600000381469727
+PAD1,p.Q75R,Q,75,R,1,Sake,98.2,,,,Flavoprotein (UbiX-like),False,15.0
+PAD1,p.V76L,V,76,L,1,Other/Unknown,98.1,,,,Flavoprotein (UbiX-like),False,12.199999809265137
+PAD1,p.L77P,L,77,P,1,Wine,98.2,,,,Flavoprotein (UbiX-like),False,13.0
+PAD1,p.A93T,A,93,T,2,Bioethanol; Spirits,98.1,,,,Flavoprotein (UbiX-like),False,6.199999809265137
+PAD1,p.D106E,D,106,E,1,Bioethanol,96.6,,,,Flavoprotein (UbiX-like),False,15.100000381469727
+PAD1,p.M141I,M,141,I,1,Wine,98.5,,,,Flavoprotein (UbiX-like),False,3.799999952316284
+PAD1,p.L184V,L,184,V,15,Beer (Gallone); Spirits; Wine,98.8,,,,Flavoprotein (UbiX-like),False,10.199999809265137
+PAD1,p.F204Y,F,204,Y,1,Bioethanol,94.1,,,,none,False,3.9000000953674316
+PAD1,p.L211I,L,211,I,2,Bioethanol,94.3,,,,none,False,14.199999809265137
+PAD1,p.H212D,H,212,D,1,Bioethanol,95.0,,,,none,False,14.199999809265137
+PAD1,p.D213G,D,213,G,8,Beer (Gallone); Spirits; Wine,96.0,,,,none,False,11.5
+PAD1,p.G220D,G,220,D,81,Ale; Baking; Beer (Gallone); Bioethanol; Other/Unknown; Spirits; Wild; Wine,96.9,,,,none,False,3.9000000953674316
+PAD1,p.I239M,I,239,M,2,Bioethanol; Spirits,88.2,,,,none,False,9.699999809265137

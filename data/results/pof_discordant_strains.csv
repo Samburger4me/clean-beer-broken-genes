@@ -1,0 +1,30 @@
+strain,Niche,clade,PAD1,FDC1,predicted_POF,measured_POF
+beer006,Beer (Ale refermentation),Mixed,0.0,1.0,POF-,POF+
+beer025,Beer (Ale refermentation),Mixed,0.0,1.0,POF-,POF+
+beer028,Beer (Ale refermentation),Mixed,0.0,1.0,POF-,POF+
+beer029,Beer (Ale refermentation),Mixed,0.0,1.0,POF-,POF+
+beer064,Beer,Britain,1.0,1.0,POF-,POF+
+beer087,Beer (Lager),Belgium/Germany,1.0,1.0,POF-,POF+
+bread001,Bread,Mixed,0.0,1.0,POF-,POF+
+bread003,Bread,Mixed,0.0,1.0,POF-,POF+
+bread004,Bread,Mixed,0.0,1.0,POF-,POF+
+spirits008,Spirits,Mosaic,1.0,1.0,POF-,POF+
+beer002,Beer,Beer2,0.0,0.0,POF+,POF-
+beer011,Beer (Abbey),Beer2,0.0,0.0,POF+,POF-
+beer016,Beer,Belgium/Germany,0.0,0.0,POF+,POF-
+beer024,Beer (Ale refermentation),Wine,0.0,0.0,POF+,POF-
+beer030,Beer (Trappist),Wine,0.0,0.0,POF+,POF-
+beer031,Beer (Trappist),Belgium/Germany,0.0,0.0,POF+,POF-
+beer033,Beer (Strong ale),Wine,0.0,0.0,POF+,POF-
+beer039,Beer (Lager),Beer2,0.0,0.0,POF+,POF-
+beer040,Beer (Lager),Beer2,0.0,0.0,POF+,POF-
+beer072,Beer (Hefeweizen),Mosaic,0.0,0.0,POF+,POF-
+beer076,Beer (Wheat),Belgium/Germany,0.0,0.0,POF+,POF-
+beer088,Beer,Wine,0.0,0.0,POF+,POF-
+spirits002,Spirits,Wine,0.0,0.0,POF+,POF-
+spirits004,Spirits,Wine,0.0,0.0,POF+,POF-
+spirits005,Spirits,Belgium/Germany,0.0,0.0,POF+,POF-
+wine001,Wine,Wine,0.0,0.0,POF+,POF-
+wine007,Wine,Wine,0.0,0.0,POF+,POF-
+wine009,Wine,Wine,0.0,0.0,POF+,POF-
+wine019,Wine,Mosaic,0.0,0.0,POF+,POF-

@@ -1,0 +1,424 @@
+{
+ "Q03034": {
+  "gene": "FDC1",
+  "length": 503,
+  "sequence": "MRKLNPALEFRDFIQVLKDEDDLIEITEEIDPNLEVGAIMRKAYESHLPAPLFKNLKGASKDLFSILGCPAGLRSKEKGDHGRIAHHLGLDPKTTIKEIIDYLLECKEKEPLPPITVPVSSAPCKTHILSEEKIHLQSLPTPYLHVSDGGKYLQTYGMWILQTPDKKWTNWSIARGMVVDDKHITGLVIKPQHIRQIADSWAAIGKANEIPFALCFGVPPAAILVSSMPIPEGVSESDYVGAILGESVPVVKCETNDLMVPATSEMVFEGTLSLTDTHLEGPFGEMHGYVFKSQGHPCPLYTVKAMSYRDNAILPVSNPGLCTDETHTLIGSLVATEAKELAIESGLPILDAFMPYEAQALWLILKVDLKGLQALKTTPEEFCKKVGDIYFRTKVGFIVHEIILVADDIDIFNFKEVIWAYVTRHTPVADQMAFDDVTSFPLAPFVSQSSRSKTMKGGKCVTNCIFRQQYERSFDYITCNFEKGYPKGLVDKVNENWKRYGYK",
+  "features": [
+   {
+    "type": "Active site",
+    "start": 285,
+    "end": 285,
+    "description": "Proton donor",
+    "ligand": ""
+   },
+   {
+    "type": "Binding site",
+    "start": 170,
+    "end": 175,
+    "description": "",
+    "ligand": "prenylated FMN"
+   },
+   {
+    "type": "Binding site",
+    "start": 170,
+    "end": 170,
+    "description": "",
+    "ligand": "Mn(2+)"
+   },
+   {
+    "type": "Binding site",
+    "start": 192,
+    "end": 193,
+    "description": "",
+    "ligand": "prenylated FMN"
+   },
+   {
+    "type": "Binding site",
+    "start": 193,
+    "end": 193,
+    "description": "",
+    "ligand": "Mn(2+)"
+   },
+   {
+    "type": "Binding site",
+    "start": 236,
+    "end": 236,
+    "description": "",
+    "ligand": "Mn(2+)"
+   },
+   {
+    "type": "Binding site",
+    "start": 236,
+    "end": 236,
+    "description": "",
+    "ligand": "prenylated FMN"
+   },
+   {
+    "type": "Binding site",
+    "start": 394,
+    "end": 394,
+    "description": "",
+    "ligand": "prenylated FMN"
+   },
+   {
+    "type": "Mutagenesis",
+    "start": 285,
+    "end": 285,
+    "description": "Abolishes catalytic activity.",
+    "ligand": ""
+   }
+  ],
+  "pfam": [
+   [
+    "PF20695",
+    "UbiD N-terminal domain",
+    14,
+    102
+   ],
+   [
+    "PF01977",
+    "UbiD Rift-related (prFMN-binding) domain",
+    119,
+    320
+   ],
+   [
+    "PF20696",
+    "UbiD C-terminal domain",
+    328,
+    464
+   ]
+  ],
+  "secondary_structure": [
+   [
+    "Helix",
+    2,
+    4
+   ],
+   [
+    "Turn",
+    6,
+    8
+   ],
+   [
+    "Helix",
+    10,
+    19
+   ],
+   [
+    "Beta strand",
+    23,
+    26
+   ],
+   [
+    "Helix",
+    35,
+    45
+   ],
+   [
+    "Beta strand",
+    50,
+    53
+   ],
+   [
+    "Beta strand",
+    61,
+    68
+   ],
+   [
+    "Helix",
+    76,
+    78
+   ],
+   [
+    "Helix",
+    82,
+    87
+   ],
+   [
+    "Helix",
+    96,
+    106
+   ],
+   [
+    "Helix",
+    110,
+    114
+   ],
+   [
+    "Helix",
+    119,
+    121
+   ],
+   [
+    "Helix",
+    123,
+    125
+   ],
+   [
+    "Beta strand",
+    126,
+    129
+   ],
+   [
+    "Helix",
+    131,
+    133
+   ],
+   [
+    "Helix",
+    136,
+    138
+   ],
+   [
+    "Beta strand",
+    152,
+    162
+   ],
+   [
+    "Beta strand",
+    169,
+    172
+   ],
+   [
+    "Beta strand",
+    176,
+    178
+   ],
+   [
+    "Beta strand",
+    180,
+    186
+   ],
+   [
+    "Helix",
+    193,
+    202
+   ],
+   [
+    "Turn",
+    203,
+    205
+   ],
+   [
+    "Beta strand",
+    210,
+    217
+   ],
+   [
+    "Helix",
+    220,
+    226
+   ],
+   [
+    "Helix",
+    236,
+    244
+   ],
+   [
+    "Beta strand",
+    249,
+    252
+   ],
+   [
+    "Beta strand",
+    254,
+    257
+   ],
+   [
+    "Beta strand",
+    259,
+    261
+   ],
+   [
+    "Beta strand",
+    265,
+    280
+   ],
+   [
+    "Beta strand",
+    288,
+    291
+   ],
+   [
+    "Beta strand",
+    296,
+    308
+   ],
+   [
+    "Beta strand",
+    312,
+    316
+   ],
+   [
+    "Beta strand",
+    321,
+    324
+   ],
+   [
+    "Helix",
+    325,
+    328
+   ],
+   [
+    "Helix",
+    330,
+    345
+   ],
+   [
+    "Beta strand",
+    349,
+    353
+   ],
+   [
+    "Helix",
+    356,
+    358
+   ],
+   [
+    "Beta strand",
+    362,
+    367
+   ],
+   [
+    "Helix",
+    369,
+    374
+   ],
+   [
+    "Helix",
+    379,
+    390
+   ],
+   [
+    "Turn",
+    395,
+    398
+   ],
+   [
+    "Beta strand",
+    401,
+    406
+   ],
+   [
+    "Helix",
+    414,
+    424
+   ],
+   [
+    "Turn",
+    427,
+    430
+   ],
+   [
+    "Beta strand",
+    431,
+    434
+   ],
+   [
+    "Beta strand",
+    436,
+    438
+   ],
+   [
+    "Helix",
+    444,
+    447
+   ],
+   [
+    "Helix",
+    451,
+    454
+   ],
+   [
+    "Beta strand",
+    459,
+    465
+   ],
+   [
+    "Helix",
+    467,
+    470
+   ],
+   [
+    "Beta strand",
+    476,
+    478
+   ],
+   [
+    "Helix",
+    481,
+    484
+   ],
+   [
+    "Helix",
+    487,
+    500
+   ]
+  ]
+ },
+ "P33751": {
+  "gene": "PAD1",
+  "length": 242,
+  "sequence": "MLLFPRRTNIAFFKTTGIFANFPLLGRTITTSPSFLTHKLSKEVTRASTSPPRPKRIVVAITGATGVALGIRLLQVLKELSVETHLVISKWGAATMKYETDWEPHDVAALATKTYSVRDVSACISSGSFQHDGMIVVPCSMKSLAAIRIGFTEDLITRAADVSIKENRKLLLVTRETPLSSIHLENMLSLCRAGVIIFPPVPAFYTRPKSLHDLLEQSVGRILDCFGIHADTFPRWEGIKSK",
+  "features": [
+   {
+    "type": "Transit peptide",
+    "start": 1,
+    "end": 58,
+    "description": "Mitochondrion",
+    "ligand": ""
+   },
+   {
+    "type": "Binding site",
+    "start": 63,
+    "end": 65,
+    "description": "",
+    "ligand": "FMN"
+   },
+   {
+    "type": "Binding site",
+    "start": 89,
+    "end": 89,
+    "description": "",
+    "ligand": "FMN"
+   },
+   {
+    "type": "Binding site",
+    "start": 140,
+    "end": 143,
+    "description": "",
+    "ligand": "FMN"
+   },
+   {
+    "type": "Binding site",
+    "start": 175,
+    "end": 175,
+    "description": "",
+    "ligand": "FMN"
+   },
+   {
+    "type": "Binding site",
+    "start": 205,
+    "end": 205,
+    "description": "",
+    "ligand": "dimethylallyl phosphate"
+   },
+   {
+    "type": "Binding site",
+    "start": 221,
+    "end": 221,
+    "description": "",
+    "ligand": "dimethylallyl phosphate"
+   }
+  ],
+  "pfam": [
+   [
+    "PF02441",
+    "Flavoprotein (UbiX-like)",
+    50,
+    201
+   ]
+  ],
+  "secondary_structure": []
+ }
+}

@@ -1,0 +1,57 @@
+grouping,group,gene,n,mean,median
+ecology,Beer,MAL11,59,0.6680790960338983,0.75
+ecology,Beer,MAL31,59,2.696327683610169,2.5
+ecology,Beer,MPH2/3,59,0.2957627118644068,0.0
+ecology,Beer,Total,59,3.6601694915084746,3.5
+ecology,Wine,MAL11,248,0.5147849462379033,0.0
+ecology,Wine,MAL31,248,2.1038306451612905,2.0
+ecology,Wine,MPH2/3,248,1.0772849462379033,1.0
+ecology,Wine,Total,248,3.6959005376370966,4.0
+ecology,Sake,MAL11,47,1.0425531914893618,1.0
+ecology,Sake,MAL31,47,2.4468085106382977,2.0
+ecology,Sake,MPH2/3,47,0.05673758865957446,0.0
+ecology,Sake,Total,47,3.546099290787234,2.5
+ecology,Bakery,MAL11,37,0.9707207207027027,1.0
+ecology,Bakery,MAL31,37,2.6103603603513514,2.5
+ecology,Bakery,MPH2/3,37,0.28378378378378377,0.0
+ecology,Bakery,Total,37,3.864864864837838,3.5
+ecology,Distillery,MAL11,29,0.853448275862069,1.0
+ecology,Distillery,MAL31,29,1.7787356321724137,2.0
+ecology,Distillery,MPH2/3,29,0.5,0.0
+ecology,Distillery,Total,29,3.1321839080344827,3.5
+ecology,Bioethanol,MAL11,27,0.6296296296296297,0.5
+ecology,Bioethanol,MAL31,27,1.9444444444444444,2.0
+ecology,Bioethanol,MPH2/3,27,0.4074074074074074,0.5
+ecology,Bioethanol,Total,27,2.9814814814814814,3.0
+ecology,Other fermentation,MAL11,142,0.4612676056338028,0.0
+ecology,Other fermentation,MAL31,142,1.8838028168802818,2.0
+ecology,Other fermentation,MPH2/3,142,1.2640845070492956,1.0
+ecology,Other fermentation,Total,142,3.6091549295633802,4.0
+ecology,Wild,MAL11,254,0.7381889763740158,1.0
+ecology,Wild,MAL31,254,1.8067585301811022,2.0
+ecology,Wild,MPH2/3,254,0.9921259842519685,1.0
+ecology,Wild,Total,254,3.5370734908070864,3.0
+ecology,Clinical,MAL11,138,0.3786231884057971,0.0
+ecology,Clinical,MAL31,138,2.2131642512028984,2.0
+ecology,Clinical,MPH2/3,138,0.7282608695652174,1.0
+ecology,Clinical,Total,138,3.320048309173913,3.0
+ecology,Domesticated (all),MAL11,589,0.6099320882835314,1.0
+ecology,Domesticated (all),MAL31,589,2.1460101867504244,2.0
+ecology,Domesticated (all),MPH2/3,589,0.8536219581239389,1.0
+ecology,Domesticated (all),Total,589,3.6095642331578945,3.5
+clade,11. Ale beer,MAL11,18,0.8222222222222223,0.9
+clade,11. Ale beer,MAL31,18,3.721296296277777,3.45
+clade,11. Ale beer,MPH2/3,18,0.08796296294444444,0.0
+clade,11. Ale beer,Total,18,4.631481481444444,4.35
+clade,7. Mosaic beer,MAL11,21,0.9682539682380952,1.0
+clade,7. Mosaic beer,MAL31,21,2.7063492063333334,2.5
+clade,7. Mosaic beer,MPH2/3,21,0.44444444442857145,0.0
+clade,7. Mosaic beer,Total,21,4.119047619,4.0
+clade,6. African beer,MAL11,20,0.23916666665,0.0
+clade,6. African beer,MAL31,20,2.1925,2.2916666665000003
+clade,6. African beer,MPH2/3,20,0.19333333334999997,0.0
+clade,6. African beer,Total,20,2.625,2.45
+clade,Wild clades,MAL11,60,1.0,1.0
+clade,Wild clades,MAL31,60,1.0,1.0
+clade,Wild clades,MPH2/3,60,1.0083333333333333,1.0
+clade,Wild clades,Total,60,3.0083333333333333,3.0

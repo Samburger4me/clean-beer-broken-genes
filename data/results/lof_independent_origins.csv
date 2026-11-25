@@ -1,0 +1,11 @@
+gene,hgvs_c,protein_change,n_strains,groups,clades,called_LOF,allele,n_haplotypes,parsimony_changes
+FDC1,c.1491G>A,p.W497*,4,Beer (Gallone) 4,Beer2 4,False,FDC1 c.1491G>A p.W497*,1,1
+FDC1,c.1500C>G,p.Y500*,1,Other/Unknown 1,not in Gallone panel 1,False,FDC1 c.1500C>G p.Y500*,1,1
+FDC1,c.160A>T,p.K54*,12,Sake 7; Shochu/Awamori 3; Other/Unknown 1; Beer (Gallone) 1,Asian 6; not in Gallone panel 5; Beer2 1,True,FDC1 c.160A>T p.K54*,5,1
+FDC1,c.460C>T,p.Q154*,57,Beer (Gallone) 52; Ale 1; Wine 1; Spirits 1; Baking 1; Other/Unknown 1,Britain 26; US 10; Belgium/Germany 7; Mosaic 6; NS 4; not in Gallone panel 2; Mixed 2,True,FDC1 c.460C>T p.Q154*,10,2
+FDC1,c.501dupA,p.K167fs,71,Beer (Gallone) 60; Spirits 4; Other/Unknown 4; Baking 2; Ale 1; Lager 1; Wine 1,Britain 26; Mixed 11; US 10; Mosaic 9; Belgium/Germany 7; not in Gallone panel 6; NS 4,True,FDC1 c.501dupA p.K167fs,18,3
+FDC1,c.864delA,p.G288fs,1,Laboratory 1,Mosaic 1,True,FDC1 c.864delA p.G288fs,1,1
+FDC1,c.925A>T,p.R309*,1,Wine 1,Wine 1,True,FDC1 c.925A>T p.R309*,1,1
+PAD1,c.294T>G,p.Y98*,1,Laboratory 1,Mosaic 1,True,PAD1 c.294T>G p.Y98*,1,1
+PAD1,c.305G>A,p.W102*,55,Beer (Gallone) 51; Ale 1; Wine 1; Spirits 1; Other/Unknown 1,Britain 26; US 10; Belgium/Germany 7; Mosaic 6; NS 4; not in Gallone panel 2,True,PAD1 c.305G>A p.W102*,8,1
+PAD1,c.306G>A,p.W102*,1,Beer (Gallone) 1,Beer2 1,True,PAD1 c.306G>A p.W102*,1,1

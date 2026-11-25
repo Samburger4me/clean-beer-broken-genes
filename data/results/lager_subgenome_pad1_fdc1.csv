@@ -1,0 +1,9 @@
+strain,gene,subgenome,sacc,chromosome_label,region,cds_start,cds_end,blast_id_vs_Sc_ref,blast_id_vs_Se_ref,reference,ref_len_aa,nt_identity_to_ref,protein_len_aa,frameshift,n_missense,protein_identity_to_ref,lof_variants,call
+CBS 1483,PAD1,Sc,CP048985.1,ScIV,CP048985.1:1460260-1461048,1460290.0,1461018.0,98.903,77.61,Sc_PAD1,242.0,98.903,242.0,False,2.0,99.17,,intact
+CBS 1483,PAD1,Se,,,,,,,,,,,,,,,,absent
+CBS 1483,FDC1,Sc,CP048985.1,ScIV,CP048985.1:1461452-1463024,1461482.0,1462994.0,99.736,81.727,Sc_FDC1,503.0,99.736,169.0,True,1.0,98.22,c.501dupA p.K167fs,LOF
+CBS 1483,FDC1,Se,,,,,,,,,,,,,,,,absent
+CBS 1513,PAD1,Sc,,,,,,,,,,,,,,,,absent
+CBS 1513,PAD1,Se,,,,,,,,,,,,,,,,absent
+CBS 1513,FDC1,Sc,,,,,,,,,,,,,,,,absent
+CBS 1513,FDC1,Se,,,,,,,,,,,,,,,,absent

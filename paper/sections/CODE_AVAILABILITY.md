@@ -1,0 +1,1 @@
+All code is at https://github.com/Samburger4me/clean-beer-broken-genes and archived on Zenodo ([[PENDING: DOI]]); `python run_all.py` reproduces every figure and number, and `python paper/build_paper.py` rebuilds this PDF.

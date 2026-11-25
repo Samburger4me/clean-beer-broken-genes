@@ -1,0 +1,1264 @@
+{
+ "a1_breslow_day_p": 0.003167461993462961,
+ "a1_clade_frac_pofneg": {
+  "Asian": 0.6,
+  "Beer2": 0.047619047619047616,
+  "Belgium/Germany": 0.3888888888888889,
+  "Britain": 1.0,
+  "Mixed": 0.7058823529411765,
+  "Mosaic": 0.38461538461538464,
+  "US": 1.0,
+  "Wine": 0.041666666666666664
+ },
+ "a1_clade_n": {
+  "Asian": 10,
+  "Beer2": 21,
+  "Belgium/Germany": 18,
+  "Britain": 26,
+  "Mixed": 17,
+  "Mosaic": 26,
+  "US": 10,
+  "Wine": 24
+ },
+ "a1_cmh_chi2": 15.822717184435533,
+ "a1_cmh_n_contributing": 4,
+ "a1_cmh_n_dom_higher": 3,
+ "a1_cmh_n_strains": 97,
+ "a1_cmh_n_strata": 5,
+ "a1_cmh_or": 17.944615384615386,
+ "a1_cmh_or_ci": [
+  3.0753442647870366,
+  104.70672340290781
+ ],
+ "a1_cmh_p": 6.956229461141383e-05,
+ "a1_cmh_strata": [
+  "Asian",
+  "Britain",
+  "Mixed",
+  "Mosaic",
+  "Wine"
+ ],
+ "a1_gallone_fisher_or": 20.285714285714285,
+ "a1_gallone_fisher_p": 7.855930325913054e-08,
+ "a1_gallone_n_called": 150,
+ "a1_gallone_table": [
+  [
+   71,
+   49
+  ],
+  [
+   2,
+   28
+  ]
+ ],
+ "a1_n_clades": 8,
+ "a1_n_pofneg_clades": 4,
+ "a1_pofneg_clades": [
+  "Britain",
+  "US",
+  "Mixed",
+  "Asian"
+ ],
+ "a2_alleles": [
+  {
+   "allele": "FDC1 c.1491G>A p.W497*",
+   "called_LOF": false,
+   "clades": "Beer2 4",
+   "groups": "Beer (Gallone) 4",
+   "n_haplotypes": 1,
+   "n_strains": 4,
+   "parsimony_changes": 1
+  },
+  {
+   "allele": "FDC1 c.1500C>G p.Y500*",
+   "called_LOF": false,
+   "clades": "not in Gallone panel 1",
+   "groups": "Other/Unknown 1",
+   "n_haplotypes": 1,
+   "n_strains": 1,
+   "parsimony_changes": 1
+  },
+  {
+   "allele": "FDC1 c.160A>T p.K54*",
+   "called_LOF": true,
+   "clades": "Asian 6; not in Gallone panel 5; Beer2 1",
+   "groups": "Sake 7; Shochu/Awamori 3; Other/Unknown 1; Beer (Gallone) 1",
+   "n_haplotypes": 5,
+   "n_strains": 12,
+   "parsimony_changes": 1
+  },
+  {
+   "allele": "FDC1 c.460C>T p.Q154*",
+   "called_LOF": true,
+   "clades": "Britain 26; US 10; Belgium/Germany 7; Mosaic 6; NS 4; not in Gallone panel 2; Mixed 2",
+   "groups": "Beer (Gallone) 52; Ale 1; Wine 1; Spirits 1; Baking 1; Other/Unknown 1",
+   "n_haplotypes": 10,
+   "n_strains": 57,
+   "parsimony_changes": 2
+  },
+  {
+   "allele": "FDC1 c.501dupA p.K167fs",
+   "called_LOF": true,
+   "clades": "Britain 26; Mixed 11; US 10; Mosaic 9; Belgium/Germany 7; not in Gallone panel 6; NS 4",
+   "groups": "Beer (Gallone) 60; Spirits 4; Other/Unknown 4; Baking 2; Ale 1; Lager 1; Wine 1",
+   "n_haplotypes": 18,
+   "n_strains": 71,
+   "parsimony_changes": 3
+  },
+  {
+   "allele": "FDC1 c.864delA p.G288fs",
+   "called_LOF": true,
+   "clades": "Mosaic 1",
+   "groups": "Laboratory 1",
+   "n_haplotypes": 1,
+   "n_strains": 1,
+   "parsimony_changes": 1
+  },
+  {
+   "allele": "FDC1 c.925A>T p.R309*",
+   "called_LOF": true,
+   "clades": "Wine 1",
+   "groups": "Wine 1",
+   "n_haplotypes": 1,
+   "n_strains": 1,
+   "parsimony_changes": 1
+  },
+  {
+   "allele": "PAD1 c.294T>G p.Y98*",
+   "called_LOF": true,
+   "clades": "Mosaic 1",
+   "groups": "Laboratory 1",
+   "n_haplotypes": 1,
+   "n_strains": 1,
+   "parsimony_changes": 1
+  },
+  {
+   "allele": "PAD1 c.305G>A p.W102*",
+   "called_LOF": true,
+   "clades": "Britain 26; US 10; Belgium/Germany 7; Mosaic 6; NS 4; not in Gallone panel 2",
+   "groups": "Beer (Gallone) 51; Ale 1; Wine 1; Spirits 1; Other/Unknown 1",
+   "n_haplotypes": 8,
+   "n_strains": 55,
+   "parsimony_changes": 1
+  },
+  {
+   "allele": "PAD1 c.306G>A p.W102*",
+   "called_LOF": true,
+   "clades": "Beer2 1",
+   "groups": "Beer (Gallone) 1",
+   "n_haplotypes": 1,
+   "n_strains": 1,
+   "parsimony_changes": 1
+  }
+ ],
+ "a2_loss_events": [
+  {
+   "alleles": "K167fs + Q154* + W102*",
+   "beverage": true,
+   "groups": "Beer (Gallone) 60; Spirits 4; Baking 3; Other/Unknown 2; Ale 1; Lager 1; Wine 1",
+   "n_strains": 72
+  },
+  {
+   "alleles": "K54* + W102*",
+   "beverage": true,
+   "groups": "Sake 7; Shochu/Awamori 3; Other/Unknown 1; Beer (Gallone) 1",
+   "n_strains": 12
+  },
+  {
+   "alleles": "R309*",
+   "beverage": false,
+   "groups": "Wine 1",
+   "n_strains": 1
+  },
+  {
+   "alleles": "G288fs + Y98*",
+   "beverage": false,
+   "groups": "Laboratory 1",
+   "n_strains": 1
+  }
+ ],
+ "a2_missing_from_tree": [
+  "Awamori 101",
+  "Kagoshima yeast No.5",
+  "unnamed (AB293446.1)"
+ ],
+ "a2_n_beverage_loss_events": 2,
+ "a2_n_distinct_lof": 8,
+ "a2_n_haplotypes": 61,
+ "a2_n_late_stops": 2,
+ "a2_n_loss_events": 4,
+ "a2_n_pofneg_haplotypes": 26,
+ "a2_pof_parsimony_changes": 7,
+ "a2_tree_root": "H8",
+ "a3_accuracy": [
+  0.8104575163398693,
+  0.7410451701843443,
+  0.8646620242928944
+ ],
+ "a3_allele_pheno": {
+  "FDC1 G288fs + PAD1 Y98*": {
+   "POF+": 0,
+   "POF-": 1,
+   "n": 1
+  },
+  "FDC1 K167fs": {
+   "POF+": 6,
+   "POF-": 7,
+   "n": 13
+  },
+  "FDC1 K167fs + FDC1 Q154*": {
+   "POF+": 0,
+   "POF-": 1,
+   "n": 1
+  },
+  "FDC1 K167fs + FDC1 Q154* + PAD1 W102*": {
+   "POF+": 3,
+   "POF-": 47,
+   "n": 50
+  },
+  "FDC1 K54*": {
+   "POF+": 0,
+   "POF-": 6,
+   "n": 6
+  },
+  "FDC1 K54* + PAD1 W102*": {
+   "POF+": 0,
+   "POF-": 1,
+   "n": 1
+  },
+  "FDC1 Q154*": {
+   "POF+": 1,
+   "POF-": 0,
+   "n": 1
+  },
+  "FDC1 R309*": {
+   "POF+": 0,
+   "POF-": 1,
+   "n": 1
+  },
+  "FDC1 W497*": {
+   "POF+": 1,
+   "POF-": 3,
+   "n": 4
+  },
+  "no truncating allele": {
+   "POF+": 60,
+   "POF-": 16,
+   "n": 76
+  }
+ },
+ "a3_confusion": {
+  "FN": 19,
+  "FP": 10,
+  "TN": 60,
+  "TP": 64
+ },
+ "a3_discordant": [
+  {
+   "Niche": "Beer (Ale refermentation)",
+   "clade": "Mixed",
+   "measured_POF": "POF+",
+   "predicted_POF": "POF-",
+   "strain": "beer006"
+  },
+  {
+   "Niche": "Beer (Ale refermentation)",
+   "clade": "Mixed",
+   "measured_POF": "POF+",
+   "predicted_POF": "POF-",
+   "strain": "beer025"
+  },
+  {
+   "Niche": "Beer (Ale refermentation)",
+   "clade": "Mixed",
+   "measured_POF": "POF+",
+   "predicted_POF": "POF-",
+   "strain": "beer028"
+  },
+  {
+   "Niche": "Beer (Ale refermentation)",
+   "clade": "Mixed",
+   "measured_POF": "POF+",
+   "predicted_POF": "POF-",
+   "strain": "beer029"
+  },
+  {
+   "Niche": "Beer",
+   "clade": "Britain",
+   "measured_POF": "POF+",
+   "predicted_POF": "POF-",
+   "strain": "beer064"
+  },
+  {
+   "Niche": "Beer (Lager)",
+   "clade": "Belgium/Germany",
+   "measured_POF": "POF+",
+   "predicted_POF": "POF-",
+   "strain": "beer087"
+  },
+  {
+   "Niche": "Bread",
+   "clade": "Mixed",
+   "measured_POF": "POF+",
+   "predicted_POF": "POF-",
+   "strain": "bread001"
+  },
+  {
+   "Niche": "Bread",
+   "clade": "Mixed",
+   "measured_POF": "POF+",
+   "predicted_POF": "POF-",
+   "strain": "bread003"
+  },
+  {
+   "Niche": "Bread",
+   "clade": "Mixed",
+   "measured_POF": "POF+",
+   "predicted_POF": "POF-",
+   "strain": "bread004"
+  },
+  {
+   "Niche": "Spirits",
+   "clade": "Mosaic",
+   "measured_POF": "POF+",
+   "predicted_POF": "POF-",
+   "strain": "spirits008"
+  },
+  {
+   "Niche": "Beer",
+   "clade": "Beer2",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer002"
+  },
+  {
+   "Niche": "Beer (Abbey)",
+   "clade": "Beer2",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer011"
+  },
+  {
+   "Niche": "Beer",
+   "clade": "Belgium/Germany",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer016"
+  },
+  {
+   "Niche": "Beer (Ale refermentation)",
+   "clade": "Wine",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer024"
+  },
+  {
+   "Niche": "Beer (Trappist)",
+   "clade": "Wine",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer030"
+  },
+  {
+   "Niche": "Beer (Trappist)",
+   "clade": "Belgium/Germany",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer031"
+  },
+  {
+   "Niche": "Beer (Strong ale)",
+   "clade": "Wine",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer033"
+  },
+  {
+   "Niche": "Beer (Lager)",
+   "clade": "Beer2",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer039"
+  },
+  {
+   "Niche": "Beer (Lager)",
+   "clade": "Beer2",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer040"
+  },
+  {
+   "Niche": "Beer (Hefeweizen)",
+   "clade": "Mosaic",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer072"
+  },
+  {
+   "Niche": "Beer (Wheat)",
+   "clade": "Belgium/Germany",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer076"
+  },
+  {
+   "Niche": "Beer",
+   "clade": "Wine",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "beer088"
+  },
+  {
+   "Niche": "Spirits",
+   "clade": "Wine",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "spirits002"
+  },
+  {
+   "Niche": "Spirits",
+   "clade": "Wine",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "spirits004"
+  },
+  {
+   "Niche": "Spirits",
+   "clade": "Belgium/Germany",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "spirits005"
+  },
+  {
+   "Niche": "Wine",
+   "clade": "Wine",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "wine001"
+  },
+  {
+   "Niche": "Wine",
+   "clade": "Wine",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "wine007"
+  },
+  {
+   "Niche": "Wine",
+   "clade": "Wine",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "wine009"
+  },
+  {
+   "Niche": "Wine",
+   "clade": "Mosaic",
+   "measured_POF": "POF-",
+   "predicted_POF": "POF+",
+   "strain": "wine019"
+  }
+ ],
+ "a3_kappa": 0.6219647269319247,
+ "a3_lone_dupA": {
+  "POF+": 6,
+  "POF-": 7
+ },
+ "a3_n_ambiguous_pheno": 0,
+ "a3_n_compared": 153,
+ "a3_n_phenotyped": 154,
+ "a3_npv": [
+  0.759493670886076,
+  0.6546430708772921,
+  0.8402781990238368
+ ],
+ "a3_ppv": [
+  0.8648648648648649,
+  0.7688082144747669,
+  0.9249095140738163
+ ],
+ "a3_sensitivity": [
+  0.7710843373493976,
+  0.6699193229025606,
+  0.848266352592755
+ ],
+ "a3_sensitivity_rules": [
+  {
+   "FN": 19,
+   "FP": 10,
+   "TN": 60,
+   "TP": 64,
+   "accuracy": 0.8104575163398693,
+   "n": 153,
+   "rule": "A: caller as published here",
+   "sensitivity": 0.7710843373493976,
+   "specificity": 0.8571428571428571
+  },
+  {
+   "FN": 16,
+   "FP": 11,
+   "TN": 59,
+   "TP": 67,
+   "accuracy": 0.8235294117647058,
+   "n": 153,
+   "rule": "B: late stops count as LOF",
+   "sensitivity": 0.8072289156626506,
+   "specificity": 0.8428571428571429
+  },
+  {
+   "FN": 23,
+   "FP": 5,
+   "TN": 65,
+   "TP": 60,
+   "accuracy": 0.8169934640522876,
+   "n": 153,
+   "rule": "C: B + ignore lone c.501dupA",
+   "sensitivity": 0.7228915662650602,
+   "specificity": 0.9285714285714286
+  }
+ ],
+ "a3_specificity": [
+  0.8571428571428571,
+  0.7566158011633324,
+  0.9205105828293341
+ ],
+ "a3_w497": {
+  "POF+": 1,
+  "POF-": 3
+ },
+ "a4_african_beer_clade_vs_wild_clades_mal11_cliffs_delta": -0.85,
+ "a4_african_beer_clade_vs_wild_clades_mal11_p": 2.8496810124880264e-14,
+ "a4_african_beer_clade_vs_wild_clades_mal11_p_bh": 1.1396402349917055e-13,
+ "a4_african_beer_clade_vs_wild_clades_mal31_cliffs_delta": 0.98,
+ "a4_african_beer_clade_vs_wild_clades_mal31_p": 9.660344090857457e-14,
+ "a4_african_beer_clade_vs_wild_clades_mal31_p_bh": 1.2880458787809943e-13,
+ "a4_african_beer_clade_vs_wild_clades_mph2_3_cliffs_delta": -0.8508333333333333,
+ "a4_african_beer_clade_vs_wild_clades_mph2_3_p": 5.698201174958527e-14,
+ "a4_african_beer_clade_vs_wild_clades_mph2_3_p_bh": 1.1396402349917055e-13,
+ "a4_african_beer_clade_vs_wild_clades_total_cliffs_delta": -0.44666666666666666,
+ "a4_african_beer_clade_vs_wild_clades_total_p": 0.00047972857692648766,
+ "a4_african_beer_clade_vs_wild_clades_total_p_bh": 0.00047972857692648766,
+ "a4_ale_beer_clade_vs_wild_clades_mal11_cliffs_delta": -0.5,
+ "a4_ale_beer_clade_vs_wild_clades_mal11_p": 8.155273361446981e-09,
+ "a4_ale_beer_clade_vs_wild_clades_mal11_p_bh": 8.155273361446981e-09,
+ "a4_ale_beer_clade_vs_wild_clades_mal31_cliffs_delta": 1.0,
+ "a4_ale_beer_clade_vs_wild_clades_mal31_p": 1.5735727186931986e-13,
+ "a4_ale_beer_clade_vs_wild_clades_mal31_p_bh": 3.147145437386397e-13,
+ "a4_ale_beer_clade_vs_wild_clades_mph2_3_cliffs_delta": -1.0,
+ "a4_ale_beer_clade_vs_wild_clades_mph2_3_p": 1.3598710768634473e-17,
+ "a4_ale_beer_clade_vs_wild_clades_mph2_3_p_bh": 5.439484307453789e-17,
+ "a4_ale_beer_clade_vs_wild_clades_total_cliffs_delta": 0.8990740740740741,
+ "a4_ale_beer_clade_vs_wild_clades_total_p": 1.984936088083819e-11,
+ "a4_ale_beer_clade_vs_wild_clades_total_p_bh": 2.6465814507784255e-11,
+ "a4_beer_vs_wild_mal11_cliffs_delta": -0.13979714400106769,
+ "a4_beer_vs_wild_mal11_p": 0.05551864208149842,
+ "a4_beer_vs_wild_mal11_p_bh": 0.07402485610866456,
+ "a4_beer_vs_wild_mal31_cliffs_delta": 0.5366341919124515,
+ "a4_beer_vs_wild_mal31_p": 4.5939711200901116e-11,
+ "a4_beer_vs_wild_mal31_p_bh": 9.187942240180223e-11,
+ "a4_beer_vs_wild_mph2_3_cliffs_delta": -0.5545842786600828,
+ "a4_beer_vs_wild_mph2_3_p": 3.0642906579350256e-13,
+ "a4_beer_vs_wild_mph2_3_p_bh": 1.2257162631740102e-12,
+ "a4_beer_vs_wild_total_cliffs_delta": 0.0535833444548246,
+ "a4_beer_vs_wild_total_p": 0.5105352139238659,
+ "a4_beer_vs_wild_total_p_bh": 0.5105352139238659,
+ "a4_clade_african_beer_mal11_mean": 0.23916666665,
+ "a4_clade_african_beer_mal11_median": 0.0,
+ "a4_clade_african_beer_mal31_mean": 2.1925,
+ "a4_clade_african_beer_mal31_median": 2.2916666665000003,
+ "a4_clade_african_beer_mph2_3_mean": 0.19333333334999997,
+ "a4_clade_african_beer_mph2_3_median": 0.0,
+ "a4_clade_african_beer_total_mean": 2.625,
+ "a4_clade_african_beer_total_median": 2.45,
+ "a4_clade_ale_beer_mal11_mean": 0.8222222222222223,
+ "a4_clade_ale_beer_mal11_median": 0.9,
+ "a4_clade_ale_beer_mal31_mean": 3.721296296277777,
+ "a4_clade_ale_beer_mal31_median": 3.45,
+ "a4_clade_ale_beer_mph2_3_mean": 0.08796296294444444,
+ "a4_clade_ale_beer_mph2_3_median": 0.0,
+ "a4_clade_ale_beer_total_mean": 4.631481481444444,
+ "a4_clade_ale_beer_total_median": 4.35,
+ "a4_clade_mosaic_beer_mal11_mean": 0.9682539682380952,
+ "a4_clade_mosaic_beer_mal11_median": 1.0,
+ "a4_clade_mosaic_beer_mal31_mean": 2.7063492063333334,
+ "a4_clade_mosaic_beer_mal31_median": 2.5,
+ "a4_clade_mosaic_beer_mph2_3_mean": 0.44444444442857145,
+ "a4_clade_mosaic_beer_mph2_3_median": 0.0,
+ "a4_clade_mosaic_beer_total_mean": 4.119047619,
+ "a4_clade_mosaic_beer_total_median": 4.0,
+ "a4_clade_wild_clades_mal11_mean": 1.0,
+ "a4_clade_wild_clades_mal11_median": 1.0,
+ "a4_clade_wild_clades_mal31_mean": 1.0,
+ "a4_clade_wild_clades_mal31_median": 1.0,
+ "a4_clade_wild_clades_mph2_3_mean": 1.0083333333333333,
+ "a4_clade_wild_clades_mph2_3_median": 1.0,
+ "a4_clade_wild_clades_total_mean": 3.0083333333333333,
+ "a4_clade_wild_clades_total_median": 3.0,
+ "a4_domesticated_vs_wild_mal11_cliffs_delta": -0.15719289333315511,
+ "a4_domesticated_vs_wild_mal11_p": 5.380622266416395e-05,
+ "a4_domesticated_vs_wild_mal11_p_bh": 0.0001076124453283279,
+ "a4_domesticated_vs_wild_mal31_cliffs_delta": 0.2461465449246687,
+ "a4_domesticated_vs_wild_mal31_p": 2.2235173848819907e-09,
+ "a4_domesticated_vs_wild_mal31_p_bh": 8.894069539527963e-09,
+ "a4_domesticated_vs_wild_mph2_3_cliffs_delta": -0.09830488082028799,
+ "a4_domesticated_vs_wild_mph2_3_p": 0.014137372068065857,
+ "a4_domesticated_vs_wild_mph2_3_p_bh": 0.01884982942408781,
+ "a4_domesticated_vs_wild_total_cliffs_delta": 0.04971057310535665,
+ "a4_domesticated_vs_wild_total_p": 0.24463457658682375,
+ "a4_domesticated_vs_wild_total_p_bh": 0.24463457658682375,
+ "a4_ecology_bakery_mal11_mean": 0.9707207207027027,
+ "a4_ecology_bakery_mal11_median": 1.0,
+ "a4_ecology_bakery_mal31_mean": 2.6103603603513514,
+ "a4_ecology_bakery_mal31_median": 2.5,
+ "a4_ecology_bakery_mph2_3_mean": 0.28378378378378377,
+ "a4_ecology_bakery_mph2_3_median": 0.0,
+ "a4_ecology_bakery_total_mean": 3.864864864837838,
+ "a4_ecology_bakery_total_median": 3.5,
+ "a4_ecology_beer_mal11_mean": 0.6680790960338983,
+ "a4_ecology_beer_mal11_median": 0.75,
+ "a4_ecology_beer_mal31_mean": 2.696327683610169,
+ "a4_ecology_beer_mal31_median": 2.5,
+ "a4_ecology_beer_mph2_3_mean": 0.2957627118644068,
+ "a4_ecology_beer_mph2_3_median": 0.0,
+ "a4_ecology_beer_total_mean": 3.6601694915084746,
+ "a4_ecology_beer_total_median": 3.5,
+ "a4_ecology_bioethanol_mal11_mean": 0.6296296296296297,
+ "a4_ecology_bioethanol_mal11_median": 0.5,
+ "a4_ecology_bioethanol_mal31_mean": 1.9444444444444444,
+ "a4_ecology_bioethanol_mal31_median": 2.0,
+ "a4_ecology_bioethanol_mph2_3_mean": 0.4074074074074074,
+ "a4_ecology_bioethanol_mph2_3_median": 0.5,
+ "a4_ecology_bioethanol_total_mean": 2.9814814814814814,
+ "a4_ecology_bioethanol_total_median": 3.0,
+ "a4_ecology_clinical_mal11_mean": 0.3786231884057971,
+ "a4_ecology_clinical_mal11_median": 0.0,
+ "a4_ecology_clinical_mal31_mean": 2.2131642512028984,
+ "a4_ecology_clinical_mal31_median": 2.0,
+ "a4_ecology_clinical_mph2_3_mean": 0.7282608695652174,
+ "a4_ecology_clinical_mph2_3_median": 1.0,
+ "a4_ecology_clinical_total_mean": 3.320048309173913,
+ "a4_ecology_clinical_total_median": 3.0,
+ "a4_ecology_distillery_mal11_mean": 0.853448275862069,
+ "a4_ecology_distillery_mal11_median": 1.0,
+ "a4_ecology_distillery_mal31_mean": 1.7787356321724137,
+ "a4_ecology_distillery_mal31_median": 2.0,
+ "a4_ecology_distillery_mph2_3_mean": 0.5,
+ "a4_ecology_distillery_mph2_3_median": 0.0,
+ "a4_ecology_distillery_total_mean": 3.1321839080344827,
+ "a4_ecology_distillery_total_median": 3.5,
+ "a4_ecology_domesticated_all_mal11_mean": 0.6099320882835314,
+ "a4_ecology_domesticated_all_mal11_median": 1.0,
+ "a4_ecology_domesticated_all_mal31_mean": 2.1460101867504244,
+ "a4_ecology_domesticated_all_mal31_median": 2.0,
+ "a4_ecology_domesticated_all_mph2_3_mean": 0.8536219581239389,
+ "a4_ecology_domesticated_all_mph2_3_median": 1.0,
+ "a4_ecology_domesticated_all_total_mean": 3.6095642331578945,
+ "a4_ecology_domesticated_all_total_median": 3.5,
+ "a4_ecology_other_fermentation_mal11_mean": 0.4612676056338028,
+ "a4_ecology_other_fermentation_mal11_median": 0.0,
+ "a4_ecology_other_fermentation_mal31_mean": 1.8838028168802818,
+ "a4_ecology_other_fermentation_mal31_median": 2.0,
+ "a4_ecology_other_fermentation_mph2_3_mean": 1.2640845070492956,
+ "a4_ecology_other_fermentation_mph2_3_median": 1.0,
+ "a4_ecology_other_fermentation_total_mean": 3.6091549295633802,
+ "a4_ecology_other_fermentation_total_median": 4.0,
+ "a4_ecology_sake_mal11_mean": 1.0425531914893618,
+ "a4_ecology_sake_mal11_median": 1.0,
+ "a4_ecology_sake_mal31_mean": 2.4468085106382977,
+ "a4_ecology_sake_mal31_median": 2.0,
+ "a4_ecology_sake_mph2_3_mean": 0.05673758865957446,
+ "a4_ecology_sake_mph2_3_median": 0.0,
+ "a4_ecology_sake_total_mean": 3.546099290787234,
+ "a4_ecology_sake_total_median": 2.5,
+ "a4_ecology_wild_mal11_mean": 0.7381889763740158,
+ "a4_ecology_wild_mal11_median": 1.0,
+ "a4_ecology_wild_mal31_mean": 1.8067585301811022,
+ "a4_ecology_wild_mal31_median": 2.0,
+ "a4_ecology_wild_mph2_3_mean": 0.9921259842519685,
+ "a4_ecology_wild_mph2_3_median": 1.0,
+ "a4_ecology_wild_total_mean": 3.5370734908070864,
+ "a4_ecology_wild_total_median": 3.0,
+ "a4_ecology_wine_mal11_mean": 0.5147849462379033,
+ "a4_ecology_wine_mal11_median": 0.0,
+ "a4_ecology_wine_mal31_mean": 2.1038306451612905,
+ "a4_ecology_wine_mal31_median": 2.0,
+ "a4_ecology_wine_mph2_3_mean": 1.0772849462379033,
+ "a4_ecology_wine_mph2_3_median": 1.0,
+ "a4_ecology_wine_total_mean": 3.6959005376370966,
+ "a4_ecology_wine_total_median": 4.0,
+ "a4_fdc1_fdc1_absent_all_n": 25,
+ "a4_fdc1_fdc1_absent_bakery_frac": 0.0,
+ "a4_fdc1_fdc1_absent_bakery_n": 0,
+ "a4_fdc1_fdc1_absent_beer_frac": 0.0,
+ "a4_fdc1_fdc1_absent_beer_n": 0,
+ "a4_fdc1_fdc1_absent_bioethanol_frac": 0.2222222222222222,
+ "a4_fdc1_fdc1_absent_bioethanol_n": 6,
+ "a4_fdc1_fdc1_absent_clinical_frac": 0.028985507246376812,
+ "a4_fdc1_fdc1_absent_clinical_n": 4,
+ "a4_fdc1_fdc1_absent_distillery_frac": 0.0,
+ "a4_fdc1_fdc1_absent_distillery_n": 0,
+ "a4_fdc1_fdc1_absent_domesticated_all_frac": 0.027164685908319185,
+ "a4_fdc1_fdc1_absent_domesticated_all_n": 16,
+ "a4_fdc1_fdc1_absent_other_fermentation_frac": 0.07042253521126761,
+ "a4_fdc1_fdc1_absent_other_fermentation_n": 10,
+ "a4_fdc1_fdc1_absent_sake_frac": 0.0,
+ "a4_fdc1_fdc1_absent_sake_n": 0,
+ "a4_fdc1_fdc1_absent_wild_frac": 0.01968503937007874,
+ "a4_fdc1_fdc1_absent_wild_n": 5,
+ "a4_fdc1_fdc1_absent_wine_frac": 0.0,
+ "a4_fdc1_fdc1_absent_wine_n": 0,
+ "a4_fdc1_pad1merged_absent_all_n": 24,
+ "a4_fdc1_pad1merged_absent_bakery_frac": 0.0,
+ "a4_fdc1_pad1merged_absent_bakery_n": 0,
+ "a4_fdc1_pad1merged_absent_beer_frac": 0.0,
+ "a4_fdc1_pad1merged_absent_beer_n": 0,
+ "a4_fdc1_pad1merged_absent_bioethanol_frac": 0.18518518518518517,
+ "a4_fdc1_pad1merged_absent_bioethanol_n": 5,
+ "a4_fdc1_pad1merged_absent_clinical_frac": 0.028985507246376812,
+ "a4_fdc1_pad1merged_absent_clinical_n": 4,
+ "a4_fdc1_pad1merged_absent_distillery_frac": 0.0,
+ "a4_fdc1_pad1merged_absent_distillery_n": 0,
+ "a4_fdc1_pad1merged_absent_domesticated_all_frac": 0.025466893039049237,
+ "a4_fdc1_pad1merged_absent_domesticated_all_n": 15,
+ "a4_fdc1_pad1merged_absent_other_fermentation_frac": 0.07042253521126761,
+ "a4_fdc1_pad1merged_absent_other_fermentation_n": 10,
+ "a4_fdc1_pad1merged_absent_sake_frac": 0.0,
+ "a4_fdc1_pad1merged_absent_sake_n": 0,
+ "a4_fdc1_pad1merged_absent_wild_frac": 0.01968503937007874,
+ "a4_fdc1_pad1merged_absent_wild_n": 5,
+ "a4_fdc1_pad1merged_absent_wine_frac": 0.0,
+ "a4_fdc1_pad1merged_absent_wine_n": 0,
+ "a4_kruskal_ecology_groups_mal11_p": 7.94463353336433e-21,
+ "a4_kruskal_ecology_groups_mal11_p_bh": 1.588926706672866e-20,
+ "a4_kruskal_ecology_groups_mal31_p": 1.2835572122608574e-15,
+ "a4_kruskal_ecology_groups_mal31_p_bh": 1.7114096163478099e-15,
+ "a4_kruskal_ecology_groups_mph2_3_p": 1.8767188116602233e-49,
+ "a4_kruskal_ecology_groups_mph2_3_p_bh": 7.506875246640893e-49,
+ "a4_kruskal_ecology_groups_total_p": 9.650542213476859e-05,
+ "a4_kruskal_ecology_groups_total_p_bh": 9.650542213476859e-05,
+ "a4_min_p_bh_mannwhitney": 5.439484307453789e-17,
+ "a4_mosaic_beer_clade_vs_wild_clades_mal11_cliffs_delta": -0.04761904761904767,
+ "a4_mosaic_beer_clade_vs_wild_clades_mal11_p": 0.09648536829339995,
+ "a4_mosaic_beer_clade_vs_wild_clades_mal11_p_bh": 0.09648536829339995,
+ "a4_mosaic_beer_clade_vs_wild_clades_mal31_cliffs_delta": 1.0,
+ "a4_mosaic_beer_clade_vs_wild_clades_mal31_p": 1.384390111937065e-14,
+ "a4_mosaic_beer_clade_vs_wild_clades_mal31_p_bh": 5.53756044774826e-14,
+ "a4_mosaic_beer_clade_vs_wild_clades_mph2_3_cliffs_delta": -0.6238095238095238,
+ "a4_mosaic_beer_clade_vs_wild_clades_mph2_3_p": 1.0275330982367508e-09,
+ "a4_mosaic_beer_clade_vs_wild_clades_mph2_3_p_bh": 2.0550661964735016e-09,
+ "a4_mosaic_beer_clade_vs_wild_clades_total_cliffs_delta": 0.5571428571428572,
+ "a4_mosaic_beer_clade_vs_wild_clades_total_p": 3.861523516490434e-06,
+ "a4_mosaic_beer_clade_vs_wild_clades_total_p_bh": 5.1486980219872455e-06,
+ "a4_n_bakery": 37,
+ "a4_n_beer": 59,
+ "a4_n_bioethanol": 27,
+ "a4_n_clade_african_beer": 20,
+ "a4_n_clade_ale_beer": 18,
+ "a4_n_clade_mosaic_beer": 21,
+ "a4_n_clinical": 138,
+ "a4_n_distillery": 29,
+ "a4_n_domesticated": 589,
+ "a4_n_other_fermentation": 142,
+ "a4_n_sake": 47,
+ "a4_n_strains_grouped": 981,
+ "a4_n_strains_joined": 1011,
+ "a4_n_wild": 254,
+ "a4_n_wild_clades_strains": 60,
+ "a4_n_wine": 248,
+ "a4_wild_clade_frac_cutoff": 0.75,
+ "a4_wild_clades": [
+  "14. CHNIII",
+  "15. CHNII",
+  "16. CHNI",
+  "17. Taiwanese",
+  "18. Far East Asia",
+  "19. Malaysian",
+  "20. CHN V",
+  "21. Ecuadorean",
+  "22. Far East Russian",
+  "23. North American oak",
+  "4. Mediterranean oak"
+ ],
+ "a5_CBS1483_Sc_FDC1_c501dupA": true,
+ "a5_CBS1483_Sc_FDC1_call": "LOF",
+ "a5_CBS1483_Sc_FDC1_locus": "CP048985.1:1461482-1462994",
+ "a5_CBS1483_Sc_FDC1_nt_identity_to_ref_pct": 99.736,
+ "a5_CBS1483_Sc_FDC1_protein_len_aa": 169,
+ "a5_CBS1483_Sc_PAD1_call": "intact",
+ "a5_CBS1483_Sc_PAD1_locus": "CP048985.1:1460290-1461018",
+ "a5_CBS1483_Sc_PAD1_nt_identity_to_ref_pct": 98.903,
+ "a5_CBS1483_Sc_PAD1_protein_len_aa": 242,
+ "a5_CBS1483_Se_FDC1_call": "absent",
+ "a5_CBS1483_Se_PAD1_call": "absent",
+ "a5_CBS1513_Sc_FDC1_call": "absent",
+ "a5_CBS1513_Sc_PAD1_call": "absent",
+ "a5_CBS1513_Se_FDC1_call": "absent",
+ "a5_CBS1513_Se_PAD1_call": "absent",
+ "a5_blast_batches_with_control_hit": "6/6",
+ "a5_n_se_copies_absent": 4,
+ "a5_n_se_copies_intact": 0,
+ "a5_n_se_copies_lof": 0,
+ "a5_sc_vs_se_FDC1_aa_identity_pct": 88.27,
+ "a5_sc_vs_se_FDC1_nt_identity_pct": 81.68,
+ "a5_sc_vs_se_PAD1_aa_identity_pct": 83.06,
+ "a5_sc_vs_se_PAD1_nt_identity_pct": 78.05,
+ "a5_se_ref_cluster_to_chr_end_nt": 16289,
+ "a5_se_reference_assembly": "GCF_001298625.1",
+ "a5_se_reference_loci": {
+  "FDC1": "NC_030972.1:935885-937396",
+  "PAD1": "NC_030972.1:934704-935432"
+ },
+ "core_boot_clades": [
+  {
+   "LOF_alleles": [],
+   "POF": {
+    "POF+": 14
+   },
+   "groups": {
+    "Baking": 1,
+    "Beer (Gallone)": 4,
+    "Spirits": 3,
+    "Wild": 1,
+    "Wine": 5
+   },
+   "n_haplotypes": 2,
+   "n_strains": 14,
+   "support": 100.0
+  },
+  {
+   "LOF_alleles": [
+    "c.501dupA p.K167fs -> 169 aa"
+   ],
+   "POF": {
+    "POF-": 2
+   },
+   "groups": {
+    "Beer (Gallone)": 1,
+    "Lager": 1
+   },
+   "n_haplotypes": 2,
+   "n_strains": 2,
+   "support": 100.0
+  },
+  {
+   "LOF_alleles": [
+    "c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa",
+    "c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa"
+   ],
+   "POF": {
+    "POF-": 56
+   },
+   "groups": {
+    "Ale": 1,
+    "Beer (Gallone)": 52,
+    "Other/Unknown": 1,
+    "Spirits": 1,
+    "Wine": 1
+   },
+   "n_haplotypes": 9,
+   "n_strains": 56,
+   "support": 91.0
+  },
+  {
+   "LOF_alleles": [
+    "c.305G>A p.W102* -> 101 aa + c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa"
+   ],
+   "POF": {
+    "POF-": 25
+   },
+   "groups": {
+    "Ale": 1,
+    "Beer (Gallone)": 23,
+    "Wine": 1
+   },
+   "n_haplotypes": 2,
+   "n_strains": 25,
+   "support": 90.0
+  },
+  {
+   "LOF_alleles": [
+    "c.160A>T p.K54* -> 53 aa",
+    "c.306G>A p.W102* -> 101 aa + c.160A>T p.K54* -> 53 aa"
+   ],
+   "POF": {
+    "POF-": 9
+   },
+   "groups": {
+    "Beer (Gallone)": 1,
+    "Sake": 7,
+    "Shochu/Awamori": 1
+   },
+   "n_haplotypes": 5,
+   "n_strains": 9,
+   "support": 89.0
+  },
+  {
+   "LOF_alleles": [
+    "c.160A>T p.K54* -> 53 aa",
+    "c.294T>G p.Y98* -> 97 aa + c.864delA p.G288fs -> 305 aa",
+    "c.306G>A p.W102* -> 101 aa + c.160A>T p.K54* -> 53 aa"
+   ],
+   "POF": {
+    "POF+": 6,
+    "POF-": 10
+   },
+   "groups": {
+    "Beer (Gallone)": 1,
+    "Bioethanol": 3,
+    "Laboratory": 1,
+    "Other/Unknown": 1,
+    "Sake": 7,
+    "Shochu/Awamori": 1,
+    "Wild": 2
+   },
+   "n_haplotypes": 9,
+   "n_strains": 16,
+   "support": 78.0
+  },
+  {
+   "LOF_alleles": [],
+   "POF": {
+    "POF+": 2
+   },
+   "groups": {
+    "Spirits": 1,
+    "Wild": 1
+   },
+   "n_haplotypes": 2,
+   "n_strains": 2,
+   "support": 74.0
+  }
+ ],
+ "core_chi2_all": {
+  "a_POFneg": null,
+  "a_POFpos": null,
+  "b_POFneg": null,
+  "b_POFpos": null,
+  "chi2": 44.93112352981781,
+  "chi2_p": 4.98938243456465e-06,
+  "fisher_p": null,
+  "odds_ratio": null,
+  "test": "chi-square, all groups x POF (11 df)"
+ },
+ "core_fisher_beer": {
+  "a_POFneg": 62.0,
+  "a_POFpos": 41.0,
+  "b_POFneg": 2.0,
+  "b_POFpos": 28.0,
+  "chi2": null,
+  "chi2_p": null,
+  "fisher_p": 6.72840777567895e-08,
+  "odds_ratio": 21.170731707317074,
+  "test": "Beer (Gallone)+Ale vs Wild+Wine"
+ },
+ "core_fisher_domestic": {
+  "a_POFneg": 77.0,
+  "a_POFpos": 49.0,
+  "b_POFneg": 2.0,
+  "b_POFpos": 33.0,
+  "chi2": null,
+  "chi2_p": null,
+  "fisher_p": 1.1366842164352021e-09,
+  "odds_ratio": 25.928571428571427,
+  "test": "Domesticated beverage vs Wild+Wine+Bioethanol"
+ },
+ "core_genotype_class": {
+  "FDC1 LOF only": 29,
+  "both LOF": 57,
+  "both intact": 87,
+  "incomplete / not callable": 8
+ },
+ "core_mal_assembly": [
+  {
+   "domesticated_mean": 0.8,
+   "domesticated_median": 1.0,
+   "domesticated_n": 15,
+   "gene": "MAL11",
+   "mannwhitney_p": 0.853,
+   "wild_lab_mean": 0.818,
+   "wild_lab_median": 1.0,
+   "wild_lab_n": 11
+  },
+  {
+   "domesticated_mean": 2.0,
+   "domesticated_median": 2.0,
+   "domesticated_n": 15,
+   "gene": "MAL31",
+   "mannwhitney_p": 0.591,
+   "wild_lab_mean": 2.0,
+   "wild_lab_median": 2.0,
+   "wild_lab_n": 11
+  },
+  {
+   "domesticated_mean": 0.867,
+   "domesticated_median": 1.0,
+   "domesticated_n": 15,
+   "gene": "MPH2_3",
+   "mannwhitney_p": 0.587,
+   "wild_lab_mean": 1.0,
+   "wild_lab_median": 1.0,
+   "wild_lab_n": 11
+  },
+  {
+   "domesticated_mean": 3.667,
+   "domesticated_median": 4.0,
+   "domesticated_n": 15,
+   "gene": "total_loci",
+   "mannwhitney_p": 0.624,
+   "wild_lab_mean": 3.818,
+   "wild_lab_median": 4.0,
+   "wild_lab_n": 11
+  }
+ ],
+ "core_n_callable": {
+  "FDC1": 180,
+  "PAD1": 174
+ },
+ "core_n_haplotypes": 61,
+ "core_n_records": {
+  "FDC1": 180,
+  "PAD1": 176
+ },
+ "core_n_strains": 181,
+ "core_pof_calls": {
+  "?": 8,
+  "POF+": 87,
+  "POF-": 86
+ },
+ "core_pofneg_by_group": {
+  "Ale": {
+   "n": 1,
+   "pof_neg": 1
+  },
+  "Baking": {
+   "n": 4,
+   "pof_neg": 3
+  },
+  "Beer (Gallone)": {
+   "n": 102,
+   "pof_neg": 61
+  },
+  "Bioethanol": {
+   "n": 5,
+   "pof_neg": 0
+  },
+  "Laboratory": {
+   "n": 4,
+   "pof_neg": 1
+  },
+  "Lager": {
+   "n": 1,
+   "pof_neg": 1
+  },
+  "Other/Unknown": {
+   "n": 4,
+   "pof_neg": 3
+  },
+  "Sake": {
+   "n": 8,
+   "pof_neg": 7
+  },
+  "Shochu/Awamori": {
+   "n": 3,
+   "pof_neg": 3
+  },
+  "Spirits": {
+   "n": 11,
+   "pof_neg": 4
+  },
+  "Wild": {
+   "n": 7,
+   "pof_neg": 0
+  },
+  "Wine": {
+   "n": 23,
+   "pof_neg": 2
+  }
+ },
+ "core_q154_in_pofneg_beer": {
+  "k": 52,
+  "n": 61
+ },
+ "core_recurrent_alleles": [
+  {
+   "gene": "FDC1",
+   "groups": "Beer (Gallone) 60; Spirits 4; Other/Unknown 4; Baking 2; Ale 1; Lager 1; Wine 1",
+   "hgvs_c": "c.501dupA",
+   "n_called_LOF": 73,
+   "n_strains": 71,
+   "protein_change": "p.K167fs"
+  },
+  {
+   "gene": "FDC1",
+   "groups": "Beer (Gallone) 52; Ale 1; Wine 1; Spirits 1; Baking 1; Other/Unknown 1",
+   "hgvs_c": "c.460C>T",
+   "n_called_LOF": 57,
+   "n_strains": 57,
+   "protein_change": "p.Q154*"
+  },
+  {
+   "gene": "PAD1",
+   "groups": "Beer (Gallone) 51; Ale 1; Wine 1; Spirits 1; Other/Unknown 1",
+   "hgvs_c": "c.305G>A",
+   "n_called_LOF": 55,
+   "n_strains": 55,
+   "protein_change": "p.W102*"
+  },
+  {
+   "gene": "FDC1",
+   "groups": "Sake 7; Shochu/Awamori 3; Other/Unknown 1; Beer (Gallone) 1",
+   "hgvs_c": "c.160A>T",
+   "n_called_LOF": 12,
+   "n_strains": 12,
+   "protein_change": "p.K54*"
+  },
+  {
+   "gene": "FDC1",
+   "groups": "Beer (Gallone) 4",
+   "hgvs_c": "c.1491G>A",
+   "n_called_LOF": 0,
+   "n_strains": 4,
+   "protein_change": "p.W497*"
+  },
+  {
+   "gene": "FDC1",
+   "groups": "Other/Unknown 1",
+   "hgvs_c": "c.1500C>G",
+   "n_called_LOF": 0,
+   "n_strains": 1,
+   "protein_change": "p.Y500*"
+  },
+  {
+   "gene": "FDC1",
+   "groups": "Laboratory 1",
+   "hgvs_c": "c.864delA",
+   "n_called_LOF": 1,
+   "n_strains": 1,
+   "protein_change": "p.G288fs"
+  },
+  {
+   "gene": "FDC1",
+   "groups": "Wine 1",
+   "hgvs_c": "c.925A>T",
+   "n_called_LOF": 1,
+   "n_strains": 1,
+   "protein_change": "p.R309*"
+  },
+  {
+   "gene": "PAD1",
+   "groups": "Laboratory 1",
+   "hgvs_c": "c.294T>G",
+   "n_called_LOF": 1,
+   "n_strains": 1,
+   "protein_change": "p.Y98*"
+  },
+  {
+   "gene": "PAD1",
+   "groups": "Beer (Gallone) 1",
+   "hgvs_c": "c.306G>A",
+   "n_called_LOF": 1,
+   "n_strains": 1,
+   "protein_change": "p.W102*"
+  }
+ ],
+ "core_structure": [
+  {
+   "LOF_called": true,
+   "allele": "c.160A>T p.K54* -> 53 aa",
+   "fraction_retained": 0.105,
+   "gene": "FDC1",
+   "n_binding_residues_lost": 11,
+   "n_binding_residues_total": 11,
+   "native_residues": 53
+  },
+  {
+   "LOF_called": true,
+   "allele": "c.460C>T p.Q154* -> 153 aa",
+   "fraction_retained": 0.304,
+   "gene": "FDC1",
+   "n_binding_residues_lost": 11,
+   "n_binding_residues_total": 11,
+   "native_residues": 153
+  },
+  {
+   "LOF_called": true,
+   "allele": "c.460C>T p.Q154*; c.501dupA p.K167fs -> 153 aa",
+   "fraction_retained": 0.304,
+   "gene": "FDC1",
+   "n_binding_residues_lost": 11,
+   "n_binding_residues_total": 11,
+   "native_residues": 153
+  },
+  {
+   "LOF_called": true,
+   "allele": "c.501dupA p.K167fs -> 169 aa",
+   "fraction_retained": 0.33,
+   "gene": "FDC1",
+   "n_binding_residues_lost": 11,
+   "n_binding_residues_total": 11,
+   "native_residues": 166
+  },
+  {
+   "LOF_called": true,
+   "allele": "c.864delA p.G288fs -> 305 aa",
+   "fraction_retained": 0.571,
+   "gene": "FDC1",
+   "n_binding_residues_lost": 1,
+   "n_binding_residues_total": 11,
+   "native_residues": 287
+  },
+  {
+   "LOF_called": true,
+   "allele": "c.925A>T p.R309* -> 308 aa",
+   "fraction_retained": 0.612,
+   "gene": "FDC1",
+   "n_binding_residues_lost": 1,
+   "n_binding_residues_total": 11,
+   "native_residues": 308
+  },
+  {
+   "LOF_called": false,
+   "allele": "p.W497*",
+   "fraction_retained": 0.986,
+   "gene": "FDC1",
+   "n_binding_residues_lost": 0,
+   "n_binding_residues_total": 11,
+   "native_residues": 496
+  },
+  {
+   "LOF_called": false,
+   "allele": "p.Y500*",
+   "fraction_retained": 0.992,
+   "gene": "FDC1",
+   "n_binding_residues_lost": 0,
+   "n_binding_residues_total": 11,
+   "native_residues": 499
+  },
+  {
+   "LOF_called": true,
+   "allele": "c.294T>G p.Y98* -> 97 aa",
+   "fraction_retained": 0.401,
+   "gene": "PAD1",
+   "n_binding_residues_lost": 7,
+   "n_binding_residues_total": 11,
+   "native_residues": 97
+  },
+  {
+   "LOF_called": true,
+   "allele": "c.305G>A p.W102* -> 101 aa",
+   "fraction_retained": 0.417,
+   "gene": "PAD1",
+   "n_binding_residues_lost": 7,
+   "n_binding_residues_total": 11,
+   "native_residues": 101
+  },
+  {
+   "LOF_called": true,
+   "allele": "c.306G>A p.W102* -> 101 aa",
+   "fraction_retained": 0.417,
+   "gene": "PAD1",
+   "n_binding_residues_lost": 7,
+   "n_binding_residues_total": 11,
+   "native_residues": 101
+  }
+ ]
+}

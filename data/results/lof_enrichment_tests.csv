@@ -1,0 +1,4 @@
+test,a_POFneg,a_POFpos,b_POFneg,b_POFpos,odds_ratio,fisher_p,chi2,chi2_p
+Domesticated beverage vs Wild+Wine+Bioethanol,77.0,49.0,2.0,33.0,25.928571428571427,1.1366842164352021e-09,,
+Beer (Gallone)+Ale vs Wild+Wine,62.0,41.0,2.0,28.0,21.170731707317074,6.72840777567895e-08,,
+"chi-square, all groups x POF (11 df)",,,,,,,44.93112352981781,4.98938243456465e-06
